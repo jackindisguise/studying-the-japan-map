@@ -1,0 +1,2400 @@
+{{sticky header}}{{Table alignment}}
+[[File:2025 Japan Census population prefectures.svg|thumb|250px|2025年（令和7年）[[国勢調査 (日本)|国勢調査]]における都道府県別人口階級図]]
+[[File:2025-2020 Japan Census population change prefectures.svg|thumb|200px|2025年の2020年（令和2年）比人口増加率。増加したのは[[東京都]]のみで、46道府県では減少した。[[秋田県]]、[[青森県]]、[[岩手県]]、[[山形県]]、[[高知県]]など11県では6%を超える減少率となった。]]
+'''都道府県の人口一覧'''（とどうふけんのじんこういちらん）は、[[日本]]の47[[都道府県]]を、[[総務省]][[統計局]]発表の[[国勢調査 (日本)|国勢調査]]等の結果発表に基づいて、[[人口]]の多い順に並べたものである。単位は「人」。
+
+{{For2|[[20世紀]]以前の都道府県別人口 | 過去の都道府県の人口一覧 }}
+
+== 人口増減率の推移 ==
+[[国立社会保障・人口問題研究所]]による、都道府県別の人口増減率推移は以下の通り。
+
+{{Wide image|Population change rate of Japan East.svg|500|東日本の都道府県別人口増加率（%）}}
+{{Wide image|Population change rate of Japan West.svg|500|西日本の都道府県別人口増加率（%）}}
+
+== 2025年（令和7年）までの国勢調査 ==
+最新の結果である2025年（令和7年）[[国勢調査 (日本)|国勢調査]]の結果に基づいて、[[都道府県]]を[[人口]]の多い順に並べた。結果は、比較対象として、国勢調査の第一回の調査である1920年（大正9年）から25年後ごとの数値と2005年（平成17年）以降の数値を付記する。ただし1945年（昭和20年）の人口は、11月1日に実施された人口調査による。
+{{-}}
+* この表の順位は2025年（令和7年）国勢調査による都道府県の人口数が多い順に並んでいるが、それ以外の年の順位を知りたいときは、各項目名にあるボタン（◆）をクリックすることで得られる。[1]
+* 左の数字が2025年（令和7年）国勢調査による都道府県の順位。
+{{columns-list|9em|plainlist=1|
+*{{Legend|#9cf|100万人未満}}
+*{{Legend|#ccf|100-125万人}}
+*{{Legend|#cff|125-150万人}}
+*{{Legend|#cfc|150-200万人}}
+*{{Legend|#ffc|200-300万人}}
+*{{Legend|#fcc|300-500万人}}
+*{{Legend|#f96|500-750万人}}
+*{{Legend|#f63|750-1000万人}}
+*{{Legend|#f00|1000万人以上}}
+}}
+{{sort under}}
+{| class="wikitable sortable sort-under sticky-header col2center" style="text-align:right; font-size:80%"
+!{{縦書き|height=3em|順位}}!!style="white-space:nowrap"|都道府県!![[2025年]]<br>（令和7年）!![[2020年]]<br>（令和2年）!![[2015年]]<br>（平成27年）!![[2010年]]<br>（平成22年）!![[2005年]]<br>（平成17年）!![[1995年]]<br>（平成7年）!![[1970年]]<br>（昭和45年）!![[1945年]]<br>（昭和20年）!![[1920年]]<br>（大正9年）
+|- style="background-color:#ff6"
+!{{0}}
+|全国
+|style="font-size:larger"|122,972,528||126,146,099||127,094,745||128,057,352||127,767,994||125,570,246||104,665,171||71,998,104||55,963,053
+|- style="background-color:#f00"
+!1
+|{{Sort|13|{{flagdeco|東京都|size=30px}}<br/> [[東京都]]}}
+|style="font-size:larger"|14,236,627||14,047,594||13,515,271||13,159,388||12,576,601||11,773,605||11,408,071||style="background-color:#fcc"|3,488,284||style="background-color:#fcc"|3,699,428
+|- style="background-color:#f63"
+!2
+|{{Sort|14|{{flagdeco|神奈川県|size=30px}}<br/> [[神奈川県]]}}
+|style="font-size:larger"|9,193,922||9,237,337||9,126,214||9,048,331||8,791,597||8,245,900||style="background-color:#f96"|5,472,247||style="background-color:#cfc"|1,865,667||style="background-color:#cff"|1,323,390
+|- style="background-color:#f63"
+!3
+|{{Sort|27|{{flagdeco|大阪府|size=30px}}<br/> [[大阪府]]}}
+|style="font-size:larger"|8,759,312||8,837,685||8,839,469||8,865,245||8,817,166||8,797,268||7,620,480||style="background-color:#ffc"|2,800,958||style="background-color:#ffc"|2,587,847
+|- style="background-color:#f96"
+!4
+|{{Sort|23|{{flagdeco|愛知県|size=30px}}<br/> [[愛知県]]}}
+|style="font-size:larger"|7,448,043||style="background-color:#f63"|7,542,415||style="background-color:#f96"|7,483,128||style="background-color:#f96"|7,410,719||style="background-color:#f96"|7,254,704||style="background-color:#f96"|6,868,336||style="background-color:#f96"|5,386,163||style="background-color:#ffc"|2,857,851||style="background-color:#ffc"|2,089,762
+|- style="background-color:#f96"
+!5
+|{{Sort|11|{{flagdeco|埼玉県|size=30px}}<br/> [[埼玉県]]}}
+|style="font-size:larger"|7,287,325||7,344,765||7,266,534||7,194,556||7,054,243||6,759,311||style="background-color:#fcc"|3,866,472||style="background-color:#ffc"|2,047,261||style="background-color:#cff"|1,319,533
+|-style="background-color:#f96"
+!6
+|{{Sort|12|{{flagdeco|千葉県|size=30px}}<br/> [[千葉県]]}}
+|style="font-size:larger"|6,257,225||6,284,480||6,222,666||6,216,289||6,056,462||style="background-color:#f96"|5,797,782||style="background-color:#fcc"|3,366,624||style="background-color:#cfc"|1,966,862||style="background-color:#cff"|1,336,155
+|- style="background-color:#f96"
+!7
+|{{Sort|28|{{flagdeco|兵庫県|size=30px}}<br/> [[兵庫県]]}}
+|style="font-size:larger"|5,317,792||5,465,002||5,534,800||5,588,133||5,590,601||5,401,877||style="background-color:#fcc"|4,667,928||style="background-color:#ffc"|2,821,892||style="background-color:#ffc"|2,301,799
+|- style="background-color:#f96"
+!8
+|{{Sort|40|{{flagdeco|福岡県|size=30px}}<br/> [[福岡県]]}}
+|style="font-size:larger"|5,077,785||5,135,214||5,101,556||5,071,968||5,049,908||style="background-color:#fcc"|4,933,393||style="background-color:#fcc"|4,027,416||style="background-color:#ffc"|2,746,855||style="background-color:#ffc"|2,188,249
+|- style="background-color:#fcc"
+!9
+|{{Sort|01|{{flagdeco|北海道|size=30px}}<br/> [[北海道]]}}
+|style="font-size:larger"|4,980,272||style="background-color:#f96"|5,224,614||style="background-color:#f96"|5,381,733||style="background-color:#f96"|5,506,419||style="background-color:#f96"|5,627,737||style="background-color:#f96"|5,692,321||style="background-color:#f96"|5,184,287||style="background-color:#fcc"|3,518,389||style="background-color:#ffc"|2,359,183
+|- style="background-color:#fcc"
+!10
+|{{Sort|22|{{flagdeco|静岡県|size=30px}}<br/> [[静岡県]]}}
+|style="font-size:larger"|3,465,667||3,633,202||3,700,305||3,765,007||3,792,377||3,737,689||3,089,895||style="background-color:#ffc"|2,220,358||style="background-color:#cfc"|1,550,387
+|- style="background-color:#ffc"
+!11
+|{{Sort|08|{{flagdeco|茨城県|size=30px}}<br/> [[茨城県]]}}
+|style="font-size:larger"|2,789,856||2,867,009||2,916,976||2,969,770||2,975,167||2,955,530||2,143,551||style="background-color:#cfc"|1,944,344||style="background-color:#cff"|1,350,400
+|- style="background-color:#ffc"
+!12
+|{{Sort|34|{{flagdeco|広島県|size=30px}}<br/> [[広島県]]}}
+|style="font-size:larger"|2,682,786||2,799,702||2,843,990||2,860,750||2,876,642||2,881,748||2,436,135||style="background-color:#cfc"|1,885,471||style="background-color:#cfc"|1,541,905
+|- style="background-color:#ffc"
+!13
+|{{Sort|26|{{flagdeco|京都府|size=30px}}<br/> [[京都府]]}}
+|style="font-size:larger"|2,500,173||2,578,087||2,610,353||2,636,092||2,647,660||2,629,592||2,250,087||style="background-color:#cfc"|1,603,796||style="background-color:#cff"|1,287,147
+|- style="background-color:#ffc"
+!14
+|{{Sort|04|{{flagdeco|宮城県|size=30px}}<br/> [[宮城県]]}}
+|style="font-size:larger"|2,225,414||2,301,996||2,333,899||2,348,165||2,360,218||2,328,739||style="background-color:#cfc"|1,819,223||style="background-color:#cff"|1,462,254||style="background-color:#9cf"|961,768
+|- style="background-color:#ffc"
+!15
+|{{Sort|15|{{flagdeco|新潟県|size=30px}}<br/> [[新潟県]]}}
+|style="font-size:larger"|2,067,144||2,201,272||2,304,264||2,374,450||2,431,459||2,488,364||2,360,982||2,389,653||style="background-color:#cfc"|1,776,474
+|- style="background-color:#cfc"
+!16
+|{{Sort|20|{{flagdeco|長野県|size=30px}}<br/> [[長野県]]}}
+|style="font-size:larger"|1,953,866||style="background-color:#ffc"|2,048,011||style="background-color:#ffc"|2,098,804||style="background-color:#ffc"|2,152,449||style="background-color:#ffc"|2,196,114||style="background-color:#ffc"|2,193,984|||1,956,917||2,121,050||1,562,722
+|- style="background-color:#cfc"
+!17
+|{{Sort|21|{{flagdeco|岐阜県|size=30px}}<br/> [[岐阜県]]}}
+|style="font-size:larger"|1,889,576||1,978,742||style="background-color:#ffc"|2,031,903||style="background-color:#ffc"|2,080,773||style="background-color:#ffc"|2,107,226||style="background-color:#ffc"|2,100,315||1,758,954||1,518,649||style="background-color:#ccf"|1,070,407
+|- style="background-color:#cfc"
+!18
+|{{Sort|10|{{flagdeco|群馬県}}<br /> [[群馬県]]}}
+|style="font-size:larger"|1,865,934||1,939,110||1,973,115||style="background-color:#ffc"|2,008,068||style="background-color:#ffc"|2,024,135||style="background-color:#ffc"|2,003,540||style="background-color:#cfc"|1,658,909||style="background-color:#cfc"|1,546,081||style="background-color:#ccf"|1,052,610
+|- style="background-color:#cfc"
+!19
+|{{Sort|09|{{flagdeco|栃木県}}<br /> [[栃木県]]}}
+|style="font-size:larger"|1,863,329||1,933,146||1,974,255||style="background-color:#ffc"|2,007,683||style="background-color:#ffc"|2,016,631||style="background-color:#cfc"|1,984,390||style="background-color:#cfc"|1,580,021||style="background-color:#cfc"|1,546,355||style="background-color:#ccf"|1,046,479
+|- style="background-color:#cfc"
+!20
+|{{Sort|33|{{flagdeco|岡山県|size=30px}}<br/> [[岡山県]]}}
+|style="font-size:larger"|1,807,160||1,888,432||1,921,525||1,945,276||1,957,264||1,950,750||1,707,026||1,564,626||style="background-color:#ccf"|1,217,698
+|- style="background-color:#cfc"
+!21
+|{{Sort|07|{{flagdeco|福島県|size=30px}}<br/> [[福島県]]}}
+|style="font-size:larger"|1,710,242||1,833,152||1,914,039||style="background-color:#ffc"|2,029,064||style="background-color:#ffc"|2,091,319||style="background-color:#ffc"|2,133,592||style="background-color:#cfc"|1,946,077||style="background-color:#cfc"|1,957,356||style="background-color:#cff"|1,362,750
+|- style="background-color:#cfc"
+!22
+|{{Sort|24|{{flagdeco|三重県|size=30px}}<br/> [[三重県]]}}
+|style="font-size:larger"|1,693,225||1,770,254||1,815,865||1,854,724||1,866,963||1,841,358||1,543,083||style="background-color:#cff"|1,394,286||style="background-color:#ccf"|1,069,270
+|- style="background-color:#cfc"
+!23
+|{{Sort|43|{{flagdeco|熊本県|size=30px}}<br/> [[熊本県]]}}
+|style="font-size:larger"|1,677,302||1,738,301||1,786,170||1,817,426||1,842,233||1,859,793||1,700,229||1,556,490||style="background-color:#ccf"|1,233,233
+|- style="background-color:#cfc"
+!24
+|{{Sort|46|{{flagdeco|鹿児島県|size=30px}}<br/> [[鹿児島県]]}}
+|style="font-size:larger"|1,511,783||1,588,256||1,648,177||1,706,242||1,753,179||1,794,224||1,729,150||1,538,466||style="background-color:#cff"|1,415,582
+|- style="background-color:#cff"
+!25
+|{{Sort|47|{{flagdeco|沖縄県|size=30px}}<br/> [[沖縄県]]}}
+|style="font-size:larger"|1,466,548||1,467,480||1,433,566||1,392,818||1,361,594||1,273,440||style="background-color:#9cf"|945,111||style="background-color:#fff"|- <ref group="注"> [[沖縄県]]が調査されていない。1945年（昭和20年）11月1日現在の各地の推定人口は、沖縄県（全域）: 30万人、[[鹿児島県]][[大島郡 (鹿児島県)|大島郡]]: 18万人、[[東京都]][[小笠原島]]: 2人、[[北海道]][[千島列島|千島]]・[[北方地域|北方領土]]: 1万6400人、[[樺太]]（全域）: 32万5000人、合計82万1402人とある。</ref>|| style="background-color:#9cf" |571,572
+|- style="background-color:#cff"
+!26
+|{{Sort|25|{{flagdeco|滋賀県|size=30px}}<br/> [[滋賀県]]}}
+|style="font-size:larger"|1,392,008||1,413,610||1,412,916||1,410,777||1,380,361||1,287,005||style="background-color:#9cf"|889,768||style="background-color:#9cf"|860,911||style="background-color:#9cf"|651,050
+|- style="background-color:#cff"
+!27
+|{{Sort|29|{{flagdeco|奈良県}}<br /> [[奈良県]]}}
+|style="font-size:larger"|1,268,181||1,324,473||1,364,316||1,400,728||1,421,310||1,430,862||style="background-color:#9cf"|930,160||style="background-color:#9cf"|779,685||style="background-color:#9cf"|564,607
+|- style="background-color:#cff"
+!28
+|{{Sort|35|{{flagdeco|山口県|size=30px}}<br/> [[山口県]]}}
+|style="font-size:larger"|1,262,770||1,342,059||1,404,729||1,451,338||1,492,606||style="background-color:#cfc"|1,555,543||style="background-color:#cfc"|1,511,448||1,356,491||style="background-color:#ccf"|1,041,013
+|- style="background-color:#cff"
+!29
+|{{Sort|38|{{flagdeco|愛媛県|size=30px}}<br/> [[愛媛県]]}}
+|style="font-size:larger"|1,259,907||1,334,841||1,385,262||1,431,493||1,467,815||style="background-color:#cfc"|1,506,700||1,418,124||1,361,484||style="background-color:#ccf"|1,046,720
+|- style="background-color:#ccf"
+!30
+|{{Sort|42|{{flagdeco|長崎県}}<br /> [[長崎県]]}}
+|style="font-size:larger"|1,232,040||style="background-color:#cff"|1,312,317||style="background-color:#cff"|1,377,187||style="background-color:#cff"|1,426,779||style="background-color:#cff"|1,478,632||style="background-color:#cfc"|1,544,934||style="background-color:#cfc"|1,570,245||1,318,589||1,136,182
+|- style="background-color:#ccf"
+!31
+|{{Sort|02|{{flagdeco|青森県|size=30px}}<br/> [[青森県]]}}
+|style="font-size:larger"|1,139,461||1,237,984||style="background-color:#cff"|1,308,265||style="background-color:#cff"|1,373,339||style="background-color:#cff"|1,436,657||style="background-color:#cff"|1,481,663||style="background-color:#cff"|1,427,520||1,083,250||style="background-color:#9cf"|756,454
+|- style="background-color:#ccf"
+!32
+|{{Sort|03|{{flagdeco|岩手県|size=30px}}<br/> [[岩手県]]}}
+|style="font-size:larger"|1,124,652||1,210,534||style="background-color:#cff"|1,279,594||style="background-color:#cff"|1,330,147||style="background-color:#cff"|1,385,041||style="background-color:#cff"|1,419,505||style="background-color:#cff"|1,371,383||1,227,789||style="background-color:#9cf"|845,540
+|- style="background-color:#ccf"
+!33
+|{{Sort|17|{{flagdeco|石川県}}<br /> [[石川県]]}}
+|style="font-size:larger"|1,086,596||1,132,526||1,154,008||1,169,788||1,174,026||1,180,068||1,002,420||style="background-color:#9cf"|887,510||style="background-color:#9cf"|747,360
+|- style="background-color:#ccf"
+!34
+|{{Sort|44|{{flagdeco|大分県}}<br /> [[大分県]]}}
+|style="font-size:larger"|1,076,353||1,123,852||1,166,338||1,196,529||1,209,571||1,231,306||1,155,566||1,124,513||style="background-color:#9cf"|860,282
+|- style="background-color:#ccf"
+!35
+|{{Sort|45|{{flagdeco|宮崎県}}<br /> [[宮崎県]]}}
+|style="font-size:larger"|1,017,628||1,069,576||1,104,069||1,135,233||1,153,042||1,175,819||1,051,105||style="background-color:#9cf"|913,687||style="background-color:#9cf"|651,097
+|- style="background-color:#9cf"
+!36
+|{{Sort|06|{{flagdeco|山形県}}<br /> [[山形県]]}}
+|style="font-size:larger"|992,297||style="background-color:#ccf"|1,068,027||style="background-color:#ccf"|1,123,891||style="background-color:#ccf"|1,168,924||style="background-color:#ccf"|1,216,181||style="background-color:#cff"|1,256,958||style="background-color:#ccf"|1,225,618||style="background-color:#cff"|1,326,350||style="background-color:#9cf"|968,925
+|- style="background-color:#9cf"
+!37
+|{{Sort|16|{{flagdeco|富山県|size=30px}}<br/> [[富山県]]}}
+|style="font-size:larger"|982,147||style="background-color:#ccf"|1,034,814||style="background-color:#ccf"|1,066,328||style="background-color:#ccf"|1,093,247||style="background-color:#ccf"|1,111,729||style="background-color:#ccf"|1,123,125||style="background-color:#ccf"|1,029,695||953,834||724,276
+|- style="background-color:#9cf"
+!38
+|{{Sort|37|{{flagdeco|香川県|size=30px}}<br/> [[香川県]]}}
+|style="font-size:larger"|906,828||950,244||976,263||995,842||style="background-color:#ccf"|1,012,400||style="background-color:#ccf"|1,027,006||style="background-color:#9cf"|907,897||style="background-color:#9cf"|863,700||style="background-color:#9cf"|677,852
+|- style="background-color:#9cf"
+!39
+|{{Sort|05|{{flagdeco|秋田県|size=30px}}<br/> [[秋田県]]}}
+|style="font-size:larger"|881,470||959,502||style="background-color:#ccf"|1,023,119||style="background-color:#ccf"|1,085,997||style="background-color:#ccf"|1,145,501||style="background-color:#ccf"|1,213,667||style="background-color:#ccf"|1,241,376||style="background-color:#ccf"|1,211,871||898,537
+|- style="background-color:#9cf"
+!40
+|{{Sort|30|{{flagdeco|和歌山県|size=30px}}<br/> [[和歌山県]]}}
+|style="font-size:larger"|863,757||922,584||963,579||style="background-color:#ccf"|1,002,198||style="background-color:#ccf"|1,035,969||style="background-color:#ccf"|1,080,435||style="background-color:#ccf"|1,042,736||style="background-color:#9cf"|936,006||style="background-color:#9cf"|750,411
+|- style="background-color:#9cf"
+!41
+|{{Sort|41|{{flagdeco|佐賀県}}<br /> [[佐賀県]]}}
+|style="font-size:larger"|780,675||811,442||832,832||849,788||866,369||884,316||838,468||830,431||673,895
+|- style="background-color:#9cf"
+!42
+|{{Sort|19|{{flagdeco|山梨県}}<br /> [[山梨県]]}}
+|style="font-size:larger"|779,276||809,974||834,930||863,075||884,515||881,996||762,029||839,057||583,453
+|- style="background-color:#9cf"
+!43
+|{{Sort|18|{{flagdeco|福井県|size=30px}}<br/> [[福井県]]}}
+|style="font-size:larger"|728,588||766,863||786,740||806,314||821,592||826,996||744,230||724,856||599,155
+|- style="background-color:#9cf"
+!44
+|{{Sort|36|{{flagdeco|徳島県|size=30px}}<br/> [[徳島県]]}}
+|style="font-size:larger"|674,790||719,559||755,733||785,491||809,950||832,427||791,111||835,763||670,212
+|- style="background-color:#9cf"
+!45
+|{{Sort|39|{{flagdeco|高知県|size=30px}}<br/> [[高知県]]}}
+|style="font-size:larger"|642,836||691,527||728,276||764,456||796,292||816,704||786,882||775,578||670,895
+|- style="background-color:#9cf"
+!46
+|{{Sort|32|{{flagdeco|島根県|size=30px}}<br/> [[島根県]]}}
+|style="font-size:larger"|628,887||671,126||694,352||717,397||742,223||771,441||773,575||860,275||714,712
+|- style="background-color:#9cf"
+!47
+|{{Sort|31|{{flagdeco|鳥取県|size=30px}}<br/> [[鳥取県]]}}
+|style="font-size:larger"|523,073||553,407||573,441||588,667||607,012||614,929||568,777||563,220||454,675
+|}
+* 出典：[https://www.stat.go.jp/data/kokusei/2025/kekka/pdf/outline_01.pdf 令和7年国勢調査 人口等基本集計結果 結果の概要] 表Ⅰ-2-1 都道府県別人口，人口増減及び人口密度（2015 年〜2025 年）  より
+*: （参考）2020年（令和2年）10月1日時点での[[在外日本人|海外在留日本人]]数：1,357,724人<ref>{{Cite web|和書|url=https://www.mofa.go.jp/mofaj/files/100293778.xlsx|title=海外在留邦人数調査統計 令和4年版（令和3年（2021年）10月1日現在）|work=|date=|publisher=外務省領事局政策課|accessdate=2022-03-25|format=XLS|archiveurl=|archivedate=|url-status=live}}海外在留邦人数推計推移（各年10月1日現在）のシートを参照。</ref>（[[外務省]]調べ）
+
+{{Module|日本人口}}
+
+== 推計人口（最新） ==
+* ここでの[[推計人口]]は、各都道府県が発表する値が元となっている。ただし、[[北海道]]は推計人口を発表していないので、代わりに[[住民基本台帳]]人口で表示されている。
+* 発表日は各都道府県で異なるため統計日に注意。<!--この表は自治体人口のテンプレートを用いているため、テンプレートを修正する時間の差によっても、統計日時が異なることがあります。-->
+* [[法定人口]]は、[[2025年]]（令和7年）国勢調査の人口。
+* [[推計人口]]による順位などは、各項目名にあるボタンを[[クリック (マウス)|クリック]]することで得られる。
+
+{| class="wikitable sortable  sticky-header col4right col5right col6right" style="font-size:90%"
+!{{縦書き|順位}}!!都道府県!![[全国地方公共団体コード|団体コード]]!!法定人口<br />（人）!!推計人口<br />（人）!!増減率<br />（%）!!推計人口の統計年月日
+|-
+!1
+|{{Flag2|東京都}}
+|13000-1
+|14,236,627
+|{{Formatnum:{{自治体人口/東京都|東京都}}}}
+|style="color:{{#ifexpr:{{自治体人口/東京都|東京都}}<14236627|red|green}};{{#ifexpr:(({{自治体人口/東京都|東京都}}/14236627-1)*100<2.5) and (({{自治体人口/東京都|東京都}}/14236627-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/東京都|東京都}}/14236627-1)*10000 round 0}}}}
+|{{自治体人口/東京都|date}}
+|-
+!2
+|{{Flag2|神奈川県}}
+|14000-7
+|9,193,922
+|{{Formatnum:{{自治体人口/神奈川県|神奈川県}}}}
+|style="color:{{#ifexpr:{{自治体人口/神奈川県|神奈川県}}<9193922|red|green}};{{#ifexpr:(({{自治体人口/神奈川県|神奈川県}}/9193922-1)*100<2.5) and (({{自治体人口/神奈川県|神奈川県}}/9193922-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/神奈川県|神奈川県}}/9193922-1)*10000 round 0}}}}
+|{{自治体人口/神奈川県|date}}
+|-
+!3
+|{{Flag2|大阪府}}
+|27000-8
+|8,759,312
+|{{Formatnum:{{自治体人口/大阪府|大阪府}}}}
+|style="color:{{#ifexpr:{{自治体人口/大阪府|大阪府}}<8759312|red|green}};{{#ifexpr:(({{自治体人口/大阪府|大阪府}}/8759312-1)*100<2.5) and (({{自治体人口/大阪府|大阪府}}/8759312-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/大阪府|大阪府}}/8759312-1)*10000 round 0}}}}
+|{{自治体人口/大阪府|date}}
+|-
+!4
+|{{Flag2|愛知県}}
+|23000-6
+|7,448,043
+|{{Formatnum:{{自治体人口/愛知県|愛知県}}}}
+|style="color:{{#ifexpr:{{自治体人口/愛知県|愛知県}}<7448043|red|green}};{{#ifexpr:(({{自治体人口/愛知県|愛知県}}/7448043-1)*100<2.5) and (({{自治体人口/愛知県|愛知県}}/7448043-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/愛知県|愛知県}}/7448043-1)*10000 round 0}}}}
+|{{自治体人口/愛知県|date}}
+|-
+!5
+|{{Flag2|埼玉県}}
+|11000-1
+|7,287,325
+|{{Formatnum:{{自治体人口/埼玉県|埼玉県}}}}
+|style="color:{{#ifexpr:{{自治体人口/埼玉県|埼玉県}}<7287325|red|green}};{{#ifexpr:(({{自治体人口/埼玉県|埼玉県}}/7287325-1)*100<2.5) and (({{自治体人口/埼玉県|埼玉県}}/7287325-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/埼玉県|埼玉県}}/7287325-1)*10000 round 0}}}}
+|{{自治体人口/埼玉県|date}}
+|-
+!6
+|{{Flag2|千葉県}}
+|12000-6
+|6,257,225
+|{{Formatnum:{{自治体人口/千葉県|千葉県}}}}
+|style="color:{{#ifexpr:{{自治体人口/千葉県|千葉県}}<6257225|red|green}};{{#ifexpr:(({{自治体人口/千葉県|千葉県}}/6257225-1)*100<2.5) and (({{自治体人口/千葉県|千葉県}}/6257225-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/千葉県|千葉県}}/6257225-1)*10000 round 0}}}}
+|{{自治体人口/千葉県|date}}
+|-
+!7
+|{{Flag2|兵庫県}}
+|28000-3
+|5,317,792
+|{{Formatnum:{{自治体人口/兵庫県|兵庫県}}}}
+|style="color:{{#ifexpr:{{自治体人口/兵庫県|兵庫県}}<5317792|red|green}};{{#ifexpr:(({{自治体人口/兵庫県|兵庫県}}/5317792-1)*100<2.5) and (({{自治体人口/兵庫県|兵庫県}}/5317792-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/兵庫県|兵庫県}}/5317792-1)*10000 round 0}}}}
+|{{自治体人口/兵庫県|date}}
+|-
+!8
+|{{Flag2|福岡県}}
+|40000-9
+|5,077,785
+|{{Formatnum:{{自治体人口/福岡県|福岡県}}}}
+|style="color:{{#ifexpr:{{自治体人口/福岡県|福岡県}}<5077785|red|green}};{{#ifexpr:(({{自治体人口/福岡県|福岡県}}/5077785-1)*100<2.5) and (({{自治体人口/福岡県|福岡県}}/5077785-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/福岡県|福岡県}}/5077785-1)*10000 round 0}}}}
+|{{自治体人口/福岡県|date}}
+|-
+!9
+|{{Flag2|北海道}}
+|01000-6
+|4,980,272
+|{{Formatnum:{{自治体人口/北海道|北海道}}}}
+|style="color:{{#ifexpr:{{自治体人口/北海道|北海道}}<4980272|red|green}};{{#ifexpr:(({{自治体人口/北海道|北海道}}/4980272-1)*100<2.5) and (({{自治体人口/北海道|北海道}}/4980272-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/北海道|北海道}}/4980272-1)*10000 round 0}}}}
+|{{自治体人口/北海道|date}}
+|-
+!10
+|{{Flag2|静岡県}}
+|22000-1
+|3,465,667
+|{{Formatnum:{{自治体人口/静岡県|静岡県}}}}
+|style="color:{{#ifexpr:{{自治体人口/静岡県|静岡県}}<3465667|red|green}};{{#ifexpr:(({{自治体人口/静岡県|静岡県}}/3465667-1)*100<2.5) and (({{自治体人口/静岡県|静岡県}}/3465667-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/静岡県|静岡県}}/3465667-1)*10000 round 0}}}}
+|{{自治体人口/静岡県|date}}
+|-
+!11
+|{{Flag2|茨城県}}
+|08000-4
+|2,789,856
+|{{Formatnum:{{自治体人口/茨城県|茨城県}}}}
+|style="color:{{#ifexpr:{{自治体人口/茨城県|茨城県}}<2789856|red|green}};{{#ifexpr:(({{自治体人口/茨城県|茨城県}}/2789856-1)*100<2.5) and (({{自治体人口/茨城県|茨城県}}/2789856-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/茨城県|茨城県}}/2789856-1)*10000 round 0}}}}
+|{{自治体人口/茨城県|date}}
+|-
+!12
+|{{Flag2|広島県}}
+|34000-6
+|2,682,786
+|{{Formatnum:{{自治体人口/広島県|広島県}}}}
+|style="color:{{#ifexpr:{{自治体人口/広島県|広島県}}<2682786|red|green}};{{#ifexpr:(({{自治体人口/広島県|広島県}}/2682786-1)*100<2.5) and (({{自治体人口/広島県|広島県}}/2682786-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/広島県|広島県}}/2682786-1)*10000 round 0}}}}
+|{{自治体人口/広島県|date}}
+|-
+!13
+|{{Flag2|京都府}}
+|26000-2
+|2,500,173
+|{{Formatnum:{{自治体人口/京都府|京都府}}}}
+|style="color:{{#ifexpr:{{自治体人口/京都府|京都府}}<2500173|red|green}};{{#ifexpr:(({{自治体人口/京都府|京都府}}/2500173-1)*100<2.5) and (({{自治体人口/京都府|京都府}}/2500173-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/京都府|京都府}}/2500173-1)*10000 round 0}}}}
+|{{自治体人口/京都府|date}}
+|-
+!14
+|{{Flag2|宮城県}}
+|04000-2
+|2,225,414
+|{{Formatnum:{{自治体人口/宮城県|宮城県}}}}
+|style="color:{{#ifexpr:{{自治体人口/宮城県|宮城県}}<2225414|red|green}};{{#ifexpr:(({{自治体人口/宮城県|宮城県}}/2225414-1)*100<2.5) and (({{自治体人口/宮城県|宮城県}}/2225414-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/宮城県|宮城県}}/2225414-1)*10000 round 0}}}}
+|{{自治体人口/宮城県|date}}
+|-
+!15
+|{{Flag2|新潟県}}
+|15000-2
+|2,067,144
+|{{Formatnum:{{自治体人口/新潟県|新潟県}}}}
+|style="color:{{#ifexpr:{{自治体人口/新潟県|新潟県}}<2067144|red|green}};{{#ifexpr:(({{自治体人口/新潟県|新潟県}}/2067144-1)*100<2.5) and (({{自治体人口/新潟県|新潟県}}/2067144-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/新潟県|新潟県}}/2067144-1)*10000 round 0}}}}
+|{{自治体人口/新潟県|date}}
+|-
+!16
+|{{Flag2|長野県}}
+|20000-0
+|1,953,866
+|{{Formatnum:{{自治体人口/長野県|長野県}}}}
+|style="color:{{#ifexpr:{{自治体人口/長野県|長野県}}<1953866|red|green}};{{#ifexpr:(({{自治体人口/長野県|長野県}}/1953866-1)*100<2.5) and (({{自治体人口/長野県|長野県}}/1953866-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/長野県|長野県}}/1953866-1)*10000 round 0}}}}
+|{{自治体人口/長野県|date}}
+|-
+!17
+|{{Flag2|岐阜県}}
+|21000-5
+|1,889,576
+|{{Formatnum:{{自治体人口/岐阜県|岐阜県}}}}
+|style="color:{{#ifexpr:{{自治体人口/岐阜県|岐阜県}}<1889576|red|green}};{{#ifexpr:(({{自治体人口/岐阜県|岐阜県}}/1889576-1)*100<2.5) and (({{自治体人口/岐阜県|岐阜県}}/1889576-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/岐阜県|岐阜県}}/1889576-1)*10000 round 0}}}}
+|{{自治体人口/岐阜県|date}}
+|-
+!18
+|{{Flag2|群馬県}}
+|10000-5
+|1,865,934
+|{{Formatnum:{{自治体人口/群馬県|群馬県}}}}
+|style="color:{{#ifexpr:{{自治体人口/群馬県|群馬県}}<1865934|red|green}};{{#ifexpr:(({{自治体人口/群馬県|群馬県}}/1865934-1)*100<2.5) and (({{自治体人口/群馬県|群馬県}}/1865934-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/群馬県|群馬県}}/1865934-1)*10000 round 0}}}}
+|{{自治体人口/群馬県|date}}
+|-
+!19
+|{{Flag2|栃木県}}
+|09000-0
+|1,863,329
+|{{Formatnum:{{自治体人口/栃木県|栃木県}}}}
+|style="color:{{#ifexpr:{{自治体人口/栃木県|栃木県}}<1863329|red|green}};{{#ifexpr:(({{自治体人口/栃木県|栃木県}}/1863329-1)*100<2.5) and (({{自治体人口/栃木県|栃木県}}/1863329-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/栃木県|栃木県}}/1863329-1)*10000 round 0}}}}
+|{{自治体人口/栃木県|date}}
+|-
+!20
+|{{Flag2|岡山県}}
+|33000-1
+|1,807,160
+|{{Formatnum:{{自治体人口/岡山県|岡山県}}}}
+|style="color:{{#ifexpr:{{自治体人口/岡山県|岡山県}}<1807160|red|green}};{{#ifexpr:(({{自治体人口/岡山県|岡山県}}/1807160-1)*100<2.5) and (({{自治体人口/岡山県|岡山県}}/1807160-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/岡山県|岡山県}}/1807160-1)*10000 round 0}}}}
+|{{自治体人口/岡山県|date}}
+|-
+!21
+|{{Flag2|福島県}}
+|07000-9
+|1,710,242
+|{{Formatnum:{{自治体人口/福島県|福島県}}}}
+|style="color:{{#ifexpr:{{自治体人口/福島県|福島県}}<1710242|red|green}};{{#ifexpr:(({{自治体人口/福島県|福島県}}/1710242-1)*100<2.5) and (({{自治体人口/福島県|福島県}}/1710242-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/福島県|福島県}}/1710242-1)*10000 round 0}}}}
+|{{自治体人口/福島県|date}}
+|-
+!22
+|{{Flag2|三重県}}
+|24000-1
+|1,693,225
+|{{Formatnum:{{自治体人口/三重県|三重県}}}}
+|style="color:{{#ifexpr:{{自治体人口/三重県|三重県}}<1693225|red|green}};{{#ifexpr:(({{自治体人口/三重県|三重県}}/1693225-1)*100<2.5) and (({{自治体人口/三重県|三重県}}/1693225-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/三重県|三重県}}/1693225-1)*10000 round 0}}}}
+|{{自治体人口/三重県|date}}
+|-
+!23
+|{{Flag2|熊本県}}
+|43000-5
+|1,677,302
+|{{Formatnum:{{自治体人口/熊本県|熊本県}}}}
+|style="color:{{#ifexpr:{{自治体人口/熊本県|熊本県}}<1677302|red|green}};{{#ifexpr:(({{自治体人口/熊本県|熊本県}}/1677302-1)*100<2.5) and (({{自治体人口/熊本県|熊本県}}/1677302-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/熊本県|熊本県}}/1677302-1)*10000 round 0}}}}
+|{{自治体人口/熊本県|date}}
+|-
+!24
+|{{Flag2|鹿児島県}}
+|46000-1
+|1,511,783
+|{{Formatnum:{{自治体人口/鹿児島県|鹿児島県}}}}
+|style="color:{{#ifexpr:{{自治体人口/鹿児島県|鹿児島県}}<1511783|red|green}};{{#ifexpr:(({{自治体人口/鹿児島県|鹿児島県}}/1511783-1)*100<2.5) and (({{自治体人口/鹿児島県|鹿児島県}}/1511783-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/鹿児島県|鹿児島県}}/1511783-1)*10000 round 0}}}}
+|{{自治体人口/鹿児島県|date}}
+|-
+!25
+|{{Flag2|沖縄県}}
+|47000-7
+|1,466,548
+|{{Formatnum:{{自治体人口/沖縄県|沖縄県}}}}
+|style="color:{{#ifexpr:{{自治体人口/沖縄県|沖縄県}}<1466548|red|green}};{{#ifexpr:(({{自治体人口/沖縄県|沖縄県}}/1466548-1)*100<2.5) and (({{自治体人口/沖縄県|沖縄県}}/1466548-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/沖縄県|沖縄県}}/1466548-1)*10000 round 0}}}}
+|{{自治体人口/沖縄県|date}}
+|-
+!26
+|{{Flag2|滋賀県}}
+|25000-7
+|1,392,008
+|{{Formatnum:{{自治体人口/滋賀県|滋賀県}}}}
+|style="color:{{#ifexpr:{{自治体人口/滋賀県|滋賀県}}<1392008|red|green}};{{#ifexpr:(({{自治体人口/滋賀県|滋賀県}}/1392008-1)*100<2.5) and (({{自治体人口/滋賀県|滋賀県}}/1392008-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/滋賀県|滋賀県}}/1392008-1)*10000 round 0}}}}
+|{{自治体人口/滋賀県|date}}
+|-
+!27
+|{{Flag2|奈良県}}
+|29000-9
+|1,268,181
+|{{Formatnum:{{自治体人口/奈良県|奈良県}}}}
+|style="color:{{#ifexpr:{{自治体人口/奈良県|奈良県}}<1268181|red|green}};{{#ifexpr:(({{自治体人口/奈良県|奈良県}}/1268181-1)*100<2.5) and (({{自治体人口/奈良県|奈良県}}/1268181-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/奈良県|奈良県}}/1268181-1)*10000 round 0}}}}
+|{{自治体人口/奈良県|date}}
+|-
+!28
+|{{Flag2|山口県}}
+|35000-1
+|1,262,770
+|{{Formatnum:{{自治体人口/山口県|山口県}}}}
+|style="color:{{#ifexpr:{{自治体人口/山口県|山口県}}<1262770|red|green}};{{#ifexpr:(({{自治体人口/山口県|山口県}}/1262770-1)*100<2.5) and (({{自治体人口/山口県|山口県}}/1262770-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/山口県|山口県}}/1262770-1)*10000 round 0}}}}
+|{{自治体人口/山口県|date}}
+|-
+!29
+|{{Flag2|愛媛県}}
+|38000-8
+|1,259,907
+|{{Formatnum:{{自治体人口/愛媛県|愛媛県}}}}
+|style="color:{{#ifexpr:{{自治体人口/愛媛県|愛媛県}}<1259907|red|green}};{{#ifexpr:(({{自治体人口/愛媛県|愛媛県}}/1259907-1)*100<2.5) and (({{自治体人口/愛媛県|愛媛県}}/1259907-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/愛媛県|愛媛県}}/1259907-1)*10000 round 0}}}}
+|{{自治体人口/愛媛県|date}}
+|-
+!30
+|{{Flag2|長崎県}}
+|42000-0
+|1,232,040
+|{{Formatnum:{{自治体人口/長崎県|長崎県}}}}
+|style="color:{{#ifexpr:{{自治体人口/長崎県|長崎県}}<1232040|red|green}};{{#ifexpr:(({{自治体人口/長崎県|長崎県}}/1232040-1)*100<2.5) and (({{自治体人口/長崎県|長崎県}}/1232040-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/長崎県|長崎県}}/1232040-1)*10000 round 0}}}}
+|{{自治体人口/長崎県|date}}
+|-
+!31
+|{{Flag2|青森県}}
+|02000-1
+|1,139,461
+|{{Formatnum:{{自治体人口/青森県|青森県}}}}
+|style="color:{{#ifexpr:{{自治体人口/青森県|青森県}}<1139461|red|green}};{{#ifexpr:(({{自治体人口/青森県|青森県}}/1139461-1)*100<2.5) and (({{自治体人口/青森県|青森県}}/1139461-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/青森県|青森県}}/1139461-1)*10000 round 0}}}}
+|{{自治体人口/青森県|date}}
+|-
+!32
+|{{Flag2|岩手県}}
+|03000-7
+|1,124,652
+|{{Formatnum:{{自治体人口/岩手県|岩手県}}}}
+|style="color:{{#ifexpr:{{自治体人口/岩手県|岩手県}}<1124652|red|green}};{{#ifexpr:(({{自治体人口/岩手県|岩手県}}/1124652-1)*100<2.5) and (({{自治体人口/岩手県|岩手県}}/1124652-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/岩手県|岩手県}}/1124652-1)*10000 round 0}}}}
+|{{自治体人口/岩手県|date}}
+|-
+!33
+|{{Flag2|石川県}}
+|17000-3
+|1,086,596
+|{{Formatnum:{{自治体人口/石川県|石川県}}}}
+|style="color:{{#ifexpr:{{自治体人口/石川県|石川県}}<1086596|red|green}};{{#ifexpr:(({{自治体人口/石川県|石川県}}/1086596-1)*100<2.5) and (({{自治体人口/石川県|石川県}}/1086596-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/石川県|石川県}}/1086596-1)*10000 round 0}}}}
+|{{自治体人口/石川県|date}}
+|-
+!34
+|{{Flag2|大分県}}
+|44000-1
+|1,076,353
+|{{Formatnum:{{自治体人口/大分県|大分県}}}}
+|style="color:{{#ifexpr:{{自治体人口/大分県|大分県}}<1076353|red|green}};{{#ifexpr:(({{自治体人口/大分県|大分県}}/1076353-1)*100<2.5) and (({{自治体人口/大分県|大分県}}/1076353-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/大分県|大分県}}/1076353-1)*10000 round 0}}}}
+|{{自治体人口/大分県|date}}
+|-
+!35
+|{{Flag2|宮崎県}}
+|45000-6
+|1,017,628
+|{{Formatnum:{{自治体人口/宮崎県|宮崎県}}}}
+|style="color:{{#ifexpr:{{自治体人口/宮崎県|宮崎県}}<1017628|red|green}};{{#ifexpr:(({{自治体人口/宮崎県|宮崎県}}/1017628-1)*100<2.5) and (({{自治体人口/宮崎県|宮崎県}}/1017628-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/宮崎県|宮崎県}}/1017628-1)*10000 round 0}}}}
+|{{自治体人口/宮崎県|date}}
+|-
+!36
+|{{Flag2|山形県}}
+|06000-3
+|992,297
+|{{Formatnum:{{自治体人口/山形県|山形県}}}}
+|style="color:{{#ifexpr:{{自治体人口/山形県|山形県}}<992297|red|green}};{{#ifexpr:(({{自治体人口/山形県|山形県}}/992297-1)*100<2.5) and (({{自治体人口/山形県|山形県}}/992297-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/山形県|山形県}}/992297-1)*10000 round 0}}}}
+|{{自治体人口/山形県|date}}
+|-
+!37
+|{{Flag2|富山県}}
+|16000-8
+|982,147
+|{{Formatnum:{{自治体人口/富山県|富山県}}}}
+|style="color:{{#ifexpr:{{自治体人口/富山県|富山県}}<982147|red|green}};{{#ifexpr:(({{自治体人口/富山県|富山県}}/982147-1)*100<2.5) and (({{自治体人口/富山県|富山県}}/982147-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/富山県|富山県}}/982147-1)*10000 round 0}}}}
+|{{自治体人口/富山県|date}}
+|-
+!38
+|{{Flag2|香川県}}
+|37000-2
+|906,828
+|{{Formatnum:{{自治体人口/香川県|香川県}}}}
+|style="color:{{#ifexpr:{{自治体人口/香川県|香川県}}<906828|red|green}};{{#ifexpr:(({{自治体人口/香川県|香川県}}/906828-1)*100<2.5) and (({{自治体人口/香川県|香川県}}/906828-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/香川県|香川県}}/906828-1)*10000 round 0}}}}
+|{{自治体人口/香川県|date}}
+|-
+!39
+|{{Flag2|秋田県}}
+|05000-8
+|881,470
+|{{Formatnum:{{自治体人口/秋田県|秋田県}}}}
+|style="color:{{#ifexpr:{{自治体人口/秋田県|秋田県}}<881470|red|green}};{{#ifexpr:(({{自治体人口/秋田県|秋田県}}/881470-1)*100<2.5) and (({{自治体人口/秋田県|秋田県}}/881470-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/秋田県|秋田県}}/881470-1)*10000 round 0}}}}
+|{{自治体人口/秋田県|date}}
+|-
+!40
+|{{Flag2|和歌山県}}
+|30000-4
+|863,757
+|{{Formatnum:{{自治体人口/和歌山県|和歌山県}}}}
+|style="color:{{#ifexpr:{{自治体人口/和歌山県|和歌山県}}<863757|red|green}};{{#ifexpr:(({{自治体人口/和歌山県|和歌山県}}/863757-1)*100<2.5) and (({{自治体人口/和歌山県|和歌山県}}/863757-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/和歌山県|和歌山県}}/863757-1)*10000 round 0}}}}
+|{{自治体人口/和歌山県|date}}
+|-
+!41
+|{{Flag2|佐賀県}}
+|41000-4
+|780,675
+|{{Formatnum:{{自治体人口/佐賀県|佐賀県}}}}
+|style="color:{{#ifexpr:{{自治体人口/佐賀県|佐賀県}}<780675|red|green}};{{#ifexpr:(({{自治体人口/佐賀県|佐賀県}}/780675-1)*100<2.5) and (({{自治体人口/佐賀県|佐賀県}}/780675-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/佐賀県|佐賀県}}/780675-1)*10000 round 0}}}}
+|{{自治体人口/佐賀県|date}}
+|-
+!42
+|{{Flag2|山梨県}}
+|19000-4
+|779,276
+|{{Formatnum:{{自治体人口/山梨県|山梨県}}}}
+|style="color:{{#ifexpr:{{自治体人口/山梨県|山梨県}}<779276|red|green}};{{#ifexpr:(({{自治体人口/山梨県|山梨県}}/779276-1)*100<2.5) and (({{自治体人口/山梨県|山梨県}}/779276-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/山梨県|山梨県}}/779276-1)*10000 round 0}}}}
+|{{自治体人口/山梨県|date}}
+|-
+!43
+|{{Flag2|福井県}}
+|18000-9
+|728,588
+|{{Formatnum:{{自治体人口/福井県|福井県}}}}
+|style="color:{{#ifexpr:{{自治体人口/福井県|福井県}}<728588|red|green}};{{#ifexpr:(({{自治体人口/福井県|福井県}}/728588-1)*100<2.5) and (({{自治体人口/福井県|福井県}}/728588-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/福井県|福井県}}/728588-1)*10000 round 0}}}}
+|{{自治体人口/福井県|date}}
+|-
+!44
+|{{Flag2|徳島県}}
+|36000-7
+|674,790
+|{{Formatnum:{{自治体人口/徳島県|徳島県}}}}
+|style="color:{{#ifexpr:{{自治体人口/徳島県|徳島県}}<674790|red|green}};{{#ifexpr:(({{自治体人口/徳島県|徳島県}}/674790-1)*100<2.5) and (({{自治体人口/徳島県|徳島県}}/674790-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/徳島県|徳島県}}/674790-1)*10000 round 0}}}}
+|{{自治体人口/徳島県|date}}
+|-
+!45
+|{{Flag2|高知県}}
+|39000-3
+|642,836
+|{{Formatnum:{{自治体人口/高知県|高知県}}}}
+|style="color:{{#ifexpr:{{自治体人口/高知県|高知県}}<642836|red|green}};{{#ifexpr:(({{自治体人口/高知県|高知県}}/642836-1)*100<2.5) and (({{自治体人口/高知県|高知県}}/642836-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/高知県|高知県}}/642836-1)*10000 round 0}}}}
+|{{自治体人口/高知県|date}}
+|-
+!46
+|{{Flag2|島根県}}
+|32000-5
+|628,887
+|{{Formatnum:{{自治体人口/島根県|島根県}}}}
+|style="color:{{#ifexpr:{{自治体人口/島根県|島根県}}<628887|red|green}};{{#ifexpr:(({{自治体人口/島根県|島根県}}/628887-1)*100<2.5) and (({{自治体人口/島根県|島根県}}/628887-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/島根県|島根県}}/628887-1)*10000 round 0}}}}
+|{{自治体人口/島根県|date}}
+|-
+!47
+|{{Flag2|鳥取県}}
+|31000-0
+|523,073
+|{{Formatnum:{{自治体人口/鳥取県|鳥取県}}}}
+|style="color:{{#ifexpr:{{自治体人口/鳥取県|鳥取県}}<523073|red|green}};{{#ifexpr:(({{自治体人口/鳥取県|鳥取県}}/523073-1)*100<2.5) and (({{自治体人口/鳥取県|鳥取県}}/523073-1)*100>-2.5)||font-weight:bold;}}"|{{Citypop/figure|{{#expr:({{自治体人口/鳥取県|鳥取県}}/523073-1)*10000 round 0}}}}
+|{{自治体人口/鳥取県|date}}
+|}
+
+== 年齢別人口 ==
+{{Wide image|File:Population ages of Japan, by prefecture.svg|800px|都道府県の年齢別人口(IPSS)}}
+
+<gallery mode="packed" widths="100" heights="80" caption="都道府県別人口ピラミッド（2020年）">
+Hokkaido prefecture population pyramid in 2020.svg|北海道
+Aomori prefecture population pyramid in 2020.svg|青森県
+Iwate prefecture population pyramid in 2020.svg|岩手県
+Miyagi prefecture population pyramid in 2020.svg|宮城県
+Akita prefecture population pyramid in 2020.svg|秋田県
+Yamagata prefecture population pyramid in 2020.svg|山形県
+Fukushima prefecture population pyramid in 2020.svg|福島県
+Ibraki prefecture population pyramid in 2020.svg|茨城県
+Tochigi prefecture population pyramid in 2020.svg|栃木県
+Gunma prefecture population pyramid in 2020.svg|群馬県
+Saitama prefecture population pyramid in 2020.svg|埼玉県
+Chiba prefecture population pyramid in 2020.svg|千葉県
+Tokyo prefecture population pyramid in 2020.svg|東京都
+Kanagawa prefecture population pyramid in 2020.svg|神奈川県 
+Niigata prefecture population pyramid in 2020.svg|新潟県
+Toyama prefecture population pyramid in 2020.svg|富山県
+Ishikawa prefecture population pyramid in 2020.svg|石川県
+Fukui prefecture population pyramid in 2020.svg|福井県
+Yamanashi prefecture population pyramid in 2020.svg|山梨県
+Nagano prefecture population pyramid in 2020.svg|長野県
+Gifu prefecture population pyramid in 2020.svg|岐阜県
+Shizuoka prefecture population pyramid in 2020.svg|静岡県
+Aichi prefecture population pyramid in 2020.svg|愛知県
+Mie prefecture population pyramid in 2020.svg|三重県
+Shiga prefecture population pyramid in 2020.svg|滋賀県
+Kyoto prefecture population pyramid in 2020.svg|京都府
+Osaka prefecture population pyramid in 2020.svg|大阪府
+Hyogo prefecture population pyramid in 2020.svg|兵庫県
+Nara prefecture population pyramid in 2020.svg|奈良県
+Wakayama prefecture population pyramid in 2020.svg|和歌山県
+Tottori prefecture population pyramid in 2020.svg|鳥取県
+Shimane prefecture population pyramid in 2020.svg|島根県 
+Okayama prefecture population pyramid in 2020.svg|岡山県
+Hiroshima population pyramid in 2020.svg|広島県
+Yamaguchi prefecture population pyramid in 2020.svg|山口県
+Tokushima prefecture population pyramid 2020.svg|徳島県
+Kagawa prefecture population pyramid 2020.svg|香川県
+Ehime prefecture population pyramid 2020.svg|愛媛県
+Kochi prefecture population pyramid in 2020.svg|高知県
+Fukuoka prefecture population pyramid in 2020.svg|福岡県
+Saga prefecture population pyramid in 2020.svg|佐賀県
+Nagasaki population pyramid in 2020.svg|長崎県
+Kumamoto prefecture population pyramid in 2020.svg|熊本県
+Oita prefecture population pyramid in 2020.svg|大分県
+Miyazaki prefecture population pyramid 2020.svg|宮崎県
+Kagoshima prefecture population pyramid 2020.svg|鹿児島県
+Okinawa prefecture population pyramid in 2020.svg|沖縄県
+</gallery>
+
+== 過去の推計人口の統計 ==
+基本的に年の人口は、各都道府県が発表する10月1日現在の推計人口であるが、推計人口を発表しない北海道については、直近の国勢調査の結果と9月末の人口住民基本台帳を基に算出している。なお、北海道の数値は''イタリック体''で示す。[[総務省]][[統計局]]発表の数値とは異なる。
+{{Flexbox start}}
+{{flex-item start|basis=17em}}
+=== 2018年（平成30年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2017年（平成29年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2653<sup>万</sup>3736
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1384<sup>万</sup>3403
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||917<sup>万</sup>9835
+|-
+|3||{{Flag2|大阪府}}||882<sup>万</sup>4566
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||753<sup>万</sup>9185
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||732<sup>万</sup>2645
+|- style="background-color:#fcc"
+|6||{{Flag2|千葉県}}||626<sup>万</sup>8585
+|-
+|7||{{Flag2|兵庫県}}||548<sup>万</sup>3450
+|-
+|8||{{Flag2|北海道}}||''531<sup>万</sup>0559''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||511<sup>万</sup>1494
+|-
+|10||{{Flag2|静岡県}}||365<sup>万</sup>6487
+|-
+|11||{{Flag2|茨城県}}||288<sup>万</sup>2943
+|-
+|12||{{Flag2|広島県}}||281<sup>万</sup>9962
+|-
+|13||{{Flag2|京都府}}||259<sup>万</sup>1779
+|-
+|14||{{Flag2|宮城県}}||231<sup>万</sup>3215
+|-
+|15||{{Flag2|新潟県}}||224<sup>万</sup>5057
+|-
+|16||{{Flag2|長野県}}||206<sup>万</sup>3865
+|-
+|17||{{Flag2|岐阜県}}||199<sup>万</sup>9406
+|-
+|18||{{Flag2|栃木県}}||195<sup>万</sup>2926
+|-
+|19||{{Flag2|群馬県}}||194<sup>万</sup>9440
+|-
+|20||{{Flag2|岡山県}}||189<sup>万</sup>9739
+|-
+|21||{{Flag2|福島県}}||186<sup>万</sup>2705
+|-
+|22||{{Flag2|三重県}}||179<sup>万</sup>0376
+|-
+|23||{{Flag2|熊本県}}||175<sup>万</sup>6442
+|-
+|24||{{Flag2|鹿児島県}}||161<sup>万</sup>3969
+|- style="background-color:#fcc"
+|25||{{Flag2|沖縄県}}||144<sup>万</sup>8101
+|-
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>2881
+|-
+|27||{{Flag2|山口県}}||136<sup>万</sup>8495
+|-
+|28||{{Flag2|愛媛県}}||135<sup>万</sup>1510
+|-
+|29||{{Flag2|長崎県}}||135<sup>万</sup>1249
+|-
+|30||{{Flag2|奈良県}}||134<sup>万</sup>0070
+|-
+|31||{{Flag2|青森県}}||126<sup>万</sup>2823
+|-
+|32||{{Flag2|岩手県}}||124<sup>万</sup>0522
+|-
+|33||{{Flag2|石川県}}||114<sup>万</sup>2965
+|-
+|34||{{Flag2|大分県}}||114<sup>万</sup>2943
+|-
+|35||{{Flag2|山形県}}||108<sup>万</sup>9806
+|-
+|36||{{Flag2|宮崎県}}||107<sup>万</sup>9727
+|-
+|37||{{Flag2|富山県}}||105<sup>万</sup>0246
+|-
+|38||{{Flag2|秋田県}}||98<sup>万</sup>0684
+|-
+|39||{{Flag2|香川県}}||96<sup>万</sup>1900
+|-
+|40||{{Flag2|和歌山県}}||93<sup>万</sup>4051
+|-
+|41||{{Flag2|佐賀県}}||81<sup>万</sup>9110
+|-
+|42||{{Flag2|山梨県}}||81<sup>万</sup>8391
+|-
+|43||{{Flag2|福井県}}||77<sup>万</sup>3731
+|-
+|44||{{Flag2|徳島県}}||73<sup>万</sup>6475
+|-
+|45||{{Flag2|高知県}}||70<sup>万</sup>5880
+|-
+|46||{{Flag2|島根県}}||67<sup>万</sup>9626
+|-
+|47||{{Flag2|鳥取県}}||56<sup>万</sup>0517
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2017年（平成29年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2016年（平成28年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2675<sup>万</sup>6698
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1374<sup>万</sup>2906
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||916<sup>万</sup>1139
+|-
+|3||{{Flag2|大阪府}}||883<sup>万</sup>1642
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||752<sup>万</sup>6911
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||730<sup>万</sup>7579
+|- style="background-color:#fcc"
+|6||{{Flag2|千葉県}}||625<sup>万</sup>5876
+|-
+|7||{{Flag2|兵庫県}}||550<sup>万</sup>2987
+|-
+|8||{{Flag2|北海道}}||''532<sup>万</sup>0523''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||511<sup>万</sup>0338
+|-
+|10||{{Flag2|静岡県}}||367<sup>万</sup>3401
+|-
+|11||{{Flag2|茨城県}}||289<sup>万</sup>6675
+|-
+|12||{{Flag2|広島県}}||283<sup>万</sup>0069
+|-
+|13||{{Flag2|京都府}}||259<sup>万</sup>9313
+|-
+|14||{{Flag2|宮城県}}||232<sup>万</sup>2024
+|-
+|15||{{Flag2|新潟県}}||226<sup>万</sup>6121
+|-
+|16||{{Flag2|長野県}}||207<sup>万</sup>6377
+|-
+|17||{{Flag2|岐阜県}}||201<sup>万</sup>0698
+|-
+|18||{{Flag2|栃木県}}||196<sup>万</sup>1963
+|-
+|19||{{Flag2|群馬県}}||195<sup>万</sup>8409
+|-
+|20||{{Flag2|岡山県}}||190<sup>万</sup>8447
+|-
+|21||{{Flag2|福島県}}||188<sup>万</sup>1382
+|-
+|22||{{Flag2|三重県}}||179<sup>万</sup>8886
+|-
+|23||{{Flag2|熊本県}}||176<sup>万</sup>5518
+|-
+|24||{{Flag2|鹿児島県}}||162<sup>万</sup>5796
+|- style="background-color:#fcc"
+|25||{{Flag2|沖縄県}}||144<sup>万</sup>3802
+|-
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>2956
+|-
+|27||{{Flag2|山口県}}||138<sup>万</sup>1584
+|-
+|28||{{Flag2|愛媛県}}||136<sup>万</sup>3907
+|-
+|29||{{Flag2|長崎県}}||135<sup>万</sup>3550
+|-
+|30||{{Flag2|奈良県}}||134<sup>万</sup>8257
+|-
+|31||{{Flag2|青森県}}||127<sup>万</sup>8581
+|-
+|32||{{Flag2|岩手県}}||125<sup>万</sup>4807
+|-
+|33||{{Flag2|大分県}}||115<sup>万</sup>1853
+|-
+|34||{{Flag2|石川県}}||114<sup>万</sup>7447
+|-
+|35||{{Flag2|山形県}}||110<sup>万</sup>1452
+|-
+|36||{{Flag2|宮崎県}}||108<sup>万</sup>8044
+|-
+|37||{{Flag2|富山県}}||105<sup>万</sup>5893
+|-
+|38||{{Flag2|秋田県}}||99<sup>万</sup>5374
+|-
+|39||{{Flag2|香川県}}||96<sup>万</sup>7640
+|-
+|40||{{Flag2|和歌山県}}||94<sup>万</sup>4320
+|-
+|41||{{Flag2|佐賀県}}||82<sup>万</sup>3620
+|-
+|42||{{Flag2|山梨県}}||82<sup>万</sup>3580
+|-
+|43||{{Flag2|福井県}}||77<sup>万</sup>8329
+|-
+|44||{{Flag2|徳島県}}||74<sup>万</sup>3356
+|-
+|45||{{Flag2|高知県}}||71<sup>万</sup>3465
+|-
+|46||{{Flag2|島根県}}||68<sup>万</sup>4668
+|-
+|47||{{Flag2|鳥取県}}||56<sup>万</sup>5233
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2016年（平成28年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2015年（平成27年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2696<sup>万</sup>5568
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1363<sup>万</sup>6222
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||914<sup>万</sup>5572
+|-
+|3||{{Flag2|大阪府}}||883<sup>万</sup>7812
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||750<sup>万</sup>7691
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||728<sup>万</sup>8081
+|- style="background-color:#fcc"
+|6||{{Flag2|千葉県}}||624<sup>万</sup>0575
+|-
+|7||{{Flag2|兵庫県}}||552<sup>万</sup>1205
+|-
+|8||{{Flag2|北海道}}||''535<sup>万</sup>2306''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||510<sup>万</sup>6707
+|-
+|10||{{Flag2|静岡県}}||368<sup>万</sup>6945
+|-
+|11||{{Flag2|茨城県}}||290<sup>万</sup>7262
+|-
+|12||{{Flag2|広島県}}||283<sup>万</sup>8494
+|-
+|13||{{Flag2|京都府}}||260<sup>万</sup>5731
+|-
+|14||{{Flag2|宮城県}}||232<sup>万</sup>9431
+|-
+|15||{{Flag2|新潟県}}||228<sup>万</sup>5856
+|-
+|16||{{Flag2|長野県}}||208<sup>万</sup>8162
+|-
+|17||{{Flag2|岐阜県}}||202<sup>万</sup>2785
+|-
+|18||{{Flag2|栃木県}}||196<sup>万</sup>8425
+|-
+|19||{{Flag2|群馬県}}||196<sup>万</sup>6381
+|-
+|20||{{Flag2|岡山県}}||191<sup>万</sup>5401
+|-
+|21||{{Flag2|福島県}}||190<sup>万</sup>0253
+|-
+|22||{{Flag2|三重県}}||180<sup>万</sup>7611
+|-
+|23||{{Flag2|熊本県}}||177<sup>万</sup>4538
+|-
+|24||{{Flag2|鹿児島県}}||163<sup>万</sup>7272
+|- style="background-color:#fcc"
+|25||{{Flag2|沖縄県}}||143<sup>万</sup>9913
+|- style="background-color:#fcc"
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>3079
+|-
+|27||{{Flag2|山口県}}||139<sup>万</sup>3904
+|-
+|28||{{Flag2|愛媛県}}||137<sup>万</sup>4881
+|-
+|29||{{Flag2|長崎県}}||136<sup>万</sup>6514
+|-
+|30||{{Flag2|奈良県}}||135<sup>万</sup>6950
+|-
+|31||{{Flag2|青森県}}||129<sup>万</sup>3681
+|-
+|32||{{Flag2|岩手県}}||126<sup>万</sup>8083
+|-
+|33||{{Flag2|大分県}}||115<sup>万</sup>9634
+|-
+|34||{{Flag2|石川県}}||115<sup>万</sup>0818
+|-
+|35||{{Flag2|山形県}}||111<sup>万</sup>3029
+|-
+|36||{{Flag2|宮崎県}}||109<sup>万</sup>5863
+|-
+|37||{{Flag2|富山県}}||106<sup>万</sup>1393
+|-
+|38||{{Flag2|秋田県}}||100<sup>万</sup>9659
+|-
+|39||{{Flag2|香川県}}||97<sup>万</sup>2156
+|-
+|40||{{Flag2|和歌山県}}||95<sup>万</sup>3924
+|-
+|41||{{Flag2|山梨県}}||82<sup>万</sup>9884
+|-
+|42||{{Flag2|佐賀県}}||82<sup>万</sup>8388
+|-
+|43||{{Flag2|福井県}}||78<sup>万</sup>2584
+|-
+|44||{{Flag2|徳島県}}||75<sup>万</sup>0210
+|-
+|45||{{Flag2|高知県}}||72<sup>万</sup>0907
+|-
+|46||{{Flag2|島根県}}||68<sup>万</sup>9817
+|-
+|47||{{Flag2|鳥取県}}||56<sup>万</sup>9579
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2015年（平成27年）===
+国勢調査による人口の修正が行われており、一概に比較できないため省略。
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2014年（平成26年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2013年（平成25年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2712<sup>万</sup>2097
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1337<sup>万</sup>8584
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||909<sup>万</sup>8984
+|-
+|3||{{Flag2|大阪府}}||885<sup>万</sup>0607
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||744<sup>万</sup>4513
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||723<sup>万</sup>7734
+|- style="background-color:#fcc"
+|6||{{Flag2|千葉県}}||619<sup>万</sup>7784
+|-
+|7||{{Flag2|兵庫県}}||554<sup>万</sup>1205
+|-
+|8||{{Flag2|北海道}}||''540<sup>万</sup>0025''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||509<sup>万</sup>2513
+|-
+|10||{{Flag2|静岡県}}||369<sup>万</sup>7651
+|-
+|11||{{Flag2|茨城県}}||292<sup>万</sup>1184
+|-
+|12||{{Flag2|広島県}}||283<sup>万</sup>3673
+|-
+|13||{{Flag2|京都府}}||261<sup>万</sup>3594
+|-
+|14||{{Flag2|宮城県}}||232<sup>万</sup>7993
+|-
+|15||{{Flag2|新潟県}}||231<sup>万</sup>3820
+|-
+|16||{{Flag2|長野県}}||210<sup>万</sup>8765
+|-
+|17||{{Flag2|岐阜県}}||204<sup>万</sup>1690
+|-
+|18||{{Flag2|栃木県}}||198<sup>万</sup>0960
+|-
+|19||{{Flag2|群馬県}}||197<sup>万</sup>7013
+|-
+|20||{{Flag2|福島県}}||193<sup>万</sup>6630
+|-
+|21||{{Flag2|岡山県}}||192<sup>万</sup>4556
+|-
+|22||{{Flag2|三重県}}||182<sup>万</sup>0491
+|-
+|23||{{Flag2|熊本県}}||179<sup>万</sup>4623
+|-
+|24||{{Flag2|鹿児島県}}||166<sup>万</sup>9110
+|- style="background-color:#fcc"
+|25||{{Flag2|沖縄県}}||142<sup>万</sup>2539
+|-
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>6500
+|-
+|27||{{Flag2|山口県}}||140<sup>万</sup>8938
+|-
+|28||{{Flag2|愛媛県}}||139<sup>万</sup>5609
+|-
+|29||{{Flag2|長崎県}}||138<sup>万</sup>5533
+|-
+|30||{{Flag2|奈良県}}||137<sup>万</sup>6466
+|-
+|31||{{Flag2|青森県}}||132<sup>万</sup>1895
+|-
+|32||{{Flag2|岩手県}}||128<sup>万</sup>4384
+|-
+|33||{{Flag2|大分県}}||117<sup>万</sup>1455
+|-
+|34||{{Flag2|石川県}}||115<sup>万</sup>5450
+|-
+|35||{{Flag2|山形県}}||113<sup>万</sup>0659
+|-
+|36||{{Flag2|宮崎県}}||111<sup>万</sup>4775
+|-
+|37||{{Flag2|富山県}}||107<sup>万</sup>0070
+|-
+|38||{{Flag2|秋田県}}||103<sup>万</sup>6861
+|-
+|39||{{Flag2|香川県}}||98<sup>万</sup>0936
+|-
+|40||{{Flag2|和歌山県}}||97<sup>万</sup>0903
+|-
+|41||{{Flag2|山梨県}}||84<sup>万</sup>0139
+|-
+|42||{{Flag2|佐賀県}}||83<sup>万</sup>5016
+|-
+|43||{{Flag2|福井県}}||78<sup>万</sup>9633
+|-
+|44||{{Flag2|徳島県}}||76<sup>万</sup>3873
+|-
+|45||{{Flag2|高知県}}||73<sup>万</sup>7761
+|-
+|46||{{Flag2|島根県}}||69<sup>万</sup>7015
+|-
+|47||{{Flag2|鳥取県}}||57<sup>万</sup>4022
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2013年（平成25年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2012年（平成24年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2733<sup>万</sup>1373
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1328<sup>万</sup>6735
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||908<sup>万</sup>1742
+|-
+|3||{{Flag2|大阪府}}||886<sup>万</sup>0208
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||743<sup>万</sup>4996
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||722<sup>万</sup>1806
+|-
+|6||{{Flag2|千葉県}}||619<sup>万</sup>2994
+|-
+|7||{{Flag2|兵庫県}}||555<sup>万</sup>6788
+|-
+|8||{{Flag2|北海道}}||''543<sup>万</sup>0909''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||509<sup>万</sup>0712
+|-
+|10||{{Flag2|静岡県}}||371<sup>万</sup>5901
+|-
+|11||{{Flag2|茨城県}}||293<sup>万</sup>3381
+|-
+|12||{{Flag2|広島県}}||284<sup>万</sup>0211
+|-
+|13||{{Flag2|京都府}}||262<sup>万</sup>0210
+|-
+|14||{{Flag2|新潟県}}||233<sup>万</sup>0797
+|- style="background-color:#fcc"
+|15||{{Flag2|宮城県}}||232<sup>万</sup>8143
+|-
+|16||{{Flag2|長野県}}||212<sup>万</sup>0406
+|-
+|17||{{Flag2|岐阜県}}||205<sup>万</sup>3286
+|-
+|18||{{Flag2|栃木県}}||198<sup>万</sup>7119
+|-
+|19||{{Flag2|群馬県}}||198<sup>万</sup>4334
+|-
+|20||{{Flag2|福島県}}||194<sup>万</sup>7580
+|-
+|21||{{Flag2|岡山県}}||193<sup>万</sup>0446
+|-
+|22||{{Flag2|三重県}}||182<sup>万</sup>9063
+|-
+|23||{{Flag2|熊本県}}||180<sup>万</sup>1495
+|-
+|24||{{Flag2|鹿児島県}}||168<sup>万</sup>0319
+|-
+|25||{{Flag2|山口県}}||142<sup>万</sup>0003
+|- style="background-color:#fcc"
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>6952
+|- style="background-color:#fcc"
+|27||{{Flag2|沖縄県}}||141<sup>万</sup>6587
+|-
+|28||{{Flag2|愛媛県}}||140<sup>万</sup>5051
+|-
+|29||{{Flag2|長崎県}}||139<sup>万</sup>6481
+|-
+|30||{{Flag2|奈良県}}||138<sup>万</sup>3549
+|-
+|31||{{Flag2|青森県}}||133<sup>万</sup>6206
+|-
+|32||{{Flag2|岩手県}}||129<sup>万</sup>4453
+|-
+|33||{{Flag2|大分県}}||117<sup>万</sup>8372
+|-
+|34||{{Flag2|石川県}}||115<sup>万</sup>9015
+|-
+|35||{{Flag2|山形県}}||114<sup>万</sup>1260
+|-
+|36||{{Flag2|宮崎県}}||112<sup>万</sup>0650
+|-
+|37||{{Flag2|富山県}}||107<sup>万</sup>6158
+|-
+|38||{{Flag2|秋田県}}||105<sup>万</sup>0132
+|-
+|39||{{Flag2|香川県}}||98<sup>万</sup>5387
+|-
+|40||{{Flag2|和歌山県}}||97<sup>万</sup>9354
+|-
+|41||{{Flag2|山梨県}}||84<sup>万</sup>5956
+|-
+|42||{{Flag2|佐賀県}}||83<sup>万</sup>9615
+|-
+|43||{{Flag2|福井県}}||79<sup>万</sup>4492
+|-
+|44||{{Flag2|徳島県}}||76<sup>万</sup>9844
+|-
+|45||{{Flag2|高知県}}||74<sup>万</sup>5070
+|-
+|46||{{Flag2|島根県}}||70<sup>万</sup>2237
+|-
+|47||{{Flag2|鳥取県}}||57<sup>万</sup>7642
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2012年（平成24年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#2011年（平成23年）]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2754<sup>万</sup>7177
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1321<sup>万</sup>6221
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||907<sup>万</sup>2133
+|-
+|3||{{Flag2|大阪府}}||886<sup>万</sup>3324
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||742<sup>万</sup>5952
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||720<sup>万</sup>8122
+|-
+|6||{{Flag2|千葉県}}||619<sup>万</sup>5576
+|-
+|7||{{Flag2|兵庫県}}||557<sup>万</sup>1096
+|-
+|8||{{Flag2|北海道}}||''546<sup>万</sup>0668''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||508<sup>万</sup>5368
+|-
+|10||{{Flag2|静岡県}}||373<sup>万</sup>6600
+|-
+|11||{{Flag2|茨城県}}||294<sup>万</sup>5824
+|-
+|12||{{Flag2|広島県}}||284<sup>万</sup>9104
+|-
+|13||{{Flag2|京都府}}||262<sup>万</sup>7313
+|-
+|14||{{Flag2|新潟県}}||234<sup>万</sup>7092
+|- style="background-color:#fcc"
+|15||{{Flag2|宮城県}}||232<sup>万</sup>5407
+|-
+|16||{{Flag2|長野県}}||213<sup>万</sup>3251
+|-
+|17||{{Flag2|岐阜県}}||206<sup>万</sup>4940
+|-
+|18||{{Flag2|栃木県}}||199<sup>万</sup>3386
+|-
+|19||{{Flag2|群馬県}}||199<sup>万</sup>2432
+|-
+|20||{{Flag2|福島県}}||196<sup>万</sup>2333
+|-
+|21||{{Flag2|岡山県}}||193<sup>万</sup>6575
+|-
+|22||{{Flag2|三重県}}||183<sup>万</sup>8611
+|-
+|23||{{Flag2|熊本県}}||180<sup>万</sup>7201
+|-
+|24||{{Flag2|鹿児島県}}||168<sup>万</sup>9511
+|-
+|25||{{Flag2|山口県}}||143<sup>万</sup>1294
+|- style="background-color:#fcc"
+|26||{{Flag2|滋賀県}}||141<sup>万</sup>6546
+|-
+|27||{{Flag2|愛媛県}}||141<sup>万</sup>4996
+|- style="background-color:#fcc"
+|28||{{Flag2|沖縄県}}||141<sup>万</sup>0140
+|-
+|29||{{Flag2|長崎県}}||140<sup>万</sup>7925
+|-
+|30||{{Flag2|奈良県}}||138<sup>万</sup>9690
+|-
+|31||{{Flag2|青森県}}||134<sup>万</sup>9969
+|-
+|32||{{Flag2|岩手県}}||130<sup>万</sup>3351
+|-
+|33||{{Flag2|大分県}}||118<sup>万</sup>5668
+|-
+|34||{{Flag2|石川県}}||116<sup>万</sup>2953
+|-
+|35||{{Flag2|山形県}}||115<sup>万</sup>1863
+|-
+|36||{{Flag2|宮崎県}}||112<sup>万</sup>5909
+|-
+|37||{{Flag2|富山県}}||108<sup>万</sup>2763
+|-
+|38||{{Flag2|秋田県}}||106<sup>万</sup>3143
+|-
+|39||{{Flag2|香川県}}||98<sup>万</sup>9159
+|-
+|40||{{Flag2|和歌山県}}||98<sup>万</sup>7483
+|-
+|41||{{Flag2|山梨県}}||85<sup>万</sup>1681
+|-
+|42||{{Flag2|佐賀県}}||84<sup>万</sup>3505
+|-
+|43||{{Flag2|福井県}}||79<sup>万</sup>9127
+|-
+|44||{{Flag2|徳島県}}||77<sup>万</sup>5871
+|-
+|45||{{Flag2|高知県}}||75<sup>万</sup>2042
+|-
+|46||{{Flag2|島根県}}||70<sup>万</sup>7074
+|-
+|47||{{Flag2|鳥取県}}||58<sup>万</sup>1870
+|}
+{{flex-item end}}
+{{flex-item start|basis=17em}}
+=== 2011年（平成23年） ===
+{{Ubli||{{Color|#fcc|■}}：[[#外部リンク]]と比べて人口が増加している都道府県}}
+{| class="wikitable defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>2782<sup>万</sup>4070
+|- style="background-color:#fcc"
+|1||{{Flag2|東京都}}||1318<sup>万</sup>6562
+|- style="background-color:#fcc"
+|2||{{Flag2|神奈川県}}||905<sup>万</sup>9616
+|- style="background-color:#fcc"
+|3||{{Flag2|大阪府}}||886<sup>万</sup>5448
+|- style="background-color:#fcc"
+|4||{{Flag2|愛知県}}||742<sup>万</sup>0215
+|- style="background-color:#fcc"
+|5||{{Flag2|埼玉県}}||720<sup>万</sup>4168
+|-
+|6||{{Flag2|千葉県}}||621<sup>万</sup>1820
+|-
+|7||{{Flag2|兵庫県}}||558<sup>万</sup>2038
+|-
+|8||{{Flag2|北海道}}||''548<sup>万</sup>5916''
+|- style="background-color:#fcc"
+|9||{{Flag2|福岡県}}||508<sup>万</sup>0308
+|-
+|10||{{Flag2|静岡県}}||375<sup>万</sup>2592
+|-
+|11||{{Flag2|茨城県}}||295<sup>万</sup>6954
+|-
+|12||{{Flag2|広島県}}||285<sup>万</sup>5734
+|-
+|13||{{Flag2|京都府}}||263<sup>万</sup>2496
+|-
+|14||{{Flag2|新潟県}}||236<sup>万</sup>2581
+|-
+|15||{{Flag2|宮城県}}||232<sup>万</sup>3224
+|-
+|16||{{Flag2|長野県}}||214<sup>万</sup>4344
+|-
+|17||{{Flag2|岐阜県}}||207<sup>万</sup>3333
+|-
+|18||{{Flag2|群馬県}}||200<sup>万</sup>7004
+|-
+|19||{{Flag2|栃木県}}||200<sup>万</sup>0021
+|-
+|20||{{Flag2|福島県}}||198<sup>万</sup>8995
+|-
+|21||{{Flag2|岡山県}}||194<sup>万</sup>0723
+|-
+|22||{{Flag2|三重県}}||184<sup>万</sup>8107
+|-
+|23||{{Flag2|熊本県}}||181<sup>万</sup>2502
+|-
+|24||{{Flag2|鹿児島県}}||169<sup>万</sup>8659
+|-
+|25||{{Flag2|山口県}}||144<sup>万</sup>2414
+|-
+|26||{{Flag2|愛媛県}}||142<sup>万</sup>3485
+|-
+|27||{{Flag2|長崎県}}||141<sup>万</sup>7282
+|- style="background-color:#fcc"
+|28||{{Flag2|滋賀県}}||141<sup>万</sup>4398
+|- style="background-color:#fcc"
+|29||{{Flag2|沖縄県}}||140<sup>万</sup>1933
+|-
+|30||{{Flag2|奈良県}}||139<sup>万</sup>5687
+|-
+|31||{{Flag2|青森県}}||136<sup>万</sup>3038
+|-
+|32||{{Flag2|岩手県}}||131<sup>万</sup>2756
+|-
+|33||{{Flag2|大分県}}||119<sup>万</sup>1313
+|-
+|34||{{Flag2|石川県}}||116<sup>万</sup>6315
+|-
+|35||{{Flag2|山形県}}||116<sup>万</sup>1294
+|-
+|36||{{Flag2|宮崎県}}||113<sup>万</sup>0912
+|-
+|37||{{Flag2|富山県}}||108<sup>万</sup>8409
+|-
+|38||{{Flag2|秋田県}}||107<sup>万</sup>5058
+|-
+|39||{{Flag2|和歌山県}}||99<sup>万</sup>4858
+|-
+|40||{{Flag2|香川県}}||99<sup>万</sup>2336
+|-
+|41||{{Flag2|山梨県}}||85<sup>万</sup>7221
+|-
+|42||{{Flag2|佐賀県}}||84<sup>万</sup>6922
+|-
+|43||{{Flag2|福井県}}||80<sup>万</sup>3216
+|-
+|44||{{Flag2|徳島県}}||78<sup>万</sup>0423
+|-
+|45||{{Flag2|高知県}}||75<sup>万</sup>8614
+|-
+|46||{{Flag2|島根県}}||71<sup>万</sup>2336
+|-
+|47||{{Flag2|鳥取県}}||58<sup>万</sup>5475
+|}
+{{flex-item end}}
+{{Flexbox end}}
+
+== 合計特殊出生率 ==
+[[File:Map of East Asia by TFR in 2021.png|thumb|東アジアの合計特殊出生率（2021年）。色の濃い（出生率の高い）地域が九州中四国地方に、色の薄い（出生率の低い）地域が東日本を中心に広がる。|250px]]
+{{See also|日本の少子化}}
+都道府県別の[[合計特殊出生率]]の比較では、1970年代の一時期に[[秋田県]]が全国最低（秋田1.88、東京1.96）だったことを除いて、一貫して[[沖縄県]]が全国最高、[[東京都]]が全国最低を続けている。2021年に最も高かったのは沖縄県の1.80で、次いで[[鹿児島県]]、宮崎県である。逆に最も低かったのは東京都で1.08、次いで宮城県、北海道となっている<ref>[https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai21/dl/h9.pdf]</ref>。
+
+かつては都市部で低く地方で高い傾向が明確であったが、2005年以降はむしろ[[西高東低]]の傾向が著しい<ref>{{Cite web|和書|url=https://www.rieti.go.jp/jp/special/special_report/074.html|author=近藤恵介|publisher=独立行政法人経済産業研究所|title=集積の経済による成長戦略と出生率回復は相反するのか|accessdate=2020-03-06}}</ref>。日本の出生率が史上最低を記録した2005年以降、出生率が大幅に回復した西日本と、停滞した東日本の間で差が開き始め、2010年以降、はっきりとした形で西高東低の傾向が現れている<ref>{{Cite web|和書|title=出生率向上も子育て参加も「西日本に学べ」とデータは語る|url=https://diamond.jp/articles/-/117970?page=3|date=2017-02-15|accessdate=2019-07-30}}</ref>。更に2020年代に入って[[新型コロナウイルス感染症の世界的流行 (2019年-)|新型コロナウイルス感染症]]が流行すると、全国的に出生率が低下したが、この時も東日本の方が低下が大きく、東西格差が拡大した<ref>[https://www.rri.co.jp/chiiki/pdf/short220614.pdf]</ref>。
+{{Clear}}
+{{Wide image|都道府県別合計特殊出生率.png|1100px|都道府県別の合計特殊出生率（2000、2005、2010、2015、2019及び2021年）<br />2000年、1.36。沖縄県と北海道を除いて明確な東西差は見られない。<br />2005年、過去最低の1.26を記録。この時点で西高東低傾向が指摘されている。<br />2010年、1.39。九州と中四国地方の伸びが大きい一方で、東北地方では低下している県も見られる。東日本大震災の前年だが既に目に見えて東西格差が出ている。<br />2015年、1.45に回復。四国や中部地方が大きく回復したため、相対的に東北地方の低さが目立つ。<br />2019年、1.36に低下。<br />2021年、1.30に低下。特に東日本の下落幅が大きい。2000年と比較すると、福井・滋賀・愛知以西は比較的小幅な変動に留まる一方、石川・岐阜・静岡以東は激減している。}}
+2021年の合計特殊出生率で見ると、北海道・東北・関東・新潟の各都道県は全て1.36以下であるが、他に1.36以下の都道府県は近畿地方4県と静岡県しか存在しない。決して都市部とは言えない北海道東北地方も関東地方並みに低く、宮城県は全国46位の1.15、北海道は45位の1.20、秋田県は43位の1.22である。逆に1.45以上の都道府県の大半は中四国以西に存在しており、他には滋賀県と福井県のみである。特に九州地方の高さは群を抜いており、九州地方8県のうち7県が全国上位10県に入っている。
+
+このような傾向が現れた明確な理由は判明しておらず、従来都市と地方の合計特殊出生率の差を説明するのに使われていた各種指標も、各地方間の差を説明できていない<ref>{{Cite web|和書|url=https://www8.cao.go.jp/shoushi/shoushika/research/cyousa23/kankyo/index_pdf.html|publisher=内閣府|accessdate=2020-03-06|title=平成23年度「都市と地方における子育て環境に関する調査」|archiveurl=https://web.archive.org/web/20151008235909/https://www8.cao.go.jp/shoushi/shoushika/research/cyousa23/kankyo/index_pdf.html|archivedate=2015-10-08}}</ref>。例えば、親との同居率も、合計特殊出生率の低い東北地方は全国で最も高い一方、出生率の高い九州沖縄地方は全国平均よりむしろ低い。
+
+なお、戦前の統計によると、現在とは逆に東高西低の傾向が顕著であった。1925年の統計では、合計特殊出生率の上位5道県は全て北海道及び北東北地方に占められ、九州四国中国地方は全国的に見ても低い水準にあった。特に沖縄県に至っては大阪府と並んで全国最低水準だった。
+{{Clear}}
+{{Flexbox start|direction=row-reverse|justify-content=space-around}}
+{| class="wikitable sticky-header defaultright col2left" style="font-size:80%"
+|+ 2015年10月1日（国勢調査人口）から2020年10月1日（推計人口）の増加数
+|-
+!
+!都道府県
+!増加数（人）
+!2020年（人）
+!2015年（人）
+|-
+|1
+|{{Flag2|東京都}}
+|455,838
+|13,971,109
+|13,515,271
+|-
+|2
+|{{Flag2|神奈川県}}
+|87,937
+|9,214,151
+|9,126,214
+|-
+|3
+|{{Flag2|埼玉県}}
+|76,919
+|7,343,453
+|7,266,534
+|-
+|4
+|{{Flag2|千葉県}}
+|58,728
+|6,281,394
+|6,222,666
+|-
+|5
+|{{Flag2|愛知県}}
+|57,995
+|7,541,123
+|7,483,128
+|-
+|6
+|{{Flag2|沖縄県}}
+|25,273
+|1,458,839
+|1,433,566
+|-
+|7
+|{{Flag2|福岡県}}
+|5,218
+|5,106,774
+|5,101,556
+|-
+|8
+|{{Flag2|滋賀県}}
+|{{Nowiki|-}}501
+|1,412,415
+|1,412,916
+|-
+|9
+|{{Flag2|鳥取県}}
+|{{Nowiki|-}}22,039
+|551,402
+|573,441
+|-
+|10
+|{{Flag2|大阪府}}
+|{{Nowiki|-}}22,097
+|8,817,372
+|8,839,469
+|-
+|11
+|{{Flag2|石川県}}
+|{{Nowiki|-}}23,849
+|1,130,159
+|1,154,008
+|-
+|12
+|{{Flag2|佐賀県}}
+|{{Nowiki|-}}24,011
+|808,821
+|832,832
+|-
+|13
+|{{Flag2|福井県}}
+|{{Nowiki|-}}24,061
+|762,679
+|786,740
+|-
+|14
+|{{Flag2|島根県}}
+|{{Nowiki|-}}27,411
+|666,941
+|694,352
+|-
+|15
+|{{Flag2|香川県}}
+|{{Nowiki|-}}27,462
+|948,801
+|976,263
+|-
+|16
+|{{Flag2|山梨県}}
+|{{Nowiki|-}}28,720
+|806,210
+|834,930
+|-
+|17
+|{{Flag2|富山県}}
+|{{Nowiki|-}}31,658
+|1,034,670
+|1,066,328
+|-
+|18
+|{{Flag2|徳島県}}
+|{{Nowiki|-}}34,464
+|721,269
+|755,733
+|-
+|19
+|{{Flag2|高知県}}
+|{{Nowiki|-}}38,491
+|689,785
+|728,276
+|-
+|20
+|{{Flag2|岡山県}}
+|{{Nowiki|-}}39,169
+|1,882,356
+|1,921,525
+|-
+|21
+|{{Flag2|宮崎県}}
+|{{Nowiki|-}}40,310
+|1,063,759
+|1,104,069
+|-
+|22
+|{{Flag2|宮城県}}
+|{{Nowiki|-}}41,209
+|2,292,690
+|2,333,899
+|-
+|23
+|{{Flag2|奈良県}}
+|{{Nowiki|-}}41,346
+|1,322,970
+|1,364,316
+|-
+|24
+|{{Flag2|大分県}}
+|{{Nowiki|-}}41,355
+|1,124,983
+|1,166,338
+|-
+|25
+|{{Flag2|京都府}}
+|{{Nowiki|-}}41,926
+|2,568,427
+|2,610,353
+|-
+|26
+|{{Flag2|栃木県}}
+|{{Nowiki|-}}42,164
+|1,932,091
+|1,974,255
+|-
+|27
+|{{Flag2|群馬県}}
+|{{Nowiki|-}}46,745
+|1,926,370
+|1,973,115
+|-
+|28
+|{{Flag2|三重県}}
+|{{Nowiki|-}}48,250
+|1,767,615
+|1,815,865
+|-
+|29
+|{{Flag2|広島県}}
+|{{Nowiki|-}}49,128
+|2,794,862
+|2,843,990
+|-
+|30
+|{{Flag2|和歌山県}}
+|{{Nowiki|-}}49,524
+|914,055
+|963,579
+|-
+|31
+|{{Flag2|熊本県}}
+|{{Nowiki|-}}50,269
+|1,735,901
+|1,786,170
+|-
+|32
+|{{Flag2|岐阜県}}
+|{{Nowiki|-}}57,761
+|1,974,142
+|2,031,903
+|-
+|33
+|{{Flag2|愛媛県}}
+|{{Nowiki|-}}58,775
+|1,326,487
+|1,385,262
+|-
+|34
+|{{Flag2|山形県}}
+|{{Nowiki|-}}58,937
+|1,064,954
+|1,123,891
+|-
+|35
+|{{Flag2|鹿児島県}}
+|{{Nowiki|-}}60,835
+|1,587,342
+|1,648,177
+|-
+|36
+|{{Flag2|茨城県}}
+|{{Nowiki|-}}62,845
+|2,854,131
+|2,916,976
+|-
+|37
+|{{Flag2|山口県}}
+|{{Nowiki|-}}63,223
+|1,341,506
+|1,404,729
+|-
+|38
+|{{Flag2|長野県}}
+|{{Nowiki|-}}64,659
+|2,034,145
+|2,098,804
+|-
+|39
+|{{Flag2|長崎県}}
+|{{Nowiki|-}}66,527
+|1,310,660
+|1,377,187
+|-
+|40
+|{{Flag2|岩手県}}
+|{{Nowiki|-}}67,393
+|1,212,201
+|1,279,594
+|-
+|41
+|{{Flag2|秋田県}}
+|{{Nowiki|-}}71,050
+|952,069
+|1,023,119
+|-
+|42
+|{{Flag2|青森県}}
+|{{Nowiki|-}}77,730
+|1,230,535
+|1,308,265
+|-
+|43
+|{{Flag2|静岡県}}
+|{{Nowiki|-}}81,333
+|3,618,972
+|3,700,305
+|-
+|44
+|{{Flag2|福島県}}
+|{{Nowiki|-}}83,925
+|1,830,114
+|1,914,039
+|-
+|45
+|{{Flag2|兵庫県}}
+|{{Nowiki|-}}95,909
+|5,438,891
+|5,534,800
+|-
+|46
+|{{Flag2|新潟県}}
+|{{Nowiki|-}}104,518
+|2,199,746
+|2,304,264
+|-
+|47
+|{{Flag2|北海道}}
+|{{Nowiki|-}}169,271
+|5,212,462
+|5,381,733
+|}
+{| class="wikitable sticky-header defaultright" style="font-size:80%"
+|+ 都道府県別[[合計特殊出生率]]の年次推移 {{要出典|date=2021-12}}
+!都道府県
+!1975年
+!1985年
+!1995年
+!2000年
+!2005年
+!2007年
+!2008年
+!2009年
+!2021年
+|-
+!全国
+|1.91
+|1.76
+|1.42
+|1.36
+|1.26
+|1.34
+|1.37
+|1.37
+|1.30
+|-
+!北海道
+|1.82
+|1.61
+|1.31
+|1.23
+|1.15
+|1.19
+|1.20
+|1.19
+|1.20
+|-
+!青森
+|2.00
+|1.80
+|1.56
+|1.47
+|1.29
+|1.28
+|1.30
+|1.26
+|1.31
+|-
+!岩手
+|2.14
+|1.88
+|1.62
+|1.56
+|1.41
+|1.39
+|1.39
+|1.37
+|1.30
+|-
+!宮城
+|1.96
+|1.80
+|1.46
+|1.39
+|1.24
+|1.27
+|1.29
+|1.25
+|1.15
+|-
+!秋田
+|1.86
+|1.69
+|1.56
+|1.45
+|1.34
+|1.31
+|1.32
+|1.29
+|1.22
+|-
+!山形
+|1.96
+|1.87
+|1.69
+|1.62
+|1.45
+|1.42
+|1.44
+|1.39
+|1.32
+|-
+!福島
+|2.13
+|1.98
+|1.72
+|1.65
+|1.49
+|1.49
+|1.52
+|1.49
+|1.36
+|-
+!茨城
+|2.09
+|1.86
+|1.53
+|1.47
+|1.32
+|1.35
+|1.37
+|1.37
+|1.30
+|-
+!栃木
+|2.06
+|1.90
+|1.52
+|1.48
+|1.40
+|1.39
+|1.42
+|1.43
+|1.31
+|-
+!群馬
+|1.99
+|1.85
+|1.56
+|1.51
+|1.39
+|1.36
+|1.40
+|1.38
+|1.35
+|-
+!埼玉
+|2.06
+|1.72
+|1.41
+|1.30
+|1.22
+|1.26
+|1.28
+|1.28
+|1.22
+|-
+!千葉
+|2.03
+|1.75
+|1.36
+|1.30
+|1.22
+|1.25
+|1.29
+|1.31
+|1.21
+|-
+!東京
+|1.63
+|1.44
+|1.11
+|1.07
+|1.00
+|1.05
+|1.09
+|1.12
+|1.08
+|-
+!神奈川
+|1.95
+|1.68
+|1.34
+|1.28
+|1.19
+|1.25
+|1.27
+|1.28
+|1.22
+|-
+!新潟
+|2.03
+|1.88
+|1.59
+|1.51
+|1.34
+|1.37
+|1.37
+|1.37
+|1.32
+|-
+!富山
+|1.94
+|1.79
+|1.49
+|1.45
+|1.37
+|1.34
+|1.38
+|1.37
+|1.42
+|-
+!石川
+|2.08
+|1.79
+|1.46
+|1.45
+|1.35
+|1.40
+|1.41
+|1.40
+|1.38
+|-
+!福井
+|2.06
+|1.93
+|1.67
+|1.60
+|1.50
+|1.52
+|1.54
+|1.55
+|1.57
+|-
+!山梨
+|1.98
+|1.85
+|1.60
+|1.51
+|1.38
+|1.35
+|1.35
+|1.31
+|1.43
+|-
+!長野
+|2.05
+|1.85
+|1.64
+|1.59
+|1.46
+|1.47
+|1.45
+|1.43
+|1.44
+|-
+!岐阜
+|2.00
+|1.81
+|1.49
+|1.47
+|1.37
+|1.34
+|1.35
+|1.37
+|1.40
+|-
+!静岡
+|2.02
+|1.85
+|1.48
+|1.47
+|1.39
+|1.44
+|1.44
+|1.43
+|1.36
+|-
+!愛知
+|2.02
+|1.82
+|1.47
+|1.44
+|1.34
+|1.38
+|1.43
+|1.43
+|1.41
+|-
+!三重
+|1.99
+|1.80
+|1.50
+|1.48
+|1.36
+|1.37
+|1.38
+|1.40
+|1.43
+|-
+!滋賀
+|2.13
+|1.97
+|1.58
+|1.53
+|1.39
+|1.42
+|1.45
+|1.44
+|1.46
+|-
+!京都
+|1.81
+|1.68
+|1.33
+|1.28
+|1.18
+|1.18
+|1.22
+|1.20
+|1.22
+|-
+!大阪
+|1.90
+|1.69
+|1.33
+|1.31
+|1.21
+|1.24
+|1.28
+|1.28
+|1.27
+|-
+!兵庫
+|1.96
+|1.75
+|1.41
+|1.38
+|1.25
+|1.30
+|1.34
+|1.33
+|1.36
+|-
+!奈良
+|1.85
+|1.69
+|1.36
+|1.30
+|1.19
+|1.22
+|1.22
+|1.23
+|1.30
+|-
+!和歌山
+|1.95
+|1.79
+|1.48
+|1.45
+|1.32
+|1.34
+|1.41
+|1.36
+|1.43
+|-
+!鳥取
+|2.02
+|1.93
+|1.69
+|1.62
+|1.47
+|1.47
+|1.43
+|1.46
+|1.51
+|-
+!島根
+|2.10
+|2.01
+|1.73
+|1.65
+|1.50
+|1.53
+|1.51
+|1.55
+|1.62
+|-
+!岡山
+|2.05
+|1.89
+|1.55
+|1.51
+|1.37
+|1.41
+|1.43
+|1.39
+|1.45
+|-
+!広島
+|2.05
+|1.83
+|1.48
+|1.41
+|1.34
+|1.43
+|1.45
+|1.47
+|1.42
+|-
+!山口
+|1.92
+|1.82
+|1.50
+|1.47
+|1.38
+|1.42
+|1.43
+|1.43
+|1.49
+|-
+!徳島
+|1.89
+|1.80
+|1.52
+|1.45
+|1.26
+|1.30
+|1.30
+|1.35
+|1.44
+|-
+!香川
+|1.96
+|1.81
+|1.51
+|1.53
+|1.43
+|1.48
+|1.47
+|1.48
+|1.51
+|-
+!愛媛
+|1.97
+|1.78
+|1.53
+|1.45
+|1.35
+|1.40
+|1.40
+|1.41
+|1.40
+|-
+!高知
+|1.91
+|1.81
+|1.51
+|1.45
+|1.32
+|1.31
+|1.36
+|1.29
+|1.45
+|-
+!福岡
+|1.83
+|1.75
+|1.42
+|1.36
+|1.26
+|1.34
+|1.37
+|1.37
+|1.36
+|-
+!佐賀
+|2.03
+|1.95
+|1.64
+|1.67
+|1.48
+|1.51
+|1.55
+|1.49
+|1.56
+|-
+!長崎
+|2.13
+|1.87
+|1.60
+|1.57
+|1.45
+|1.48
+|1.50
+|1.50
+|1.60
+|-
+!熊本
+|1.94
+|1.85
+|1.61
+|1.56
+|1.46
+|1.54
+|1.58
+|1.58
+|1.59
+|-
+!大分
+|1.93
+|1.78
+|1.55
+|1.51
+|1.40
+|1.47
+|1.53
+|1.50
+|1.54
+|-
+!宮崎
+|2.11
+|1.90
+|1.70
+|1.62
+|1.48
+|1.59
+|1.60
+|1.61
+|1.64
+|-
+!鹿児島
+|2.11
+|1.93
+|1.62
+|1.58
+|1.49
+|1.54
+|1.59
+|1.56
+|1.65
+|-
+!沖縄
+|2.88
+|2.31
+|1.87
+|1.82
+|1.72
+|1.75
+|1.78
+|1.79
+|1.80
+|}
+{{Flexbox end}}
+
+== 将来推計人口 ==
+=== 2050年 ===
+[[File:JapanPrefPop2050IPSS.jpg|thumb|250px|2050年における都道府県別人口階級図（予測）]]
+2020年（令和2年）国勢調査の結果をもとにした[[国立社会保障・人口問題研究所]]による30年後（2050年）の推計<ref>[https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/t-page.asp 日本の地域別将来推計人口（令和５（2023）年推計）]</ref>
+{{Indented plainlist|
+* {{Color|#fdd|■}}：推計の結果が2020年（令和2年）国勢調査の結果と比べると人口増加している都道府県
+* {{Color|#cff|■}}：推計の結果が2020年（令和2年）国勢調査の結果と比べると10%以上人口減少している都道府県
+* {{Color|#9ff|■}}：推計の結果が2020年（令和2年）国勢調査の結果と比べると20%以上人口減少している都道府県
+* {{Color|#9cf|■}}：推計の結果が2020年（令和2年）国勢調査の結果と比べると30%以上人口減少している都道府県
+* {{Color|#99f|■}}：推計の結果が2020年（令和2年）国勢調査の結果と比べると40%以上人口減少している都道府県
+}}
+{{sticky table start}}
+{| class="wikitable sticky-table-row1 defaultright col2left" style="font-size:90%"
+!!!都道府県!!人口
+|- style="background-color:#ff6"
+|||総数||1<sup>億</sup>0468<sup>万</sup>6386
+|- style="background-color:#fdd"
+|1||{{Flag2|東京都}}||1439<sup>万</sup>9144
+|-
+|2||{{Flag2|神奈川県}}||852<sup>万</sup>4492
+|- style="background-color:#cff"
+|3||{{Flag2|大阪府}}||726<sup>万</sup>3182
+|- style="background-color:#cff"
+|4||{{Flag2|愛知県}}||667<sup>万</sup>6331
+|- 
+|5||{{Flag2|埼玉県}}||663<sup>万</sup>3932
+|- 
+|6||{{Flag2|千葉県}}||569<sup>万</sup>0156
+|- style="background-color:#cff"
+|7||{{Flag2|福岡県}}||447<sup>万</sup>9021
+|- style="background-color:#9ff"
+|8||{{Flag2|兵庫県}}||435<sup>万</sup>7576
+|- style="background-color:#9ff"
+|9||{{Flag2|北海道}}||382<sup>万</sup>0016
+|- style="background-color:#9ff"
+|10||{{Flag2|静岡県}}||282<sup>万</sup>8823
+|- style="background-color:#9ff"
+|11||{{Flag2|茨城県}}||224<sup>万</sup>5065
+|- style="background-color:#9ff"
+|12||{{Flag2|広島県}}||222<sup>万</sup>9527
+|- style="background-color:#cff"
+|13||{{Flag2|京都府}}||207<sup>万</sup>5975
+|- style="background-color:#9ff"
+|14||{{Flag2|宮城県}}||182<sup>万</sup>9565
+|- style="background-color:#9ff"
+|15||{{Flag2|長野県}}||158<sup>万</sup>1949
+|- style="background-color:#9cf"
+|16||{{Flag2|新潟県}}||152<sup>万</sup>5004
+|- style="background-color:#9ff"
+|17||{{Flag2|群馬県}}||152<sup>万</sup>0630
+|- style="background-color:#9ff"
+|18||{{Flag2|岡山県}}||151<sup>万</sup>0460
+|- style="background-color:#9ff"
+|19||{{Flag2|栃木県}}||150<sup>万</sup>2202
+|- style="background-color:#9ff"
+|20||{{Flag2|岐阜県}}||146<sup>万</sup>8392
+|-
+|21||{{Flag2|沖縄県}}||139<sup>万</sup>1013
+|- style="background-color:#9ff"
+|22||{{Flag2|熊本県}}||135<sup>万</sup>5329
+|- style="background-color:#9ff"
+|23||{{Flag2|三重県}}||134<sup>万</sup>7202
+|- style="background-color:#9cf"
+|24||{{Flag2|福島県}}||124<sup>万</sup>7000
+|- style="background-color:#cff"
+|25||{{Flag2|滋賀県}}||122<sup>万</sup>2791
+|- style="background-color:#9ff"
+|26||{{Flag2|鹿児島県}}||117<sup>万</sup>0602
+|- style="background-color:#9ff"
+|27||{{Flag2|奈良県}}||95<sup>万</sup>0365
+|- style="background-color:#9ff"
+|28||{{Flag2|愛媛県}}||94<sup>万</sup>4634
+|- style="background-color:#9cf"
+|29||{{Flag2|山口県}}||92<sup>万</sup>6183
+|- style="background-color:#9ff"
+|30||{{Flag2|石川県}}||89<sup>万</sup>6801
+|- style="background-color:#9cf"
+|31||{{Flag2|長崎県}}||86<sup>万</sup>8817
+|- style="background-color:#9ff"
+|32||{{Flag2|大分県}}||84<sup>万</sup>1343
+|- style="background-color:#9ff"
+|33||{{Flag2|宮崎県}}||79<sup>万</sup>6631
+|- style="background-color:#9cf"
+|34||{{Flag2|岩手県}}||78<sup>万</sup>3242
+|- style="background-color:#9ff"
+|35||{{Flag2|富山県}}||76<sup>万</sup>1719
+|- style="background-color:#9cf"
+|36||{{Flag2|青森県}}||75<sup>万</sup>4751
+|- style="background-color:#9ff"
+|37||{{Flag2|香川県}}||72<sup>万</sup>4120
+|- style="background-color:#9cf"
+|38||{{Flag2|山形県}}||71<sup>万</sup>0838
+|- style="background-color:#9cf"
+|39||{{Flag2|和歌山県}}||63<sup>万</sup>1619
+|- style="background-color:#9ff"
+|40||{{Flag2|佐賀県}}||62<sup>万</sup>0873
+|- style="background-color:#9ff"
+|41||{{Flag2|山梨県}}||61<sup>万</sup>1586
+|- style="background-color:#9ff"
+|42||{{Flag2|福井県}}||57<sup>万</sup>2885
+|- style="background-color:#99f"
+|43||{{Flag2|秋田県}}||56<sup>万</sup>0429
+|- style="background-color:#9ff"
+|44||{{Flag2|島根県}}||49<sup>万</sup>6994
+|- style="background-color:#9cf"
+|45||{{Flag2|徳島県}}||48<sup>万</sup>0669
+|- style="background-color:#9cf"
+|46||{{Flag2|高知県}}||45<sup>万</sup>0980
+|- style="background-color:#9ff"
+|47||{{Flag2|鳥取県}}||40<sup>万</sup>5528
+|}
+{{sticky table end}}
+
+====2018年推計と2023年推計の比較====
+[[2045年]]における総人口の予測を見ると、[[2018年]]の推計では1億0642万1千人とされているのに対し、[[2023年]]の推計では1億0880万1千人と約238万人上方修正されている。[[合計特殊出生率]]は下落傾向にあるものの、平均寿命の延びと外国人の流入がそれを上回る影響を与えた。
+
+都道府県別にみると、[[近畿地方]]以西の[[西日本]]24府県は、うち16県が下方修正された。中でも[[中国・四国地方]]の9県は全県が下方修正となっている。一方、[[中部地方]]以東の[[東日本]]23都道県で下方修正されたのは[[岩手県]]・[[新潟県]]・[[富山県]]・[[石川県]]・[[福井県]]・[[愛知県]]の6県にとどまり、[[宮城県]]・[[茨城県]]・[[千葉県]]・[[東京都]]・[[山梨県]]の5都県は5％以上の上方修正となっている。西日本で5％以上上方修正された府県はなかった。
+
+[[2006年]]頃以降、合計特殊出生率は相対的に西日本で高く東日本で低い傾向があるが、[[東京一極集中]]により[[南関東]]一都三県へ地方から流入する傾向が続いているため、人口増減率とは比例していない。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist2}}
+
+=== 出典 ===
+{{Reflist|2}}
+
+== 関連項目 ==
+* [[昼間人口#都道府県|昼間人口による都道府県の順位]]
+* [[都道府県の面積一覧]]
+* [[日本の市の人口順位]]
+* [[日本の町の人口順位]]
+* [[日本の村の人口順位]]
+* [[県民経済計算]]
+* [[東京一極集中]]
+
+== 外部リンク ==
+{{Commonscat|Demographics of Japan by prefecture}}
+
+* [https://www.stat.go.jp/index.html 総務省統計局]
+** [https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00200521&result_page=1 平成7年国勢調査〜大正9年国勢調査結果]
+* [https://www.hrr.mlit.go.jp/library/hokuriku2003/s1/1-06/01jinkou/03meiji/03meiji.xls 明治期と現在の都道府県別人口一覧]{{XLSlink}}
+* [http://www.cosmoplan.co.jp/study/data/todouhuken/tyoutyouki_jinkou.htm 超長期 都道府県人口の推移]（[[飛鳥時代]] - ）
+* [https://www.stat.go.jp/data/jinsui/2008np/index.html 平成20年10月1日現在推計人口]（[[総務省]][[統計局]]）
+
+{{人口順位表}}
+{{デフォルトソート:ととうふけんのしんこういちらん}}
+[[Category:地理指標]]
+[[Category:人口順の一覧]]
+[[Category:日本の人口統計]]
+[[Category:日本の一覧 (都道府県別)|しんこう]]

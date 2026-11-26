@@ -1,0 +1,660 @@
+{{独自研究|date=2026年8月22日 (土) 11:12 (UTC)}}
+'''都道府県庁所在地'''（とどうふけんちょうしょざいち）とは、[[日本]]において、'''都道府県の事務所'''（以下、「'''[[都道府県庁]]'''」という。）が置かれる場所として、[[地方自治法]]4条1項に基づき、各[[都道府県]]の[[条例]]（[[位置条例]]）で定められた住所のこと。また、その住所を含む[[基礎的地方公共団体|基礎的な地方公共団体]]のこと。
+
+県庁所在地の[[都市]]を'''県都'''、道庁所在地の都市（日本では[[札幌市]]）を'''道都'''ということもあるが、あくまでも[[都]]と呼ぶのは俗称である<ref>{{Cite web |title=県都（けんと）とは？ 意味・読み方・使い方をわかりやすく解説 - goo国語辞書 |url=https://dictionary.goo.ne.jp/word/%E7%9C%8C%E9%83%BD/ |website=goo辞書 |access-date=2024-04-14 |language=ja|archiveurl=https://web.archive.org/web/20230930170540/https://dictionary.goo.ne.jp/word/%E7%9C%8C%E9%83%BD/|archivedate=2023-09-30}}</ref>。
+
+== 概要 ==
+[[明治政府]]は[[中央集権]]体制を確立するため、[[1871年]][[8月29日]]（[[明治]]4年[[7月14日 (旧暦)]]）に[[廃藩置県]]を実施して、国による直轄化を進めた。府・県には「府庁所在地」「県庁所在地」が決められ、中央から派遣された[[知事]]・[[県令]]が統治する形となった。この時点では現在のような「〇〇[[市]]」という名称は存在しなかったため「府県庁所在"'''地'''"」との名称になっている。
+
+[[1878年]]（明治11年）になると、[[郡区町村編制法]]によって大きな人口密集地に[[郡区町村編制法#区|区]]が置かれ、全国に31区が誕生した。[[1889年]]（明治22年）[[4月1日]]には、区に替わって市（[[市制]]）が置かれたが、道府県庁所在地すべてが「市」とはなっていない。しかし県庁所在地ではそれぞれ人口が増え、次々と市制施行された。特例となっていた[[那覇市|那覇区]]（[[1896年]] - [[1921年]]）、[[札幌市|札幌区]]（[[1899年]] - [[1922年]]）がそれぞれ市となり、[[1934年]]（[[昭和]]9年）[[2月11日]]に[[埼玉県]][[北足立郡]][[浦和市|浦和町]]（後の[[浦和市]]で現在の[[さいたま市]]）が市制を敷いて、すべての道府県庁所在地が市となった。しかし[[1943年]][[7月1日]]には[[東京市]]が都制に移行して消滅している。
+
+都道府県庁所在地には、各々の都道府県の[[行政機関|機関]]や国の出先機関などが集中して行政の中心地となる一方、[[都道府県議会]]が置かれて[[地方自治]]の中心地となっている。経済政策の比重が増した戦後、特に[[高度経済成長]]期には[[第三次産業]]の労働力として郡部から都市部に人口が移動（[[都市化]]）し、[[工業]]が発展した都市には更に[[第二次産業]]労働力が集中して、都道府県庁所在地の人口は急増した。人口増に応じて[[経済]]・[[文化]]・[[交通]]・学術研究などの中心地にもなり、都市としての風格が出てきたため、県庁所在地を'''県都'''（けんと）、[[道庁所在地]]を'''道都'''（どうと）と呼ぶ例も見られるようになった。
+
+なお、かつて[[令制国]]における[[国府]]所在地または中心都市を、「令制国名の1字」と「府」を合わせて表現する例があった。[[石岡市|常府]]（[[常陸国]]）、[[甲府市|甲府]]（[[甲斐国]]）、[[松本市|信府]]（[[信濃国]]）、[[駿府]]（[[駿河国]]）、[[防府市|防府]]（[[周防国]]）、[[長府]]（[[長門国]]）など。また、[[藩庁]]所在地を「[[藩]]名の1字」と「府」を合わせて表現する例があった。[[仙台市|仙府・僊府]]（[[仙台藩]]）、[[米沢市|米府]]（[[米沢藩]]）など。[[横浜市]]や[[新潟市]]などを除いて、多くの都道府県庁所在地は[[江戸時代]]以前からの[[城下町]]を含むことが多く、古くからその地域の政治・経済の中心地であった。
+
+大半の都道府県庁所在地がその都道府県の最大都市であり、[[第二都市|人口2位都市]]と圧倒的な差を有する[[プライメイトシティ]]（首位都市）となっている都市も多い。一方で、その都道府県の最大都市でない都市も6市（[[福島市]]、[[水戸市]]、[[前橋市]]、[[静岡市]]、[[津市]]、[[山口市]]）存在する。また、[[首都圏 (日本)|首都圏]]や[[京阪神]]圏を中心に府県内各市から府県庁所在地の都市への求心力が少ないという府県も存在する。大都市圏の場合、鉄道を中心に[[都心]]から[[郊外]]へ向かう交通網が発達しており、中心都市である[[東京都区部|東京23区]]や[[大阪市]]への吸引力が非常に強力であるためである（例えば、首都圏の[[横浜市]]・[[さいたま市]]・[[千葉市]]などは昼夜間人口比率が100を下回る[[ベッドタウン]]である）。一方で、[[2020年]]国勢調査結果を分析し[[参議院事務局|参議院企画調整室]]が発行したデータ<ref>{{Citation|和書|first=泰伸|last=前田|title=我が国における人口集中の一側面〜都道府県内での人口集中と経済・社会の関係〜|url=https://www.sangiin.go.jp/japanese/annai/chousa/keizai_prism/backnumber/r04pdf/202221302.pdf|periodical=経済のプリズム|publisher=参議院事務局企画調整室（調査情報担当室）|date=2022-06-22|issue=213|page=12|issn=1882-062X}}</ref>によると、都道府県全体に占める人口割合（人口集中度）が4割を超えている都道府県庁所在地も11都市（[[仙台市]]・[[東京都区部]]・[[横浜市]]・[[富山市]]・[[金沢市]]・[[京都市]]・[[広島市]]・[[高松市]]・[[高知市]]・[[熊本市]]・[[大分市]]）存在する。
+
+[[みずほ総合研究所]]主任研究員の岡田豊は2019年1月のレポートにおいて2045年までの地域別将来推計人口の分析を行った結果として、市区町村別の推計人口においては、（全国における東京圏の人口集中度と同じ、或いはそれ以上に）多くの都道府県庁所在地で高齢者層を含めた人口集中度が大きく上昇するなど、今後[[都心]]集中は全国で加速すると分析しており、今後人口増加あるいは人口減少が緩慢にとどまることが期待される都市は（[[三大都市圏]]や出生率が高い[[沖縄県]]を除けば）都道府県庁所在地や地域経済の中心都市、そしてその[[中心市街地]]へのアクセスの良い周辺都市にほぼ限定され、それ以外の市区町村では、かなりの人口減少率を前提とした地域社会の構築を優先せざるをえないと指摘している<ref>{{PDFlink|[https://www.mizuho-ri.co.jp/publication/research/pdf/insight/pl190117.pdf みずほインサイト 今後都心集中が地方圏でも加速 高齢者も地方圏ほど中心的な都市に集中]}} - みずほ総合研究所2019年1月17日</ref>。
+
+1つの[[地方]]で1つの広域の地方公共団体である北海道と、[[都制]]を敷く東京都を除く45府県において、府県と府県庁所在地の名称が一致するのは29府県、一致しないのが16県となっている。一致していない県では、府県庁が所在する旧[[郡]]の名称が用いられている場合が多いが、[[栃木県]]や[[愛媛県]]のように、府県庁の所在する都市の名称でも郡の名称でもない名称が用いられた例<ref group="注">栃木県の現在の県庁所在地は[[宇都宮市]]だが、県の名称はかつて県庁所在地であった「[[栃木市|栃木町]]」に由来する（[[栃木県庁の移転]]を参照）。愛媛県の名称の由来は『[[古事記]]』にみえる「伊予国謂愛比売」に由来（{{Cite web|和書|url=https://www.pref.ehime.jp/k/aramashi/kenmei.html |title=県名の由来 |publisher=愛媛県 |accessdate=2022-05-21|url-status=dead|url-status-date=2024-09-11}}）。</ref>のように、個々の県によって事情が異なる。
+
+=== 都道府県庁所在地の鉄道の駅 ===
+[[時刻表#大型時刻表|大型時刻表]]の巻頭の鉄道[[路線図]]では、普通鉄道のない沖縄県那覇市を除く各都道府県庁所在地の市町村の区域内の中心に設置される駅が「都道府県代表駅」として記載されており、都道府県庁所在地の市の名称の代わりに鉄道の駅の名称で呼ばれることもある。都道府県庁所在地にの市町村の名称と都道府県代表駅の名称が異なっている例もある。なお、都道府県代表駅は都道県庁所在地の市の区域内に設置されている[[JR]]の駅であるため、実質的な市内最大駅がJRではなく[[私鉄]]の場合（代表駅:[[奈良駅]]に対して[[近鉄奈良駅]]）や、県内最大駅が県内の他の都市のターミナル駅（代表駅:[[前橋駅]]に対して[[高崎駅]]）である場合などが複数見られる。
+
+東京都の場合は後述のように都庁所在地を「[[東京都区部|東京都区部（東京23区）／東京]]」とする場合と「[[新宿区]]」とする場合があるが、[[東京駅]]と[[新宿駅]]がいずれも都道府県代表駅として並立している。
+
+[[さいたま市]]に対し「さいたま駅」は存在しないが、県庁のある旧[[浦和市]]の[[浦和駅]]が都道府県代表駅に指定されており、同市唯一の[[新幹線]]停車駅かつ県内最大の[[ターミナル駅]]である[[大宮駅 (埼玉県)|大宮駅]]（旧[[大宮市]]）は代表駅とされていない。埼玉県は2001年の合併によるさいたま市成立以前は[[浦和市]]が県庁所在地であったため、県庁所在地の市の名称と一致していた。
+
+[[和歌山市]]にある現在の[[和歌山駅]]はかつて「東和歌山駅」を名乗り、現在の[[紀和駅]]が元は「和歌山駅」を名乗り都道府県代表駅だったが、かつての東和歌山駅が県内の路線の発着の中心駅となったため、現在の紀和駅から和歌山駅の名前を移されて都道府県代表駅になっている。
+
+[[神戸市]]にある[[神戸駅 (兵庫県)|神戸駅]]は[[東海道本線]]の終点かつ[[山陽本線]]の起点であり、かつては神戸市を代表する駅であったが、次第に市内の商業の中心地が[[三宮]]に移転したため、[[私鉄]]や[[地下鉄]]各線などが集積する[[三ノ宮駅]]が実質的な市内最大のターミナル駅である。[[山陽新幹線]]は三ノ宮駅北東部の新神戸駅に停車するが、[[新神戸駅]]はJRの[[在来線]]が乗り入れていないため、[[神戸市営地下鉄西神・山手線|地下鉄西神・山手線]]などに乗り換える必要がある。
+
+[[福岡市]]に対し「福岡駅」は県内に存在しない（現在の[[西鉄福岡（天神）駅]]が、かつて福岡駅の名称を使用していた）が、市中心部の[[博多駅]]が都道府県代表駅になっている。
+
+[[鹿児島市]]にある[[鹿児島中央駅]]（[[鹿児島駅]]はある）については県庁所在地の市の名称と完全に一致しない。鹿児島市では元は[[鹿児島駅]]が県庁所在地の市の中心駅であったが、歴史的経緯によって西鹿児島駅（現・鹿児島中央駅）に移動した（『[[時刻表#JTBパブリッシング発行|JTB時刻表]]』では並列している。詳細は当該項目を参照）。
+
+那覇市では戦前は[[那覇駅]]が存在していたが[[沖縄県営鉄道]]が廃止され、その後の[[ゆいレール]]開業に伴い[[県庁前駅 (沖縄県)|県庁前駅]]が設置された。沖縄県には[[JR]]の駅が存在せず、県庁前駅が明確に中心駅としての役割を果たしているわけではない。大型時刻表の巻頭路線図では[[那覇バスターミナル]]を都道府県庁所在地駅としている。
+
+=== 東京都の都庁所在地 ===
+{{See also|特別区#特別区と市町村の相違点|東京都庁舎}}
+==== 国の見解 ====
+[[国土交通省]]に置かれる特別の国の機関である[[国土地理院]]には、都庁所在地の記載に関して以下のような決まりがある。『各特別区は通常の市町村（普通地方公共団体）とは異なるため、'''東京の都庁所在地として「新宿区」と記載することができません。'''東京都の'''都庁所在地を「東京」'''と記しています<ref name="tokyosho1">[https://www.tokyo-shoseki.co.jp/question/j/syakai.html#q54 「東京」という市町村はないのに，東京都庁の位置に「東京」と表しているのはなぜですか。 (東京書籍)]</ref><ref name="tokyosho2">[https://www.tokyo-shoseki.co.jp/question/j/syakai.html#q69 東京都庁は新宿区にありますが，地図ではこの位置を「新宿」ではなく「東京」と表しているのはなぜですか。 (東京書籍)]</ref>。』
+
+[[文部科学省]]が[[著作権|著作]]の名義を有する[[教科用図書]]（[[文部科学省著作教科書]]）では東京都庁所在地「東京」の表記で統一して採用している。[[日本国]]の[[日本の行政機関|省庁]]公認の東京都庁所在地の表記は「東京」のみである。
+
+==== 東京都の見解 ====
+まず、『都庁の所在地』と『都庁所在地』は別である。東京都公式見解として『都庁の所在地』とは単純な[[住所]]を述べているが、『都庁所在地』に関する記述は0件である。
+
+この件については都民のみならず全国からも問い合わせが多いとして、[[東京都庁]]の公式サイトでは以下のとおり、『都庁の所在地』は「東京都新宿区西新宿二丁目」であると明記している<ref name="tokyofaq" />。「東京都新宿区西新宿二丁目」の一部分だけを抜き取り「新宿区」であると解釈するのは誤りである。
+==== 経緯 ====
+東京都の前身に当たる[[東京府]]では、府庁が当時の[[東京市]][[麹町区]]に置かれた。東京市は他の道府県庁所在地と同じく市制に基づく基礎的な地方公共団体だったが、東京府とその府庁所在地であった東京市は1943年7月1日に[[東京都制]]の下で消滅して新たに東京都が設置され、従来の東京市の区（東京35区）はそれぞれの区を区域とする基礎的な地方公共団体の「[[特別区]]」とされた。初代の東京都庁舎は東京府庁舎（東京市庁舎と合同）を引き継いだものであったため、その所在地は「東京'''都'''麹町区」となっている。麹町区は[[1947年]]（昭和22年）に実施された35区から22区（のち23区）への特別区再編によって[[神田区]]と合併し、新たに[[千代田区]]が設置されるが都庁舎は引き続き同区内に置かれたため、千代田区が基礎的な地方公共団体としての「都庁所在地」の地位にあった。
+
+千代田区に都庁舎が置かれていた当時は[[日本の首都]]（[[司法]]・[[立法]]・[[行政]]の[[権力分立|三権]]）としての中枢施設がいずれも同区内にあり、また旧都庁舎が当時は唯一の「都庁所在地の代表駅」の地位を占めていた東京駅付近の[[丸の内]]にあったため、「都庁が東京駅近くにある＝都庁所在地は東京」とする感覚が一般的であったとみられ、都庁所在地を「千代田区」でなく「東京」と記述することに対する疑問はほとんど無かったとされる<ref name="teikoku">{{Cite web|和書|url=https://www.teikokushoin.co.jp/q_and_a/geo/#q11|title=東京都の都庁所在地が「新宿」ではなく「東京」なのはなぜですか。|publisher=[[帝国書院]]|accessdate=2017-11-20}}</ref>。その後、1991年[[4月1日]]には新宿区[[西新宿]]に落成した現在の都庁舎が供用を開始しており、例規上は同日より基礎的な地方公共団体としての「都庁所在地」は千代田区から新宿区へ移転したということになる。
+
+しかし、基礎的な地方公共団体としての「都庁所在地」に当たる新宿区（並びに、移転前の都庁舎所在地であった千代田区）は[[地方自治法]]上の「[[特別地方公共団体]]」とされ、法制度上は同法の「普通地方公共団体」に当たる他の市町村とは異なる扱いを受けている<ref name="teikoku" /><ref name="hcpc">{{Cite web|和書|url=http://www.hcpc.co.jp/faq/faq005.html|title=東京都の都庁所在地は？|publisher=[[平凡社地図出版]]|accessdate=2017-11-20}}</ref><ref name="tosho">{{Cite web|和書|url=https://www.tokyo-shoseki.co.jp/question/j/syakai.html#q4|title=東京都の都庁所在地は，なぜ「東京」となっているのでしょうか。|publisher=[[東京書籍]]|accessdate=2017-11-20}}</ref>。
+
+これに加えて[[国土地理院]]発行の地図上では「図式適用規程」により「'''市町村'''の名称はすべて表示する」「[[都道府県庁]]の位置は◎で表示する」の2点が定められており、普通地方公共団体の「[[市町村]]」に該当しない特別地方公共団体の23特別区に関しては取り扱いが明記されていないため、便宜的に「旧東京市の後裔たる[[東京都区部]]（23区）の総称」として「東京」と記載する慣例が存在する<ref name="tosho" /><ref name="tokyofaq">{{Cite web|和書|url=http://www.seisakukikaku.metro.tokyo.jp/soumu/sonota/syozaiti.htm|title=東京都の県庁（都庁）所在地について|publisher=[[東京都政策企画局]]|accessdate=2017-11-20}}</ref>。国土地理院によるこの慣例は民間の地図出版社でも概ね踏襲されており、日本全土を1枚の地図に収めた[[日本地図]]や[[関東地方]]の広域地図では都庁所在地を「新宿区」でなく「東京」と表記するものが大半である<ref name="hcpc" /><ref name="tosho" /><ref name="tokyofaq" />。
+
+== 都道府県庁所在地 ==
+{{座標一覧}}
+{{Location map+ |Japan |float= right |width 400 |places=
+{{Location map~ |Japan |label= <!-- 北海道 札幌市 --> |lat_deg= 43 |lat_min= 3 |lat_sec= 52 |lon_deg= 141 |lon_min= 20 |lon_sec= 48 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 青森県 青森市 --> |lat_deg= 40 |lat_min= 49 |lat_sec= 27 |lon_deg= 140 |lon_min= 44 |lon_sec= 23 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 岩手県 盛岡市 --> |lat_deg= 39 |lat_min= 42 |lat_sec= 13 |lon_deg= 141 |lon_min= 9 |lon_sec= 9 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 宮城県 仙台市 --> |lat_deg= 38 |lat_min= 16 |lat_sec= 7 |lon_deg= 140 |lon_min= 52 |lon_sec= 19 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 秋田県 秋田市 --> |lat_deg= 39 |lat_min= 43 |lat_sec= 7 |lon_deg= 140 |lon_min= 6 |lon_sec= 8 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 山形県 山形市 --> |lat_deg= 38 |lat_min= 14 |lat_sec= 25 |lon_deg= 140 |lon_min= 21 |lon_sec= 49 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 福島県 福島市 --> |lat_deg= 37 |lat_min= 45 |lat_sec= 1 |lon_deg= 140 |lon_min= 28 |lon_sec= 3 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 茨城県 水戸市 --> |lat_deg= 36 |lat_min= 20 |lat_sec= 30 |lon_deg= 140 |lon_min= 26 |lon_sec= 48 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 栃木県 宇都宮市 --> |lat_deg= 36 |lat_min= 33 |lat_sec= 56 |lon_deg= 139 |lon_min= 53 |lon_sec= 0 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 群馬県 前橋市 --> |lat_deg= 36 |lat_min= 23 |lat_sec= 26 |lon_deg= 139 |lon_min= 3 |lon_sec= 37 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 埼玉県 さいたま市 --> |lat_deg= 35 |lat_min= 51 |lat_sec= 25 |lon_deg= 139 |lon_min= 38 |lon_sec= 55 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 千葉県 千葉市 --> |lat_deg= 35 |lat_min= 36 |lat_sec= 18 |lon_deg= 140 |lon_min= 7 |lon_sec= 23 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 東京都 東京（新宿区） --> |lat_deg= 35 |lat_min= 41 |lat_sec= 22 |lon_deg= 139 |lon_min= 41 |lon_sec= 30 |mark= Red pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 神奈川県 横浜市 --> |lat_deg= 35 |lat_min= 26 |lat_sec= 51 |lon_deg= 139 |lon_min= 38 |lon_sec= 32 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 新潟県 新潟市 --> |lat_deg= 37 |lat_min= 54 |lat_sec= 9 |lon_deg= 139 |lon_min= 1 |lon_sec= 23 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 富山県 富山市 --> |lat_deg= 36 |lat_min= 41 |lat_sec= 43 |lon_deg= 137 |lon_min= 12 |lon_sec= 40 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 石川県 金沢市 --> |lat_deg= 36 |lat_min= 35 |lat_sec= 40 |lon_deg= 136 |lon_min= 37 |lon_sec= 32 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 福井県 福井市 --> |lat_deg= 36 |lat_min= 3 |lat_sec= 54 |lon_deg= 136 |lon_min= 13 |lon_sec= 17 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 山梨県 甲府市 --> |lat_deg= 35 |lat_min= 39 |lat_sec= 50 |lon_deg= 138 |lon_min= 34 |lon_sec= 6 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 長野県 長野市 --> |lat_deg= 36 |lat_min= 39 |lat_sec= 4 |lon_deg= 138 |lon_min= 10 |lon_sec= 51 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 岐阜県 岐阜市 --> |lat_deg= 35 |lat_min= 23 |lat_sec= 28 |lon_deg= 136 |lon_min= 43 |lon_sec= 20 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 静岡県 静岡市 --> |lat_deg= 34 |lat_min= 58 |lat_sec= 37 |lon_deg= 138 |lon_min= 22 |lon_sec= 59 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 愛知県 名古屋市 --> |lat_deg= 35 |lat_min= 10 |lat_sec= 48 |lon_deg= 136 |lon_min= 54 |lon_sec= 23 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 三重県 津市 --> |lat_deg= 34 |lat_min= 43 |lat_sec= 49 |lon_deg= 136 |lon_min= 30 |lon_sec= 30 |mark= Green pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 滋賀県 大津市 --> |lat_deg= 35 |lat_min= 0 |lat_sec= 16 |lon_deg= 135 |lon_min= 52 |lon_sec= 6 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 京都府 京都市 --> |lat_deg= 35 |lat_min= 1 |lat_sec= 16 |lon_deg= 135 |lon_min= 45 |lon_sec= 20 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 大阪府 大阪市 --> |lat_deg= 34 |lat_min= 41 |lat_sec= 10 |lon_deg= 135 |lon_min= 31 |lon_sec= 10 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 兵庫県 神戸市 --> |lat_deg= 34 |lat_min= 41 |lat_sec= 28 |lon_deg= 135 |lon_min= 10 |lon_sec= 59 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 奈良県 奈良市 --> |lat_deg= 34 |lat_min= 41 |lat_sec= 7 |lon_deg= 135 |lon_min= 49 |lon_sec= 57 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 和歌山県 和歌山市 --> |lat_deg= 34 |lat_min= 13 |lat_sec= 33 |lon_deg= 135 |lon_min= 10 |lon_sec= 3 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 鳥取県 鳥取市 --> |lat_deg= 35 |lat_min= 30 |lat_sec= 14 |lon_deg= 134 |lon_min= 14 |lon_sec= 15 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 島根県 松江市 --> |lat_deg= 35 |lat_min= 28 |lat_sec= 20 |lon_deg= 133 |lon_min= 3 |lon_sec= 1 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 岡山県 岡山市 --> |lat_deg= 34 |lat_min= 39 |lat_sec= 42 |lon_deg= 133 |lon_min= 56 |lon_sec= 3 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 広島県 広島市 --> |lat_deg= 34 |lat_min= 23 |lat_sec= 47 |lon_deg= 132 |lon_min= 27 |lon_sec= 34 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 山口県 山口市 --> |lat_deg= 34 |lat_min= 11 |lat_sec= 9 |lon_deg= 131 |lon_min= 28 |lon_sec= 14 |mark= Green pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 徳島県 徳島市 --> |lat_deg= 34 |lat_min= 3 |lat_sec= 56 |lon_deg= 134 |lon_min= 33 |lon_sec= 33 |mark= Green pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 香川県 高松市 --> |lat_deg= 34 |lat_min= 20 |lat_sec= 24 |lon_deg= 134 |lon_min= 2 |lon_sec= 36 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 愛媛県 松山市 --> |lat_deg= 33 |lat_min= 50 |lat_sec= 29 |lon_deg= 132 |lon_min= 45 |lon_sec= 56 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 高知県 高知市 --> |lat_deg= 33 |lat_min= 33 |lat_sec= 34 |lon_deg= 133 |lon_min= 31 |lon_sec= 51 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 福岡県 福岡市 --> |lat_deg= 33 |lat_min= 36 |lat_sec= 23 |lon_deg= 130 |lon_min= 25 |lon_sec= 5 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 佐賀県 佐賀市 --> |lat_deg= 33 |lat_min= 14 |lat_sec= 57 |lon_deg= 130 |lon_min= 17 |lon_sec= 59 |mark= Turquoise pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 長崎県 長崎市 --> |lat_deg= 32 |lat_min= 44 |lat_sec= 41 |lon_deg= 129 |lon_min= 52 |lon_sec= 25 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 熊本県 熊本市 --> |lat_deg= 32 |lat_min= 47 |lat_sec= 23 |lon_deg= 130 |lon_min= 44 |lon_sec= 30 |mark= Orange pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 大分県 大分市 --> |lat_deg= 33 |lat_min= 14 |lat_sec= 17 |lon_deg= 131 |lon_min= 36 |lon_sec= 45 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 宮崎県 宮崎市 --> |lat_deg= 31 |lat_min= 54 |lat_sec= 39 |lon_deg= 131 |lon_min= 25 |lon_sec= 26 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 鹿児島県 鹿児島市 --> |lat_deg= 31 |lat_min= 33 |lat_sec= 39 |lon_deg= 130 |lon_min= 33 |lon_sec= 27 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+{{Location map~ |Japan |label= <!-- 沖縄県 那覇市 --> |lat_deg= 26 |lat_min= 12 |lat_sec= 44 |lon_deg= 127 |lon_min= 40 |lon_sec= 44 |mark= Blue pog.svg |marksize= 4 |position= bottom }}
+|caption=都道府県庁所在地<br/>
+[[ファイル:Red pog.svg|8px]][[特別区]] &nbsp;[[ファイル:Orange pog.svg|8px]][[政令指定都市]] &nbsp;<br />[[ファイル:Blue pog.svg|8px]][[中核市]] &nbsp;[[ファイル:Turquoise pog.svg|8px]][[特例市|施行時特例市]] &nbsp;[[ファイル:Green pog.svg|8px]]その他 &nbsp;
+}}
+* 都道府県庁所在地は、地方自治法に基づいて各都道府県が定めた都道府県庁の位置を定める条例に基づく（[[2009年]]（[[平成]]21年）4月現在）<ref>[[#参考文献]]のを参照のこと。</ref>。
+* 道府県庁所在地はいずれも[[普通地方公共団体]]である。しかし、東京都庁所在地のみ国土地理院に使用されている「東京」<ref name="tokyosho1"/><ref name="tokyosho2"/>または[[特別地方公共団体]]の新宿区である<ref name="tokyofaq" /><ref name="ag10100011">[[地方自治法]]と[https://web.archive.org/web/20040501005007/http://www.reiki.metro.tokyo.jp/reiki_honbun/ag10100011.html 東京都庁の位置を定める条例]（東京都）</ref>。｢東京」は慣例的に用いられているためである<ref name="tosho" /><ref name="tokyofaq" />。
+* 「位置」は、各都道府県庁所在地。
+* 「集積度」は、各都道府県における都道府県庁所在地の最新の人口比率（北海道のみ[[登録人口]]、北海道以外は[[推計人口]]による）。
+{|class="wikitable sortable" style="font-size:small"
+|-
+!class="unsortable" nowrap|都道府県!!class="unsortable"|都道府県庁所在地!! class="unsortable" |位置!!人口<br />（人）!!面積<br />（km<sup>2</sup>）!!人口密度<br />（人/km<sup>2</sup>）!!集積度<br />（%）!!備考
+|-
+|[[北海道]]||style="text-align:left"|[[File:Flag of Sapporo, Hokkaido.svg|30px|札幌市の市旗（北海道）]] '''[[札幌市]]'''<br>[[File:SapporoCity Skylines2020.jpg|150px]] ||{{ウィキ座標|43|3|43.5|N|141|21|15.7|E|region:JP|地図|name=札幌市}}||{{formatnum:{{自治体人口/北海道|札幌市}}}}||{{formatnum:{{自治体面積/北海道|札幌市}}}}||{{formatnum:{{#expr:{{自治体人口/北海道|札幌市}}/{{自治体面積/北海道|札幌市}}round0}}}}||{{ #expr: 100*{{自治体人口/北海道|札幌市}} / {{自治体人口/北海道|北海道}} round 1}}||[[政令指定都市]]
+|-
+|[[青森県]]||style="text-align:left"|[[File:Flag of Aomori, Aomori.svg|30px|青森市の市旗（青森県）]] '''[[青森市]]'''<br>[[File:Aomori city from Hakkoda.jpg|150px]] ||{{ウィキ座標|40|49|19.2|N|140|44|50|E|region:JP|地図|name=青森市}}||{{formatnum:{{自治体人口/青森県|青森市}}}}||{{formatnum:{{自治体面積/青森県|青森市}}}}||{{formatnum:{{#expr:{{自治体人口/青森県|青森市}}/{{自治体面積/青森県|青森市}}round0}}}}||{{ #expr: 100*{{自治体人口/青森県|青森市}} / {{自治体人口/青森県|青森県}} round 1}}||[[中核市]]
+|-
+|[[岩手県]]||style="text-align:left"|[[File:Flag of Morioka, Iwate.svg|30px|盛岡市の市旗（岩手県）]] '''[[盛岡市]]'''<br>[[File:盛岡中心市街の眺望 View of Morioka City Centre - panoramio.jpg|150px]] ||{{ウィキ座標|39|42|7.1|N|141|9|15.8|E|region:JP|地図|name=盛岡市}}||{{formatnum:{{自治体人口/岩手県|盛岡市}}}}||{{formatnum:{{自治体面積/岩手県|盛岡市}}}}||{{formatnum:{{#expr:{{自治体人口/岩手県|盛岡市}}/{{自治体面積/岩手県|盛岡市}}round0}}}}||{{ #expr: 100*{{自治体人口/岩手県|盛岡市}} / {{自治体人口/岩手県|岩手県}} round 1}}||中核市
+|-
+|[[宮城県]]||style="text-align:left"|[[File:Flag of Sendai, Miyagi.svg|30px|仙台市の市旗（宮城県）]] '''[[仙台市]]'''<br>[[File:SendaiCity Skylines from Mukaiyama2018.jpg|150px]] ||{{ウィキ座標|38|16|5.2|N|140|52|9.6|E|region:JP|地図|name=仙台市}}||{{formatnum:{{自治体人口/宮城県|仙台市}}}}||{{formatnum:{{自治体面積/宮城県|仙台市}}}}||{{formatnum:{{#expr:{{自治体人口/宮城県|仙台市}}/{{自治体面積/宮城県|仙台市}}round0}}}}||{{ #expr: 100*{{自治体人口/宮城県|仙台市}} / {{自治体人口/宮城県|宮城県}} round 1}}||政令指定都市
+|-
+|[[秋田県]]||style="text-align:left"|[[File:Flag of Akita, Akita.svg|30px|秋田市の市旗（秋田県）]] '''[[秋田市]]'''<ref name="jorei">[[#都道府県庁の位置を定める条例]]より引用。</ref> <br>[[File:View from Kubota Castle 20170330.jpg|150px]] ||{{ウィキ座標|39|43|11.1|N|140|6|8|E|region:JP|地図|name=秋田市}}||{{formatnum:{{自治体人口/秋田県|秋田市}}}}||{{formatnum:{{自治体面積/秋田県|秋田市}}}}||{{formatnum:{{#expr:{{自治体人口/秋田県|秋田市}}/{{自治体面積/秋田県|秋田市}}round0}}}}||{{ #expr: 100*{{自治体人口/秋田県|秋田市}} / {{自治体人口/秋田県|秋田県}} round 1}}||中核市
+|-
+|[[山形県]]||style="text-align:left"|[[File:Flag of Yamagata, Yamagata.svg|30px|山形市の市旗（山形県）]] '''[[山形市]]'''<ref name="jorei" /> <br>[[File:Kajo Central View of top Original.jpg|150px]] ||{{ウィキ座標|38|15|19.4|N|140|20|22.3|E|region:JP|地図|name=山形市}}||{{formatnum:{{自治体人口/山形県|山形市}}}}||{{formatnum:{{自治体面積/山形県|山形市}}}}||{{formatnum:{{#expr:{{自治体人口/山形県|山形市}}/{{自治体面積/山形県|山形市}}round0}}}}||{{ #expr: 100*{{自治体人口/山形県|山形市}} / {{自治体人口/山形県|山形県}} round 1}}||中核市
+|-
+|[[福島県]]||style="text-align:left"|[[File:Flag of Fukushima, Fukushima.svg|30px|福島市の市旗（福島県）]] '''[[福島市]]'''<br>[[File:Fukushima City with a view of Fukushima Station.jpg|150px]] ||{{ウィキ座標|37|45|39.2|N|140|28|24.1|E|region:JP|地図|name=福島市}}||{{formatnum:{{自治体人口/福島県|福島市}}}}||{{formatnum:{{自治体面積/福島県|福島市}}}}||{{formatnum:{{#expr:{{自治体人口/福島県|福島市}}/{{自治体面積/福島県|福島市}}round0}}}}||{{ #expr: 100*{{自治体人口/福島県|福島市}} / {{自治体人口/福島県|福島県}} round 1}}||中核市
+|-
+|[[茨城県]]||style="text-align:left"|[[File:Flag of Mito, Ibaraki.svg|30px|水戸市の市旗（茨城県）]] '''[[水戸市]]'''<ref name="jorei" /> <br>[[File:JR Mito Station north entrance ac.jpg|150px]] ||{{ウィキ座標|36|21|57|N|140|28|16|E|region:JP|地図|name=水戸市}}||{{formatnum:{{自治体人口/茨城県|水戸市}}}}||{{formatnum:{{自治体面積/茨城県|水戸市}}}}||{{formatnum:{{#expr:{{自治体人口/茨城県|水戸市}}/{{自治体面積/茨城県|水戸市}}round0}}}}||{{0}}{{ #expr: 100*{{自治体人口/茨城県|水戸市}} / {{自治体人口/茨城県|茨城県}} round 1}}||中核市
+|-
+|[[栃木県]]||style="text-align:left"|[[File:Flag of Utsunomiya, Tochigi.svg|30px|宇都宮市の市旗（栃木県）]] '''[[宇都宮市]]'''<br>[[File:Central Utsunomiya, southeast side.jpg|150px]] ||{{ウィキ座標|36|33|18.1|N|139|52|58.1|E|region:JP|地図|name=宇都宮市}}||{{formatnum:{{自治体人口/栃木県|宇都宮市}}}}||{{formatnum:{{自治体面積/栃木県|宇都宮市}}}}||{{formatnum:{{#expr:{{自治体人口/栃木県|宇都宮市}}/{{自治体面積/栃木県|宇都宮市}}round0}}}}||{{ #expr: 100*{{自治体人口/栃木県|宇都宮市}} / {{自治体人口/栃木県|栃木県}} round 1}}||中核市
+|-
+|[[群馬県]]||style="text-align:left"|[[File:Flag of Maebashi, Gunma.svg|30px|前橋市の市旗（群馬県）]] '''[[前橋市]]'''<br>[[File:赤城山.jpg|150px]] ||{{ウィキ座標|36|23|21.7|N|139|3|47.9|E|region:JP|地図|name=前橋市}}||{{formatnum:{{自治体人口/群馬県|前橋市}}}}||{{formatnum:{{自治体面積/群馬県|前橋市}}}}||{{formatnum:{{#expr:{{自治体人口/群馬県|前橋市}}/{{自治体面積/群馬県|前橋市}}round0}}}}||{{ #expr: 100*{{自治体人口/群馬県|前橋市}} / {{自治体人口/群馬県|群馬県}} round 1}}||中核市
+|-
+|[[埼玉県]]||style="text-align:left"|[[File:Flag of Saitama, Saitama.svg|30px|さいたま市の市旗（埼玉県）]] '''[[さいたま市]]'''<br>[[File:SaitamaShintoshin night view.jpg|150px]] ||{{ウィキ座標|35|51|41.8|N|139|38|43.2|E|region:JP|地図|name=さいたま市}}||{{formatnum:{{自治体人口/埼玉県|さいたま市}}}}||{{formatnum:{{自治体面積/埼玉県|さいたま市}}}}||{{formatnum:{{#expr:{{自治体人口/埼玉県|さいたま市}}/{{自治体面積/埼玉県|さいたま市}}round0}}}}||{{ #expr: 100*{{自治体人口/埼玉県|さいたま市}} / {{自治体人口/埼玉県|埼玉県}} round 1}}||政令指定都市
+|-
+|[[千葉県]]||style="text-align:left"|[[File:Flag of Chiba, Chiba.svg|30px|千葉市の市旗（千葉県）]] '''[[千葉市]]'''<br>[[File:幕張新都心夜景.jpg|150px]] ||{{ウィキ座標|35|36|26.4|N|140|6|22.8|E|region:JP|地図|name=千葉市}}||{{formatnum:{{自治体人口/千葉県|千葉市}}}}||{{formatnum:{{自治体面積/千葉県|千葉市}}}}||{{formatnum:{{#expr:{{自治体人口/千葉県|千葉市}}/{{自治体面積/千葉県|千葉市}}round0}}}}||{{ #expr: 100*{{自治体人口/千葉県|千葉市}} / {{自治体人口/千葉県|千葉県}} round 1}}||政令指定都市
+|-
+|rowspan="2"|[[東京都]]||style="text-align:left"|'''[[東京|東京都区部]]'''<ref name="tokyosho1"/><ref name="tokyosho2"/><ref name="tokyofaq"/> <br>[[File:Night of Marunouchi20211021.jpg|150px]] ||rowspan="2"|{{ウィキ座標|35|41|37.8|N|139|42|11.9|E|region:JP|地図|name=東京}}||{{formatnum:{{自治体人口/東京都|23区計}}}}||627.57<ref>[http://www.gsi.go.jp/KOKUJYOHO/MENCHO/201510/opening.htm 平成27年全国都道府県市区町村別面積調]</ref>||{{formatnum:{{#expr:{{自治体人口/東京都|23区計}}/ 627.57 round 0}}}}||{{ #expr: 100*{{自治体人口/東京都|23区計}} / {{自治体人口/東京都|東京都}} round 1}}||旧[[東京市]]
+|-style="background-color: #eeeeee"
+|style="text-align:left"|[[File:Flag of Shinjuku, Tokyo.svg|30px|新宿区の区旗（東京都）]] '''[[新宿区]]'''<ref name="tokyofaq" /><ref name="ag10100011"/><ref name="jorei" /> <br>[[File:Tokyo Skyline20210123.jpg|150px]] ||{{formatnum:{{自治体人口/東京都|新宿区}}}}||{{formatnum:{{自治体面積/東京都|新宿区}}}}||{{formatnum:{{#expr:{{自治体人口/東京都|新宿区}}/{{自治体面積/東京都|新宿区}}round0}}}}||{{0}}{{ #expr: 100*{{自治体人口/東京都|新宿区}} / {{自治体人口/東京都|東京都}} round 1}}||[[特別区]]
+|-
+|[[神奈川県]]||style="text-align:left"|[[File:Flag_of_Yokohama,_Kanagawa.svg|30px|横浜市の市旗（神奈川県）]] '''[[横浜市]]'''<br>[[File:Skyline ofe YokohamaCity2020.jpg|150px]] ||{{ウィキ座標|35|26|37.4|N|139|38|17.2|E|region:JP|地図|name=横浜市}}||{{formatnum:{{自治体人口/神奈川県|横浜市}}}}||{{formatnum:{{自治体面積/神奈川県|横浜市}}}}||{{formatnum:{{#expr:{{自治体人口/神奈川県|横浜市}}/{{自治体面積/神奈川県|横浜市}}round0}}}}||{{ #expr: 100*{{自治体人口/神奈川県|横浜市}} / {{自治体人口/神奈川県|神奈川県}} round 1}}||政令指定都市
+|-
+|[[新潟県]]||style="text-align:left"|[[File:Flag of Niigata, Niigata.svg|30px|新潟市の市旗（新潟県）]] '''[[新潟市]]'''<ref name="jorei" /> <br>[[File:NiigataCity.jpg|150px]] ||{{ウィキ座標|37|54|58|N|139|2|11.3|E|region:JP|地図|name=新潟市}}||{{formatnum:{{自治体人口/新潟県|新潟市}}}}||{{formatnum:{{自治体面積/新潟県|新潟市}}}}||{{formatnum:{{#expr:{{自治体人口/新潟県|新潟市}}/{{自治体面積/新潟県|新潟市}}round0}}}}||{{ #expr: 100*{{自治体人口/新潟県|新潟市}} / {{自治体人口/新潟県|新潟県}} round 1}}||政令指定都市
+|-
+|[[富山県]]||style="text-align:left"|[[File:Flag of Toyama, Toyama.svg|30px|富山市の市旗（富山県）]] '''[[富山市]]'''<br>[[File:Anyobo, Toyama, Toyama Prefecture 930-0881, Japan - panoramio (14).jpg|150px]] ||{{ウィキ座標|36|41|45.1|N|137|12|49|E|region:JP|地図|name=富山市}}||{{formatnum:{{自治体人口/富山県|富山市}}}}||{{formatnum:{{自治体面積/富山県|富山市}}}}||{{formatnum:{{#expr:{{自治体人口/富山県|富山市}}/{{自治体面積/富山県|富山市}}round0}}}}||{{ #expr: 100*{{自治体人口/富山県|富山市}} / {{自治体人口/富山県|富山県}} round 1}}||中核市
+|-
+|[[石川県]]||style="text-align:left"|[[File:Flag of Kanazawa, Ishikawa.svg|30px|金沢市の市旗（石川県）]] '''[[金沢市]]'''<ref name="jorei" /> <br>[[File:望湖台２.jpg|150px]] ||{{ウィキ座標|36|33|39.6|N|136|39|23.6|E|region:JP|地図|name=金沢市}}||{{formatnum:{{自治体人口/石川県|金沢市}}}}||{{formatnum:{{自治体面積/石川県|金沢市}}}}||{{formatnum:{{#expr:{{自治体人口/石川県|金沢市}}/{{自治体面積/石川県|金沢市}}round0}}}}||{{ #expr: 100*{{自治体人口/石川県|金沢市}} / {{自治体人口/石川県|石川県}} round 1}}||中核市
+|-
+|[[福井県]]||style="text-align:left"|[[File:Flag of Fukui, Fukui.svg|30px|福井市の市旗（福井県）]] '''[[福井市]]'''<br>[[File:Skyline of Fukui City02.jpg|150px]] ||{{ウィキ座標|36|3|50.4|N|136|13|10.4|E|region:JP|地図|name=福井市}}||{{formatnum:{{自治体人口/福井県|福井市}}}}||{{formatnum:{{自治体面積/福井県|福井市}}}}||{{formatnum:{{#expr:{{自治体人口/福井県|福井市}}/{{自治体面積/福井県|福井市}}round0}}}}||{{ #expr: 100*{{自治体人口/福井県|福井市}} / {{自治体人口/福井県|福井県}} round 1}}||中核市
+|-
+|[[山梨県]]||style="text-align:left"|[[File:Flag of Kofu, Yamanashi.svg|30px|甲府市の市旗（山梨県）]] '''[[甲府市]]'''<br>[[File:The night view of Kofu City.jpg|150px]] ||{{ウィキ座標|35|39|43.7|N|138|34|5.7|E|region:JP|地図|name=甲府市}}||{{formatnum:{{自治体人口/山梨県|甲府市}}}}||{{formatnum:{{自治体面積/山梨県|甲府市}}}}||{{formatnum:{{#expr:{{自治体人口/山梨県|甲府市}}/{{自治体面積/山梨県|甲府市}}round0}}}}||{{ #expr: 100*{{自治体人口/山梨県|甲府市}} / {{自治体人口/山梨県|山梨県}} round 1}}||中核市
+|-
+|[[長野県]]||style="text-align:left"|[[File:Flag of Nagano, Nagano.svg|30px|長野市の市旗（長野県）]] '''[[長野市]]'''<br>[[File:Skyline of NaganoCity from Unjoden0.jpg|150px]] ||{{ウィキ座標|36|38|54.7|N|138|11|39.2|E|region:JP|地図|name=長野市}}||{{formatnum:{{自治体人口/長野県|長野市}}}}||{{formatnum:{{自治体面積/長野県|長野市}}}}||{{formatnum:{{#expr:{{自治体人口/長野県|長野市}}/{{自治体面積/長野県|長野市}}round0}}}}||{{ #expr: 100*{{自治体人口/長野県|長野市}} / {{自治体人口/長野県|長野県}} round 1}}||中核市
+|-
+|[[岐阜県]]||style="text-align:left"|[[File:Flag of Gifu, Gifu.svg|30px|岐阜市の市旗（岐阜県）]] '''[[岐阜市]]'''<ref name="jorei" /> <br>[[File:Gifu City Tower 43 and Gifu Sky Wing 37 from Twinarch138.jpg|150px]] ||{{ウィキ座標|35|25|24|N|136|45|38.2|E|region:JP|地図|name=岐阜市}}||{{formatnum:{{自治体人口/岐阜県|岐阜市}}}}||{{formatnum:{{自治体面積/岐阜県|岐阜市}}}}||{{formatnum:{{#expr:{{自治体人口/岐阜県|岐阜市}}/{{自治体面積/岐阜県|岐阜市}}round0}}}}||{{ #expr: 100*{{自治体人口/岐阜県|岐阜市}} / {{自治体人口/岐阜県|岐阜県}} round 1}}||中核市
+|-
+|[[静岡県]]||style="text-align:left"|[[File:Flag_of_Shizuoka,_Shizuoka.svg|30px|静岡市の市章（静岡県）]] '''[[静岡市]]'''<br>[[File:Higashi-Shizuoka Panorama 05.jpg|150px]] ||{{ウィキ座標|34|58|32.1|N|138|22|57.2|E|region:JP|地図|name=静岡市}}||{{formatnum:{{自治体人口/静岡県|静岡市}}}}||{{formatnum:{{自治体面積/静岡県|静岡市}}}}||{{formatnum:{{#expr:{{自治体人口/静岡県|静岡市}}/{{自治体面積/静岡県|静岡市}}round0}}}}||{{ #expr: 100*{{自治体人口/静岡県|静岡市}} / {{自治体人口/静岡県|静岡県}} round 1}}||政令指定都市
+|-
+|[[愛知県]]||style="text-align:left"|[[File:Flag_of_Nagoya.svg|30px|名古屋市の市旗（愛知県）]] '''[[名古屋市]]'''<br>[[File:Nagoya Night View.jpg|150px]] ||{{ウィキ座標|35|10|52.9|N|136|54|22.6|E|region:JP|地図|name=名古屋市}}||{{formatnum:{{自治体人口/愛知県|名古屋市}}}}||{{formatnum:{{自治体面積/愛知県|名古屋市}}}}||{{formatnum:{{#expr:{{自治体人口/愛知県|名古屋市}}/{{自治体面積/愛知県|名古屋市}}round0}}}}||{{ #expr: 100*{{自治体人口/愛知県|名古屋市}} / {{自治体人口/愛知県|愛知県}} round 1}}||政令指定都市
+|-
+|[[三重県]]||style="text-align:left"|[[File:Flag of Tsu, Mie.svg|30px|津市の市旗（三重県）]] '''[[津市]]'''<br>[[File:Skyline of Tsu City01.jpg|150px]] ||{{ウィキ座標|34|43|7.1|N|136|30|19.8|E|region:JP|地図|name=津市}}||{{formatnum:{{自治体人口/三重県|津市}}}}||{{formatnum:{{自治体面積/三重県|津市}}}}||{{formatnum:{{#expr:{{自治体人口/三重県|津市}}/{{自治体面積/三重県|津市}}round0}}}}||{{ #expr: 100*{{自治体人口/三重県|津市}} / {{自治体人口/三重県|三重県}} round 1}}||－
+|-
+|[[滋賀県]]||style="text-align:left"|[[File:Flag of Otsu, Shiga.svg|30px|大津市の市旗（滋賀県）]] '''[[大津市]]'''<br>[[File:Otsu city center area No,1.JPG|150px]] ||{{ウィキ座標|35|1|3.9|N|135|51|17.3|E|region:JP|地図|name=大津市}}||{{formatnum:{{自治体人口/滋賀県|大津市}}}}||{{formatnum:{{自治体面積/滋賀県|大津市}}}}||{{formatnum:{{#expr:{{自治体人口/滋賀県|大津市}}/{{自治体面積/滋賀県|大津市}}round0}}}}||{{ #expr: 100*{{自治体人口/滋賀県|大津市}} / {{自治体人口/滋賀県|滋賀県}} round 1}}||中核市
+|-
+|[[京都府]]||style="text-align:left"|[[File:Flag of Kyoto City.svg|30px|京都市の市旗（京都府）]] '''[[京都市]]'''<br>[[File:Skyline of Kyoto at Night.jpg|150px]] ||{{ウィキ座標|35|0|41.8|N|135|46|5.2|E|region:JP|地図|name=京都市}}||{{formatnum:{{自治体人口/京都府|京都市}}}}||{{formatnum:{{自治体面積/京都府|京都市}}}}||{{formatnum:{{#expr:{{自治体人口/京都府|京都市}}/{{自治体面積/京都府|京都市}}round0}}}}||{{ #expr: 100*{{自治体人口/京都府|京都市}} / {{自治体人口/京都府|京都府}} round 1}}||政令指定都市
+|-
+|[[大阪府]]||style="text-align:left"|[[File:Flag of Osaka City.svg|30px|大阪市の市旗（大阪府）]] '''[[大阪市]]'''<br>[[File:Osaka Umeda Sky Building Panoramablick 05.jpg|150px]] ||{{ウィキ座標|34|41|37.4|N|135|30|8.5|E|region:JP|地図|name=大阪市}}||{{formatnum:{{自治体人口/大阪府|大阪市}}}}||{{formatnum:{{自治体面積/大阪府|大阪市}}}}||{{formatnum:{{#expr:{{自治体人口/大阪府|大阪市}}/{{自治体面積/大阪府|大阪市}}round0}}}}||{{ #expr: 100*{{自治体人口/大阪府|大阪市}} / {{自治体人口/大阪府|大阪府}} round 1}}||政令指定都市
+|-
+|[[兵庫県]]||style="text-align:left"|[[File:Flag_of_Kobe.svg|30px|神戸市の市旗（兵庫県）]] '''[[神戸市]]'''<br>[[File:Kobe Meriken Park area at night 2016-06-14.jpg|150px]] ||{{ウィキ座標|34|41|22|N|135|11|44.7|E|region:JP|地図|name=神戸市}}||{{formatnum:{{自治体人口/兵庫県|神戸市}}}}||{{formatnum:{{自治体面積/兵庫県|神戸市}}}}||{{formatnum:{{#expr:{{自治体人口/兵庫県|神戸市}}/{{自治体面積/兵庫県|神戸市}}round0}}}}||{{ #expr: 100*{{自治体人口/兵庫県|神戸市}} / {{自治体人口/兵庫県|兵庫県}} round 1}}||政令指定都市
+|-
+|[[奈良県]]||style="text-align:left"|[[File:Flag of Nara, Nara (no text).svg|30px|奈良市の市旗（奈良県）]] '''[[奈良市]]'''<ref name="jorei" /> <br>[[File:Skyline of Nara City02.jpg|150px]] ||{{ウィキ座標|34|41|6.6|N|135|48|17.4|E|region:JP|地図|name=奈良市}}||{{formatnum:{{自治体人口/奈良県|奈良市}}}}||{{formatnum:{{自治体面積/奈良県|奈良市}}}}||{{formatnum:{{#expr:{{自治体人口/奈良県|奈良市}}/{{自治体面積/奈良県|奈良市}}round0}}}}||{{ #expr: 100*{{自治体人口/奈良県|奈良市}} / {{自治体人口/奈良県|奈良県}} round 1}}||中核市
+|-
+|[[和歌山県]]||style="text-align:left"|[[File:Flag of Wakayama, Wakayama.svg|30px|和歌山市の市旗（和歌山県）]] '''[[和歌山市]]'''<br>[[File:View from Wakayama castle 20210724-1.jpg|150px]] ||{{ウィキ座標|34|13|49.7|N|135|10|15.1|E|region:JP|地図|name=和歌山市}}||{{formatnum:{{自治体人口/和歌山県|和歌山市}}}}||{{formatnum:{{自治体面積/和歌山県|和歌山市}}}}||{{formatnum:{{#expr:{{自治体人口/和歌山県|和歌山市}}/{{自治体面積/和歌山県|和歌山市}}round0}}}}||{{ #expr: 100*{{自治体人口/和歌山県|和歌山市}} / {{自治体人口/和歌山県|和歌山県}} round 1}}||中核市
+|-
+|[[鳥取県]]||style="text-align:left"|[[File:Flag of Tottori, Tottori.svg|30px|鳥取市の市旗（鳥取県）]] '''[[鳥取市]]'''<br>[[File:Tottori Station view.JPG|150px]] ||{{ウィキ座標|35|30|3.5|N|134|14|6.8|E|region:JP|地図|name=鳥取市}}||{{formatnum:{{自治体人口/鳥取県|鳥取市}}}}||{{formatnum:{{自治体面積/鳥取県|鳥取市}}}}||{{formatnum:{{#expr:{{自治体人口/鳥取県|鳥取市}}/{{自治体面積/鳥取県|鳥取市}}round0}}}}||{{ #expr: 100*{{自治体人口/鳥取県|鳥取市}} / {{自治体人口/鳥取県|鳥取県}} round 1}}||中核市
+|-
+|[[島根県]]||style="text-align:left"|[[File:Flag of Matsue, Shimane.svg|30px|松江市の市旗（島根県）]] '''[[松江市]]'''<br>[[File:Tonomachi, Matsue, Shimane Prefecture 690-0887, Japan - panoramio (2).jpg|150px]] ||{{ウィキ座標|35|28|5|N|133|2|55.2|E|region:JP|地図|name=松江市}}||{{formatnum:{{自治体人口/島根県|松江市}}}}||{{formatnum:{{自治体面積/島根県|松江市}}}}||{{formatnum:{{#expr:{{自治体人口/島根県|松江市}}/{{自治体面積/島根県|松江市}}round0}}}}||{{ #expr: 100*{{自治体人口/島根県|松江市}} / {{自治体人口/島根県|島根県}} round 1}}||中核市
+|-
+|[[岡山県]]||style="text-align:left"|[[File:Flag of Okayama, Okayama.svg|30px|岡山市の市旗（岡山県）]] '''[[岡山市]]'''<br>[[File:Okayama Station west side - panoramio.jpg|150px]] ||{{ウィキ座標|34|39|18.9|N|133|55|11.1|E|region:JP|地図|name=岡山市}}||{{formatnum:{{自治体人口/岡山県|岡山市}}}}||{{formatnum:{{自治体面積/岡山県|岡山市}}}}||{{formatnum:{{#expr:{{自治体人口/岡山県|岡山市}}/{{自治体面積/岡山県|岡山市}}round0}}}}||{{ #expr: 100*{{自治体人口/岡山県|岡山市}} / {{自治体人口/岡山県|岡山県}} round 1}}||政令指定都市
+|-
+|[[広島県]]||style="text-align:left"|[[File:Flag_of_Hiroshima_City.svg|30px|広島市の市旗（広島県）]] '''[[広島市]]'''<ref name="jorei" /> <br>[[File:Night views from Mount Kogane01.jpg|150px]] ||{{ウィキ座標|34|23|6.7|N|132|27|18.7|E|region:JP|地図|name=広島市}}||{{formatnum:{{自治体人口/広島県|広島市}}}}||{{formatnum:{{自治体面積/広島県|広島市}}}}||{{formatnum:{{#expr:{{自治体人口/広島県|広島市}}/{{自治体面積/広島県|広島市}}round0}}}}||{{ #expr: 100*{{自治体人口/広島県|広島市}} / {{自治体人口/広島県|広島県}} round 1}}||政令指定都市
+|-
+|[[山口県]]||style="text-align:left"|[[File:Flag of Yamaguchi, Yamaguchi.svg|30px|山口市の市旗（山口県）]] '''[[山口市]]'''<br>[[File:The cityscape of Yamaguchi 20130821.jpg|150px]] ||{{ウィキ座標|34|10|41|N|131|28|25.3|E|region:JP|地図|name=山口市}}||{{formatnum:{{自治体人口/山口県|山口市}}}}||{{formatnum:{{自治体面積/山口県|山口市}}}}||{{formatnum:{{#expr:{{自治体人口/山口県|山口市}}/{{自治体面積/山口県|山口市}}round0}}}}||{{ #expr: 100*{{自治体人口/山口県|山口市}} / {{自治体人口/山口県|山口県}} round 1}}||－
+|-
+|[[徳島県]]||style="text-align:left"|[[File:Flag of Tokushima, Tokushima.svg|30px|徳島市の市旗（徳島県）]] '''[[徳島市]]'''<ref name="jorei" /> <br>[[File:Tokushima City View from the Top of Bizan 20200405.jpg|150px]] ||{{ウィキ座標|34|4|13|N|134|33|17.7|E|region:JP|地図|name=徳島市}}||{{formatnum:{{自治体人口/徳島県|徳島市}}}}||{{formatnum:{{自治体面積/徳島県|徳島市}}}}||{{formatnum:{{#expr:{{自治体人口/徳島県|徳島市}}/{{自治体面積/徳島県|徳島市}}round0}}}}||{{ #expr: 100*{{自治体人口/徳島県|徳島市}} / {{自治体人口/徳島県|徳島県}} round 1}}||－
+|-
+|[[香川県]]||style="text-align:left"|[[File:Flag of Takamatsu, Kagawa.svg|30px|高松市の市旗（香川県）]] '''[[高松市]]'''<br>[[File:香川県の風景.jpg|150px]] ||{{ウィキ座標|34|20|34|N|134|2|47.2|E|region:JP|地図|name=高松市}}||{{formatnum:{{自治体人口/香川県|高松市}}}}||{{formatnum:{{自治体面積/香川県|高松市}}}}||{{formatnum:{{#expr:{{自治体人口/香川県|高松市}}/{{自治体面積/香川県|高松市}}round0}}}}||{{ #expr: 100*{{自治体人口/香川県|高松市}} / {{自治体人口/香川県|香川県}} round 1}}||中核市
+|-
+|[[愛媛県]]||style="text-align:left"|[[File:Flag of Matsuyama, Ehime.svg|30px|松山市の市旗（愛媛県）]] '''[[松山市]]'''<br>[[File:Views from Matsuyama Castle (Iyo) 20170123-5.jpg|150px]] ||{{ウィキ座標|33|50|21.2|N|132|45|55.9|E|region:JP|地図|name=松山市}}||{{formatnum:{{自治体人口/愛媛県|松山市}}}}||{{formatnum:{{自治体面積/愛媛県|松山市}}}}||{{formatnum:{{#expr:{{自治体人口/愛媛県|松山市}}/{{自治体面積/愛媛県|松山市}}round0}}}}||{{ #expr: 100*{{自治体人口/愛媛県|松山市}} / {{自治体人口/愛媛県|愛媛県}} round 1}}||中核市
+|-
+|[[高知県]]||style="text-align:left"|[[File:Flag of Kochi, Kochi.svg|30px|高知市の市旗（高知県）]] '''[[高知市]]'''<br> [[File:Kochi-City.jpg|150px]] ||{{ウィキ座標|33|33|31.7|N|133|31|52|E|region:JP|地図|name=高知市}}||{{formatnum:{{自治体人口/高知県|高知市}}}}||{{formatnum:{{自治体面積/高知県|高知市}}}}||{{formatnum:{{#expr:{{自治体人口/高知県|高知市}}/{{自治体面積/高知県|高知市}}round0}}}}||{{ #expr: 100*{{自治体人口/高知県|高知市}} / {{自治体人口/高知県|高知県}} round 1}}||中核市
+|-
+|[[福岡県]]||style="text-align:left"|[[File:Flag of Fukuoka, Fukuoka.svg|30px|福岡市の市旗（福岡県）]] '''[[福岡市]]'''<br>[[File:Fukuoka night view.jpg|150px]] ||{{ウィキ座標|33|35|24.3|N|130|24|5.8|E|region:JP|地図|name=福岡市}}||{{formatnum:{{自治体人口/福岡県|福岡市}}}}||{{formatnum:{{自治体面積/福岡県|福岡市}}}}||{{formatnum:{{#expr:{{自治体人口/福岡県|福岡市}}/{{自治体面積/福岡県|福岡市}}round0}}}}||{{ #expr: 100*{{自治体人口/福岡県|福岡市}} / {{自治体人口/福岡県|福岡県}} round 1}}||政令指定都市
+|-
+|[[佐賀県]]||style="text-align:left"|[[File:Flag of Saga, Saga.svg|30px|佐賀市の市旗（佐賀県）]] '''[[佐賀市]]'''<br>[[File:Saga cityscape northward wide.JPG|150px]] ||{{ウィキ座標|33|15|48.7|N|130|18|2.8|E|region:JP|地図|name=佐賀市}}||{{formatnum:{{自治体人口/佐賀県|佐賀市}}}}||{{formatnum:{{自治体面積/佐賀県|佐賀市}}}}||{{formatnum:{{#expr:{{自治体人口/佐賀県|佐賀市}}/{{自治体面積/佐賀県|佐賀市}}round0}}}}||{{ #expr: 100*{{自治体人口/佐賀県|佐賀市}} / {{自治体人口/佐賀県|佐賀県}} round 1}}||施行時特例市
+|-
+|[[長崎県]]||style="text-align:left"|[[File:Flag of Nagasaki, Nagasaki.svg|30px|長崎市の市旗（長崎県）]] '''[[長崎市]]'''<br>[[File:Nagasaki City View from Glover Garden, Nagasaki 2014.jpg|150px]] ||{{ウィキ座標|32|45|1|N|129|52|40|E|region:JP|地図|name=長崎市}}||{{formatnum:{{自治体人口/長崎県|長崎市}}}}||{{formatnum:{{自治体面積/長崎県|長崎市}}}}||{{formatnum:{{#expr:{{自治体人口/長崎県|長崎市}}/{{自治体面積/長崎県|長崎市}}round0}}}}||{{ #expr: 100*{{自治体人口/長崎県|長崎市}} / {{自治体人口/長崎県|長崎県}} round 1}}||中核市
+|-
+|[[熊本県]]||style="text-align:left"|[[File:Flag of Kumamoto, Kumamoto.svg|30px|熊本市の市旗（熊本県）]] '''[[熊本市]]'''<br>[[File:View from Kumamoto Castle.jpg|150px]] ||{{ウィキ座標|32|48|11|N|130|42|28.2|E|region:JP|地図|name=熊本市}}||{{formatnum:{{自治体人口/熊本県|熊本市}}}}||{{formatnum:{{自治体面積/熊本県|熊本市}}}}||{{formatnum:{{#expr:{{自治体人口/熊本県|熊本市}}/{{自治体面積/熊本県|熊本市}}round0}}}}||{{ #expr: 100*{{自治体人口/熊本県|熊本市}} / {{自治体人口/熊本県|熊本県}} round 1}}||政令指定都市
+|-
+|[[大分県]]||style="text-align:left"|[[File:Flag of Oita, Oita.svg|30px|大分市の市旗（大分県）]] '''[[大分市]]'''<br>[[File:Oita Industrial Area.jpg|150px]] ||{{ウィキ座標|33|14|22.3|N|131|36|33.1|E|region:JP|地図|name=大分市}}||{{formatnum:{{自治体人口/大分県|大分市}}}}||{{formatnum:{{自治体面積/大分県|大分市}}}}||{{formatnum:{{#expr:{{自治体人口/大分県|大分市}}/{{自治体面積/大分県|大分市}}round0}}}}||{{ #expr: 100*{{自治体人口/大分県|大分市}} / {{自治体人口/大分県|大分県}} round 1}}||中核市
+|-
+|[[宮崎県]]||style="text-align:left"|[[File:Flag of Miyazaki, Miyazaki.svg|30px|宮崎市の市旗（宮崎県）]] '''[[宮崎市]]'''<br>[[File:Downtown of Miyazaki City01.jpg|150px]] ||{{ウィキ座標|31|54|27.7|N|131|25|13.1|E|region:JP|地図|name=宮崎市}}||{{formatnum:{{自治体人口/宮崎県|宮崎市}}}}||{{formatnum:{{自治体面積/宮崎県|宮崎市}}}}||{{formatnum:{{#expr:{{自治体人口/宮崎県|宮崎市}}/{{自治体面積/宮崎県|宮崎市}}round0}}}}||{{ #expr: 100*{{自治体人口/宮崎県|宮崎市}} / {{自治体人口/宮崎県|宮崎県}} round 1}}||中核市
+|-
+|[[鹿児島県]]||style="text-align:left"|[[File:Flag of Kagoshima, Kagoshima.svg|30px|鹿児島市の市旗（鹿児島県）]] '''[[鹿児島市]]'''<ref name="jorei" /> <br>[[File:Sakurajima n700.jpg|150px]] ||{{ウィキ座標|31|35|48|N|130|33|26.3|E|region:JP|地図|name=鹿児島市}}||{{formatnum:{{自治体人口/鹿児島県|鹿児島市}}}}||{{formatnum:{{自治体面積/鹿児島県|鹿児島市}}}}||{{formatnum:{{#expr:{{自治体人口/鹿児島県|鹿児島市}}/{{自治体面積/鹿児島県|鹿児島市}}round0}}}}||{{ #expr: 100*{{自治体人口/鹿児島県|鹿児島市}} / {{自治体人口/鹿児島県|鹿児島県}} round 1}}||中核市
+|-
+|[[沖縄県]]||style="text-align:left"|[[File:Flag of Naha, Okinawa.svg|30px|那覇市の市旗（沖縄県）]] '''[[那覇市]]'''<ref name="jorei" /> <br>[[File:Naha Shintoshin seen from Shuri Castle 202011.jpg|150px]] ||{{ウィキ座標|26|12|44.7|N|127|40|44.7|E|region:JP|地図|name=那覇市}}||{{formatnum:{{自治体人口/沖縄県|那覇市}}}}||{{formatnum:{{自治体面積/沖縄県|那覇市}}}}||{{formatnum:{{#expr:{{自治体人口/沖縄県|那覇市}}/{{自治体面積/沖縄県|那覇市}}round0}}}}||{{ #expr: 100*{{自治体人口/沖縄県|那覇市}} / {{自治体人口/沖縄県|沖縄県}} round 1}}||中核市
+|}
+
+== その他 ==
+=== 県の名称がついているが、県庁所在地ではない都市 ===
+* [[岩手県]]：'''[[岩手町]]'''（[[盛岡市]]が県庁所在地。[[岩手郡]]が由来。）
+* [[茨城県]]：'''[[茨城町]]'''（[[水戸市]]が県庁所在地。[[茨城郡]]が由来。）
+* [[栃木県]]：'''[[栃木市]]'''（[[宇都宮市]]が県庁所在地。当初は県庁が置かれた。[[栃木県庁の移転]]を参照。）
+* [[山梨県]]：'''[[山梨市]]'''（[[甲府市]]が県庁所在地。[[山梨郡]]が由来。）
+* [[沖縄県]]：'''[[沖縄市]]'''（[[那覇市]]が県庁所在地。県名自体が由来で、コザ市と美里村の合併で誕生した。）
+
+=== かつて都道府県の名称と同一であった、市町村 ===
+* [[宮城県]]：旧[[宮城町]]（[[仙台市]]が県庁所在地。[[宮城郡]]が由来。現在は仙台市[[青葉区 (仙台市)|青葉区]]の一部）
+* [[群馬県]]：旧[[群馬町]]（[[前橋市]]が県庁所在地。[[群馬郡]]が由来。現在は[[高崎市]]の一部）
+* [[埼玉県]]：旧[[埼玉村]]（[[さいたま市]]が県庁所在地。[[埼玉郡]]が由来。現在は[[行田市]]の一部。ただし、読みは「さきたま」）
+* 旧[[東京府]]（現[[東京都]]）：旧[[東京市]]（当時は府庁所在地。同市の[[麹町区]]に東京市役所と東京府庁が所在。現在は[[東京都区部]]、いわゆる東京23区）
+* [[神奈川県]]：旧[[神奈川町]]（[[横浜市]]が県庁所在地。[[神奈川宿]]が由来。現在は横浜市[[神奈川区]]・[[西区 (横浜市)|西区]]の一部）
+* [[新潟県]]：旧[[新潟村]]（[[新潟市]]が県庁所在地。現在は[[見附市]]の一部）
+* [[石川県]]：旧[[石川村 (石川県)|石川村]]（[[金沢市]]が県庁所在地。[[石川郡 (石川県)|石川郡]]が由来。現在は[[白山市]]の一部）
+* [[愛知県]]：旧[[愛知町]]（[[名古屋市]]が県庁所在地。[[愛知郡 (愛知県)|愛知郡]]が由来。現在は名古屋市[[中川区]]・[[中村区]]の一部）
+* [[三重県]]：旧[[三重村 (三重県)|三重村]]（[[津市]]が県庁所在地。[[三重郡]]が由来。現在は[[四日市市]]の一部）
+* [[滋賀県]]：旧[[滋賀村]]（[[大津市]]が県庁所在地。[[滋賀郡]]が由来。現在は大津市の一部）
+* [[兵庫県]]：旧[[兵庫村]]（[[神戸市]]が県庁所在地。[[神戸港|兵庫津]]が由来。現在は神戸市[[兵庫区]]の一部）
+* [[島根県]]：旧[[島根町]]（[[松江市]]が県庁所在地。[[島根郡]]が由来。現在は松江市の一部）
+* [[香川県]]：旧[[香川町]]（[[高松市]]が県庁所在地。[[香川郡]]が由来。現在は高松市の一部）
+* [[大分県]]：旧[[大分町]]（[[大分市]]が県庁所在地。[[大分郡]]が由来。現在は大分市の一部）
+
+=== 隣接する都道府県庁所在地 ===
+==== 陸上で直接的に接している場所 ====
+* [[仙台市]]と[[山形市]]（直線距離換算約44.6km<ref name=“国土地理院20180115”>{{Cite web|title=都道府県庁間の距離|url=https://www.gsi.go.jp/common/000195510.pdf|publisher=国土地理院|archivedate=2024-01-04|archiveurl=https://warp.ndl.go.jp/web/20240126000000/www.gsi.go.jp/common/000195510.pdf|accessdate=2024-11-04}}</ref>。[[1988年]][[3月1日]]の[[名取郡]][[秋保町]]が仙台市と合併したときから）
+* [[京都市]]と[[大津市]]（直線距離換算約10.5km<ref name=“国土地理院20180115” />。[[1889年]][[4月1日]]の[[町村制]]施行により[[滋賀郡]]藤尾村が大津町〈現・大津市〉と合併したときから）
+* [[福岡市]]と[[佐賀市]]（直線距離換算約41.1km<ref name=“国土地理院20180115” />。[[2005年]][[10月1日]]の[[神埼郡]][[三瀬村 (佐賀県)|三瀬村]]が佐賀市と合併したときから）
+
+==== 海上を隔てて間接的に接している場所 ====
+* [[和歌山市]]と[[徳島市]]（直線距離換算約58.8km<ref name=“国土地理院20180115” />。1889年4月1日の[[市制]]施行によるもの。[[紀伊水道]]を隔てて隣接しており、また両市間を結んでいる航路で接続している）
+
+=== 県庁所在地の都市よりも人口が多い市 ===
+:※ 市の人口は、最新の[[推計人口]]（→[[日本の市の人口順位]]）、その右側の数値は[[人口密度]]。
+:※ 県庁所在地は'''太字'''。
+
+; [[福島県]]
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+# [[郡山市]]（{{Formatnum:{{自治体人口/福島県|郡山市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/福島県|郡山市}} / 757.06 round 1}}}}人/km<sup>2</sup>）
+# [[いわき市]]（{{Formatnum:{{自治体人口/福島県|いわき市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/福島県|いわき市}} / 1231.35 round 1}}}}人/km<sup>2</sup>）
+# '''[[福島市]]'''（{{Formatnum:{{自治体人口/福島県|福島市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/福島県|福島市}} / 767.74 round 1}}}}人/km<sup>2</sup>）
+</div>{{clear|left}}
+; 
+;[[群馬県]]
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+# [[高崎市]]（{{Formatnum:{{自治体人口/群馬県|高崎市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/群馬県|高崎市}} / 459.41 round 1}}}}人/km<sup>2</sup>）
+# '''[[前橋市]]'''（{{Formatnum:{{自治体人口/群馬県|前橋市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/群馬県|前橋市}} / 311.64 round 1}}}}人/km<sup>2</sup>）
+</div>{{clear|left}}両者は隣接しており、新幹線の駅がある高崎と県庁がある前橋は経済的結びつきは強い。<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+;[[静岡県]]
+# [[浜松市]]（{{Formatnum:{{自治体人口/静岡県|浜松市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/静岡県|浜松市}} / 1558.04 round 1}}}}人/km<sup>2</sup>）
+# '''[[静岡市]]'''（{{Formatnum:{{自治体人口/静岡県|静岡市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/静岡県|静岡市}} / 1411.93 round 1}}}}人/km<sup>2</sup>）
+</div>{{clear|left}}
+; [[三重県]]
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+# [[四日市市]]（{{Formatnum:{{自治体人口/三重県|四日市市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/三重県|四日市市}} / 205.58 round 1}}}}人/km<sup>2</sup>）
+# '''[[津市]]'''（{{Formatnum:{{自治体人口/三重県|津市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/三重県|津市}} / 710.81 round 1}}}}人/km<sup>2</sup>）
+</div>{{clear|left}}
+; [[山口県]]
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+# [[下関市]]（{{Formatnum:{{自治体人口/山口県|下関市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/山口県|下関市}} / 716.17 round 1}}}}人/km<sup>2</sup>）
+# '''[[山口市]]'''（{{Formatnum:{{自治体人口/山口県|山口市}}}}人）（{{Formatnum:{{#expr:{{自治体人口/山口県|山口市}} / 1023.31 round 1}}}}人/km<sup>2</sup>）
+</div>{{clear|left}}　
+
+; その他
+:* 北海道の[[札幌市]]（札幌区）は、[[函館市]]（函館区）、[[小樽市]]（小樽区）より人口が少ない時期があった。
+:* 青森県の[[青森市]]（青森町）は、[[弘前市]]より人口が少ない時期があり、市制施行も同市に次いで2番目であった。
+:* 山形県の[[山形市]]は、[[米沢市]]より人口が少ない時期があった。
+:* 福島県の[[福島市]]（福島町）は、[[会津若松市]]（若松市）より人口が少ない時期があり、市制施行も同市に次いで2番目であった。
+:* 茨城県の[[水戸市]]は、[[日立市]]より人口が少ない時期があった。
+:* 群馬県の[[前橋市]]は、[[桐生市]]より人口が少ない時期があった。
+:* 埼玉県の旧[[浦和市]]（浦和町）は、[[川越市]]（[[川越町 (埼玉県)|川越町]]）、[[熊谷市]]（熊谷町）、[[川口市]]（[[川口町 (埼玉県)|川口町]]）、旧[[大宮市]]（北足立郡[[大宮町 (埼玉県)|大宮町]]）、[[行田市]]（忍町）、[[本庄市]]（[[本庄町 (埼玉県)|本庄町]]）、[[深谷市]]（[[深谷町]]）、[[秩父市]]（秩父郡大宮町）より人口が少ない時期があり、市制施行も川越市、熊谷市、川口市に次いで4番目であった。ただし、旧大宮市、旧[[与野市]]と合併して[[さいたま市]]となる直前の1990年代後半には当時県内で最大都市だった川口市の人口を上回り、県内最大都市となっていた。
+:* 東京都の都庁は[[新宿区]]に置かれているが、全市区町村の中で最も人口の多いのは[[世田谷区]]である。
+:* 長野県の[[長野市]]（長野町）は、[[松本市]]（松本町）より人口が少ない時期があり、市制施行後は[[岡谷市]]（平野村）より人口が少ない時期があった。
+:* 富山県の[[富山市]]は、[[高岡市]]より人口が少ない時期があった。
+:* 三重県の[[津市]]は、[[鈴鹿市]]、[[松阪市]]より人口が少ない時期があった。
+:* 広島県の[[広島市]]は、[[呉市]]より人口が少ない時期があった。
+:* 山口県の[[山口市]]は、[[宇部市]]、旧[[徳山市]]、[[防府市]]より人口が少ない時期があり、市制施行も[[下関市]]、[[宇部市]]に次いで3番目であった。
+:* 福岡県の[[福岡市]]は、戦前には旧[[八幡市 (福岡県)|八幡市]]、戦後には[[北九州市]]より人口が少ない時期があり、[[政令指定都市]]の指定も北九州市の方が先である。
+:* 長崎県の[[長崎市]]は、[[佐世保市]]より人口が少ない時期があった。
+:* 宮崎県の[[宮崎市]]（宮崎町）は、[[都城市]]（都城町）、[[小林市]]（小林町）より人口が少ない時期があり、市制施行後は[[延岡市]]より人口が少ない時期があった。
+:* 所在する都道府県内に占める人口シェアが最も多い都道府県庁所在地市区は京都府の[[京都市]]であり、47市区（[[東京特別区]]を別々の自治体と見なす場合）で唯一都道府県全体の人口の50%を超える。
+:* 所在する都道府県全体に占める人口シェアが最も少ない都道府県庁所在地市区は東京都[[新宿区]]。なお、東京特別区をひとつの自治体と見なす場合は茨城県の[[水戸市]]であり、唯一都道府県全体の人口の10%に満たない。
+<!--
+
+（編注：当時の都市名、県庁所在地となっていた時期が不明なのでいったんコメント化）
+=== かつて都道府県庁所在地になったことがある市 ===
+主に、[[廃藩置県]]直後に存在した県の県庁所在地や、県庁所在地が移転されたもの。（なお、現在名に統一してある）
+; 北海道
+:* [[松前町 (北海道)|松前町]]（館県）
+:* [[札幌市]] （札幌県）
+:* [[函館市]] （函館県）
+:* [[根室市]] （根室県）
+; 青森県
+:* [[黒石市]]（黒石県）
+:* [[七戸町]]（七戸県）
+:* [[八戸市]]（八戸県）
+:* [[弘前市]]（弘前県）
+:* [[むつ市]]（斗南県）
+; 岩手県
+:* [[一関市]]（一関県）
+:* [[水沢市]]（胆沢県）
+:* [[江刺市]]（江刺県）
+; 宮城県
+:* [[涌谷町]]（登米県）
+:* [[角田市]]（角田県）
+:* [[白石市]]（白石県）
+; 秋田県
+:* [[岩城町]]（亀田県）
+:* [[本荘市]]（本荘県）
+:* [[矢島町]]（矢島県）
+:* [[湯沢市]]（岩崎県）
+; 山形県
+:* [[上山市]]（上山県）
+:* [[酒田市]]（酒田県）
+:* [[新庄市]]（新庄県）
+:* [[鶴岡市]]（大泉県）
+:* [[天童市]]（天童県）
+:* [[松山町 (山形県)|松山町]]（松嶺県）
+:* [[米沢市]]（米沢県）
+; 福島県
+:* [[会津若松市]]（若松県）
+:* [[いわき市]]（磐城平県、磐越県、泉県、湯長谷県）
+:* [[白河市]]（白河県）
+:* [[相馬市]]（中村県）
+:* [[二本松市]]（二本松県）
+:* [[棚倉町]]（棚倉県）
+:* [[三春町]]（三春県）
+; 茨城県
+:* [[行方市]]（麻生県）
+:* [[石岡市]]（石岡県）
+:* [[大洗町]]（松川県）
+:* [[牛久市]]（牛久県）
+:* [[笠間市]]（笠間県）
+:* [[古河市]]（古河県）
+:* [[筑西市]]（下館県）
+:* [[下妻市]]（下妻県）
+:* [[高萩市]]（松岡県）
+:* [[かすみがうら市]]（志筑県）
+:* [[つくば市]]（若森県）
+:* [[土浦市]]（土浦県）
+:* [[友部町]]（宍戸県）
+:* [[龍ケ崎市]]（龍崎県）
+; 栃木県
+:* [[栃木市]]（吹上県、栃木県 - 宇都宮県と合併後、[[1884年]]に宇都宮へ移転）
+:* [[足利市]]（足利県）
+:* [[大田原市]]（大田原県）
+:* [[烏山町]]（烏山県）
+:* [[黒羽町]]（黒羽県）
+:* [[佐野市]]（佐野県）
+:* [[日光市]]（日光県）
+:* [[壬生町]]（壬生県）
+:* [[茂木町]]（茂木県）
+; 群馬県
+:* [[安中市]]（安中県）
+:* [[伊勢崎市]]（伊勢崎県）
+:* [[甘楽町]]（小幡県）
+:* [[高崎市]]（高崎県、岩鼻県）
+:* [[館林市]]（館林県）
+:* [[富岡市]]（七日市県）
+:* [[沼田市]]（沼田県）
+; 埼玉県
+:* 旧[[岩槻市]]（さいたま市[[岩槻区]]）（岩槻県、埼玉県）
+:* [[川越市]]（川越県、入間県）
+:* [[行田市]]（忍県）
+:* [[熊谷市]]（熊谷県）
+; 千葉県
+:* [[一宮町 (千葉県)|一宮町]]（一宮県）
+:* [[市原市]]（鶴舞県、鶴牧県）
+:* [[小見川町]]（小見川県）
+:* [[大網白里町]]（宮谷県）
+:* [[大多喜町]]（大多喜県）
+:* [[鴨川市]]（花房県）
+:* [[木更津市]]（桜井県）
+:* [[君津市]]（久留里県）
+:* [[佐倉市]]（佐倉県）
+:* [[白浜町 (千葉県)|白浜町]]（長尾県）
+:* [[関宿町]]（関宿県）
+:* [[多古町]]（多古県）
+:* [[館山市]]（館山県、長尾県）
+:* [[流山市]]（葛飾県）
+:* [[鋸南町]]（加知山県）
+:* [[富津市]]（飯野県、小久保県、佐貫県）
+:* [[松尾町]]（松尾県）
+:* [[結城市]]（結城県）
+; 東京都
+:* [[千代田区]]（東京府、東京都）
+:* [[品川区]]（東京府、品川県）
+:* [[葛飾区]]（小菅県）
+; 神奈川県
+:* [[厚木市]]（荻野山中県）
+:* [[小田原市]]（小田原県、足柄県）
+; 静岡県
+:* [[浜松市]]（堀江県、浜松県）
+:* [[韮山町]]（韮山県）
+; 新潟県
+:* [[阿賀野市]]（越後府、水原県）
+:* [[糸魚川市]]（清崎県）
+:* [[柏崎市]]（柏崎県、椎谷県）
+:* [[胎内市]]（黒川県）
+:* [[佐渡市]]（佐渡県、相川県）
+:* [[新発田市]]（新発田県、三日市県）
+:* [[上越市]]（高田県）
+:* [[巻町]]（峯岡県）
+:* [[村上市]]（村上県）
+:* [[村松町]]（村松県）
+:* [[与板町]]（与板県）
+; 富山県
+:* [[魚津市]]（新川県）
+; 石川県
+:* [[加賀市]]（大聖寺県）
+:* [[七尾市]]（七尾県）
+:* [[美川町 (石川県)|美川町]]（石川県）
+; 福井県
+:* [[大野市]]（大野県）
+:* [[小浜市]]（小浜県）
+:* [[勝山市]]（勝山県）
+:* [[鯖江市]]（鯖江県）
+:* [[武生市]]（本保県）
+:* [[敦賀市]]（敦賀県）
+:* [[丸岡町]]（丸岡県）
+; 山梨県
+:* [[石和町]]（石和県）
+:* [[市川大門町]]（市川県）
+; 長野県
+:* [[飯島町]]（伊那県）
+:* [[飯田市]]（飯田県）
+:* [[飯山市]]（飯山県）
+:* [[上田市]]（上田県）
+:* [[小諸市]]（小諸県）
+:* [[佐久市]]（岩村田県）
+:* [[須坂市]]（須坂県）
+:* [[諏訪市]]（高島県）
+:* [[高遠町]]（高遠県）
+:* [[中野市]]（中野県、長野県）
+:* [[松本市]]（松本県、筑摩県）
+; 岐阜県
+:* [[岩村町]]（岩村県）
+:* [[大野町 (岐阜県)|大野町]]（野村県）
+:* [[大垣市]]（大垣県）
+:* [[笠松町]]（笠松県、岐阜県）
+:* [[高山市]]（高山県）
+:* [[中津川市]]（苗木県）
+:* [[平田町 (岐阜県)|平田町]]（今尾県）
+:* [[八幡町 (岐阜県)|八幡町]]（郡上県）
+:* [[山県市]]（高富県）
+; 愛知県
+:* [[犬山市]]（犬山県）
+:* [[岡崎市]]（岡崎県、西大平県、額田県）
+:* [[音羽町]]（三河県）
+:* [[刈谷市]]（刈谷県、重原県）
+:* [[新城市]]（半原県）
+:* [[田原市]]（田原県）
+:* [[豊田市]]（挙母県）
+:* [[豊橋市]]（豊橋県）
+:* [[西尾市]]（西尾県）
+:* [[碧南市]]（西端県）
+; 三重県
+:* [[伊勢市]]（度会県）
+:* [[亀山市]]（亀山県）
+:* [[桑名市]]（桑名県、長島県）
+:* [[久居市]]（久居県）
+:* [[鈴鹿市]]（神戸県）
+:* [[鳥羽市]]（鳥羽県）
+:* [[菰野町]]（菰野県）
+:* [[四日市市]]（三重県）
+; 滋賀県
+:* [[湖北町]]（朝日山県）
+:* [[永源寺町]]（山上県）
+:* [[長浜市]]（宮川県）
+:* [[彦根市]]（彦根県）
+:* [[日野町 (滋賀県)|日野町]]（西大路県）
+:* [[水口町]]（水口県）
+; 京都府
+:* [[綾部市]]（綾部県）
+:* [[亀岡市]]（亀岡県）
+:* [[園部町]]（山家県）
+:* [[福知山市]]（福知山県）
+:* [[舞鶴市]]（舞鶴県）
+:* [[峰山町]]（峰山県）
+:* [[宮津市]]（宮津県）
+; 大阪府
+:* [[和泉市]]（伯太県）
+:* [[岸和田市]]（岸和田県）
+:* [[堺市]]（堺県）
+:* [[高槻市]]（高槻県）
+:* [[田尻町 (大阪府)|田尻町]]（吉見県）
+:* [[豊中市]]（麻田県）
+:* [[美原町]]（丹南県）
+; 兵庫県
+:* [[明石市]]（明石県）
+:* [[赤穂市]]（赤穂県）
+:* [[尼崎市]]（尼崎県）
+:* [[生野町]]（生野県）
+:* [[出石町]]（出石県）
+:* [[小野市]]（小野県）
+:* [[柏原町]]（柏原県）
+:* [[三田市]]（三田県）
+:* [[篠山市]]（篠山県）
+:* [[龍野市]]（龍野県）
+:* [[豊岡市]]（豊岡県）
+:* [[村岡町]]（村岡県）
+:* [[姫路市]]（姫路県、林田県）
+:* [[三日月町 (兵庫県)|三日月町]]（三日月県）
+:* [[山崎町]]（山崎県）
+:* [[安富町]]（安志県）
+:* [[社町]]（三草県）
+; 奈良県
+:* [[御所市]]（櫛羅県）
+:* [[五條市]]（五条県）
+:* [[桜井市]]（芝村県）
+:* [[高取町]]（高取県）
+:* [[田原本町]]（田原本県）
+:* [[天理市]]（柳本県）
+:* [[大和郡山市]]（郡山県、小泉県）
+; 和歌山県
+:* [[田辺市]]（田辺県）
+:* [[新宮市]]（新宮県）
+; 鳥取県
+; 島根県
+:* [[浜田市]]（浜田県）
+:* [[広瀬町]]（広瀬県）
+:* [[伯太町]]（母里県）
+; 岡山県
+:* [[勝山町 (岡山県)|勝山町]]（真島県）
+:* [[鴨方町]]（鴨方県）
+:* [[倉敷市]]（倉敷県、生坂県）
+:* [[総社市]]（浅尾県）
+:* [[高梁市]]（高梁県）
+:* [[建部町]]（鶴田県）
+:* [[津山市]]（津山県）
+:* [[成羽町]]（成羽県）
+:* [[新見市]]（新見県）
+:* [[真備町]]（岡田県）
+; 広島県
+:* [[福山市]]（福山県）
+; 山口県
+:* [[岩国市]]（岩国県）
+:* [[下関市]]（清末県、豊浦県）
+; 徳島県
+; 香川県
+:* [[丸亀市]]（丸亀県）
+; 愛媛県
+:* [[今治市]]（今治県）
+:* [[宇和島市]]（宇和島県）
+:* [[大洲市]]（大洲県、新谷県）
+:* [[小松町]]（小松県）
+:* [[西条市]]（西条県）
+:* [[吉田町 (愛媛県)|吉田町]]（吉田県）
+; 高知県
+:* [[土佐市]]（高知県）
+; 福岡県
+:* [[甘木市]]（秋月県）
+:* [[大牟田市]]（三池県）
+:* [[北九州市]]（小倉県）
+:* [[久留米市]]（久留米県、三潴県）
+:* [[豊津町]]（豊津県）
+:* [[柳川市]]（柳川県）
+; 佐賀県
+:* [[小城町]]（小城県）
+:* [[鹿島市]]（鹿島県）
+:* [[唐津市]]（唐津県）
+; 長崎県
+:* [[厳原町]]（厳原県）
+:* [[大村市]]（大村県）
+:* [[島原市]]（島原県）
+:* [[平戸市]]（平戸県）
+:* [[福江市]]（福江県）
+; 熊本県
+:* [[人吉市]]（人吉県）
+; 大分県
+:* [[日田市]]（日田県）
+; 宮崎県
+:* [[佐土原町]]（佐土原県）
+:* [[高鍋町]]（高鍋県）
+:* [[日南市]]（飫肥県）
+:* [[延岡市]]（延岡県）
+:* [[日向市]]（富高県、美々津県）
+:* [[都城市]]（都城県）
+; 鹿児島県
+; 沖縄県-->
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist2}}
+=== 出典 ===
+{{Reflist}}
+
+== 参考文献 ==
+{{Refbegin}}
+=== 都道府県庁の位置を定める条例 ===
+都道府県庁の位置は、条例で定める（地方自治法第4条第1項）ことになっているが、地方自治法の施行時点での地方公共団体の事務所の現に在る位置は、地方自治法（昭和二十二年法律第六十七号）第四条の条例で定めたものとみなす（地方自治法施行規程第1条）ため、移転がない都道府県は位置を定める条例を制定していない。
+<!--北海道 青森県 岩手県 宮城県 -->
+* {{Citation| author = 秋田県 | year = 1957 | title = 秋田県の事務所の位置を定める条例（昭和32年秋田県条例第30号） | edition  = 昭和40年秋田県条例第37号| url = https://www1.g-reiki.net/pref_akita/reiki_honbun/u600RG00000661.html | accessdate = 2020-6-16}}
+* {{Citation| author = 山形県 | year = 1975 | title = 山形県庁の位置を定める条例（昭和50年山形県条例第32号） | url = https://en3-jg.d1-law.com/yamagata-ken/d1w_reiki/H350901010032/H350901010032.html | accessdate = 2023-12-13}}
+<!-- 福島県 -->
+* {{Citation| author = 茨城県 | year = 1985 | title = 茨城県庁の位置を定める条例（平成4年茨城県条例第83号） | url = https://www.pref.ibaraki.jp/somu/somu/hosei/cont/reiki_int/reiki_honbun/o400RG00000211.html | accessdate = 2023-12-13}}
+<!-- 栃木県 群馬県 埼玉県 千葉県 -->
+* {{Citation| author = 東京都 | year = 1985 | title = 東京都庁の位置を定める条例（昭和60年東京都条例第71号） | url = https://www.reiki.metro.tokyo.lg.jp/ | accessdate = 2023-12-13}}<!--直接リンク不可-->
+<!-- 神奈川県 -->
+* {{Citation| author = 新潟県 | year = 2007 | title = 新潟県庁の位置を定める条例（昭和55年新潟県条例第17号） | edition = 平成19年新潟県条例第12号 | url = https://www1.g-reiki.net/pref.niigata/reiki_honbun/e401RG00000001.html | accessdate = 2020-6-16}}
+<!-- 富山県 -->
+* {{Citation| author = 石川県 | year = 2002 | title = 石川県庁の位置を定める条例（平成8年石川県条例第22号） | edition = 平成14年石川県条例第52号 | url = https://www1.g-reiki.net/ishikawa/reiki_honbun/i101RG00000001.html | accessdate = 2020-6-16}}
+<!-- 福井県 山梨県 長野県 -->
+* {{Citation| author = 岐阜県 | year = 1993 | title = 岐阜県庁の位置を定める条例（昭和38年岐阜県条例第32号） | edition = 平成5年岐阜県条例第4号 | url = https://ops-jg.d1-law.com/opensearch/SrJbF01/init?jctcd=8A856599AA&houcd=H338901010032&no=1&totalCount=144&fromJsp=SrMj | accessdate = 2023-12-13}}
+<!-- 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 -->
+* {{Citation| author = 奈良県 | year = 1965 | title = 奈良県庁の位置を定める条例（昭和40年奈良県条例第21号） | url = https://krk401.legal-square.com/HAS-Shohin/jsp/SVDocumentView | accessdate = 2023-12-13}}
+<!-- 和歌山県 鳥取県 島根県 岡山県 -->
+* {{Citation| author = 広島県 | year = 1980 | title = 広島県庁の位置を定める条例（昭和31年広島県条例第18号） | edition = 昭和55年広島県条例第4号 | url = https://ops-jg.d1-law.com/opensearch/SrJbF01/init?jctcd=8A8B97723A&houcd=H331901010018&no=3&totalCount=80&fromJsp=SrMj | accessdate = 2023-12-13}}
+<!-- 山口県 -->
+* {{Citation| author = 徳島県 | year = 1979 | title = 徳島県庁の位置を定める条例（昭和54年徳島県条例第5号） | edition = 昭和61年徳島県条例第33号 | url = https://reiki.pref.tokushima.lg.jp/reiki_honbun/o001RG00000067.html | accessdate = 2020-6-16}}
+<!-- 香川県 愛媛県 高知県 佐賀県 長崎県 熊本県 大分県 宮崎県 -->
+* {{Citation| author = 福岡県 | year = 1977 | title = 福岡県庁の位置を変更する条例（昭和52年福岡県条例第21号）  | url = https://www1.g-reiki.net/reiki/Li05_Hon_Main_Frame.exe?UTDIR=C:\EFServ2\ss00001FBE\GUEST&TID=1&SYSID=65 | accessdate = 2023-12-13}}
+* {{Citation| author = 鹿児島県 | year = 1991 | title = 鹿児島県庁の位置を定める条例（平成3年鹿児島県条例第3号） | url = http://g-reiki.pref.kagoshima.jp/pref.kagoshima2/reiki_honbun/q701RG00000001.html | accessdate = 2020-6-16}}
+* {{Citation| author = 沖縄県 | year = 1975 | title = 沖縄県庁の位置を定める条例（昭和47年沖縄県条例第2号） | url = https://ops-jg.d1-law.com/opensearch/SrJbF01/init?jctcd=8A91CAD16A&houcd=H347901010002&no=1&totalCount=57&fromJsp=SrMj | accessdate = 2023-12-13}}
+{{Refend}}
+
+== 関連項目 ==
+; 日本
+* [[都道府県]]
+* [[都道府県の人口一覧]]
+* [[都道府県の面積一覧]]
+* [[都道府県庁所在地と政令指定都市の人口順位]]
+* [[日本の市の人口順位]]
+* [[都市雇用圏]]
+* [[1区現象]]
+* [[令制国]]
+* [[府中 (曖昧さ回避)]]
+* [[国府]]
+* [[ロックンロール県庁所在地]]
+
+; 総説
+* [[県]]
+* [[県庁所在地]]
+
+; 外国
+* [[:Category:県庁所在地 (フランス)]]
+
+{{日本の都道府県庁所在地}}
+
+{{デフォルトソート:ととうふけんちようしよさいち}}
+[[Category:都道府県庁所在地|*ととうふけんちようしよさいち]]
+[[Category:日本の地理一覧]]
+[[Category:日本の市町村の一覧]]

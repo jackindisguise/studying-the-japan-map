@@ -1,0 +1,554 @@
+{{読み仮名|'''都道府県の面積一覧'''|とどうふけんのめんせきいちらん}}は、[[日本]]の47[[都道府県]]を、その[[面積]]の広い順に並べたものである。単位はkm<sup>2</sup>（[[平方キロメートル]]）。
+
+[[北海道]]だけで日本の面積約38万km<sup>2</sup>の22%を占める。また、北海道から[[鹿児島県]]までの上位10道県の面積を合計すると、国土面積の1/2となる。
+
+== 総面積・可住地面積・森林面積 ==
+総面積は[[北海道]]、[[岩手県]]、[[福島県]]、[[長野県]]、[[新潟県]]の順に広く、[[香川県]]が最も狭い。可住地面積の割合は[[大阪府]]、[[千葉県]]、[[埼玉県]]で大きく、森林面積の割合は[[高知県]]、[[岐阜県]]、[[山梨県]]で大きい。
+;総面積
+:可住地面積は総面積から林野面積と主要湖沼面積を差し引いて算出される<ref>「統計でみる都道府県・市区町村のすがた（社会・人口統計体系）」基枚データ項目定義より</ref>。平地（[[平野]]や[[盆地]]）の面積ではなく、農地や道路も含め、居住地に転用可能な既に開発された面積の総計である。平地に林野が広がる北海道や山がちな土地にも住宅地が広がる[[長崎県]]など、地域の事情によって開発されている地形は異なる。また、山林の開発（宅地化）や道路の建設などで林野面積が減ると可住地面積が増えるので、値は毎年変化する。
+
+{|class="sortable wikitable" style="text-align:right"
+|+2015年の面積と人口密度<ref>調査時点は総面積、可住地面積、人口密度が2015年10月1日、森林面積が2015年2月1日。</ref>
+!rowspan="2"|都道府県!!colspan="2"|総面積!!colspan="3"|可住地面積!!colspan="2"|森林面積
+|-
+!面積{{語中改行}} (km<sup>2</sup>)!!人口密度{{語中改行}}(人/km<sup>2</sup>)!!面積 (km<sup>2</sup>)!!比率!!人口密度{{語中改行}}(人/km<sup>2</sup>)!!面積{{語中改行}} (km<sup>2</sup>)!!比率
+|-
+|style="text-align:left"|<span style="display:none;speak:never">01</span>[[北海道]]||83,424||65||22,373||27%||241||53,217||64%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">03</span>[[岩手県]]||15,275||84||3,714||24%||345||11,440||75%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">07</span>[[福島県]]||13,784||139||4,217||31%||454||9,365||68%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">20</span>[[長野県]]||13,562||155||3,226||24%||651||10,234||75%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">15</span>[[新潟県]]||12,584||183||4,535||36%||508||7,993||64%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">05</span>[[秋田県]]||11,638||88||3,204||28%||319||8,201||70%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">21</span>[[岐阜県]]||10,621||191||2,211||21%||919||8,389||79%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">02</span>[[青森県]]||9,646||136||3,230||33%||405||6,157||64%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">06</span>[[山形県]]||9,323||121||2,885||31%||390||6,405||69%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">46</span>[[鹿児島県]]||9,187||179||3,313||36%||498||5,824||63%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">34</span>[[広島県]]||8,479||335||2,311||27%||1,231||6,088||72%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">28</span>[[兵庫県]]||8,401||659||2,783||33%||1,989||5,607||67%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">22</span>[[静岡県]]||7,777||476||2,749||35%||1,346||4,909||63%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">45</span>[[宮崎県]]||7,735||143||1,850||24%||597||5,865||76%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">43</span>[[熊本県]]||7,409||241||2,796||38%||639||4,476||60%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">04</span>[[宮城県]]||7,282||320||3,155||43%||740||4,069||56%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">33</span>[[岡山県]]||7,115||270||2,219||31%||866||4,838||68%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">39</span>[[高知県]]||7,104||103||1,163||16%||626||5,918||83%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">32</span>[[島根県]]||6,708||104||1,299||19%||535||5,199||77%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">09</span>[[栃木県]]||6,408||308||2,983||47%||662||3,408||53%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">10</span>[[群馬県]]||6,362||310||2,279||36%||866||4,058||64%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">44</span>[[大分県]]||6,341||184||1,799||28%||648||4,480||71%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">35</span>[[山口県]]||6,112||230||1,707||28%||823||4,375||72%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">08</span>[[茨城県]]||6,097||478||3,975||65%||734||1,890||31%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">24</span>[[三重県]]||5,774||314||2,059||36%||882||3,712||64%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">38</span>[[愛媛県]]||5,676||244||1,673||29%||828||3,993||70%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">23</span>[[愛知県]]||5,172||1,447||2,988||58%||2,505||2,183||42%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">12</span>[[千葉県]]||5,158||1,206||3,554||69%||1,751||1,565||30%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">40</span>[[福岡県]]||4,986||1,023||2,761||55%||1,847||2,220||45%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">30</span>[[和歌山県]]||4,725||204||1,115||24%||864||3,609||76%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">26</span>[[京都府]]||4,612||566||1,174||25%||2,224||3,424||74%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">19</span>[[山梨県]]||4,465||187||954||21%||875||3,472||78%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">16</span>[[富山県]]||4,248||251||1,843||43%||579||2,405||57%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">18</span>[[福井県]]||4,190||188||1,077||26%||730||3,097||74%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">17</span>[[石川県]]||4,186||276||1,392||33%||829||2,764||66%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">36</span>[[徳島県]]||4,147||182||1,010||24%||748||3,120||75%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">42</span>[[長崎県]]||4,132||333||1,676||41%||822||2,415||58%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">25</span>[[滋賀県]]||4,017||352||1,307||33%||1,081||2,028||50%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">11</span>[[埼玉県]]||3,798||1,913||2,585||68%||2,811||1,210||32%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">29</span>[[奈良県]]||3,691||370||856||23%||1,595||2,835||77%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">31</span>[[鳥取県]]||3,507||164||901||26%||637||2,571||73%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">41</span>[[佐賀県]]||2,441||341||1,336||55%||624||1,104||45%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">14</span>[[神奈川県]]||2,416||3,778||1,471||61%||6,206||938||39%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">47</span>[[沖縄県]]||2,281||628||1,169||51%||1,226||1,053||46%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">13</span>[[東京都]]||2,191||6,169||1,418||65%||9,529||763||35%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">27</span>[[大阪府]]||1,905||4,640||1,331||70%||6,643||573||30%
+|-
+|style="text-align:left"|<span style="display:none;speak:never">37</span>[[香川県]]||1,877|| 520||1,006||54%||971||870||46%
+|- class="sortbottom" style="border-top:double"
+|style="text-align:left"|<span style="display:none;speak:never">00</span>全国||377,971||336||122,631||32%||1,036||244,328||65%
+|}
+
+== 面積の順位 ==
+*調査時点：2025年7月1日<ref>{{Cite web|language=ja|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/R7_07_siryo2.pdf|title=都道府県別面積の順位|website=[[国土地理院]]|access-date=2025年9月26日}}</ref>
+*[[全国都道府県市区町村別面積調]]
+*単位：km<sup>2</sup>(平方キロメートル)
+
+{|class=wikitable
+!順位!!都道府県!!面積
+|-
+|&mdash;||style="text-align:left" |日本全土||377,980.29
+|-
+|1||style="text-align:left"|[[北海道]]||83,422.27
+|-
+|2||style="text-align:left"|[[岩手県]]||15,275.05
+|-
+|3||style="text-align:left"|[[福島県]]||13,784.41
+|-
+|4||style="text-align:left"|[[長野県]]||13,561.57
+|-
+|5||style="text-align:left"|[[新潟県]]||12,583.94
+|-
+|6||style="text-align:left"|[[秋田県]]||11,637.46
+|-
+|7||style="text-align:left"|[[岐阜県]]||10,621.29
+|-
+|8||style="text-align:left"|[[青森県]]||9,645.11
+|-
+|9||style="text-align:left"|[[山形県]]||9,323.15
+|-
+|10||style="text-align:left"|[[鹿児島県]]||9,186.21
+|-
+|11||style="text-align:left"|[[広島県]]||8,478.16
+|-
+|12||style="text-align:left"|[[兵庫県]]||8,400.82
+|-
+|13||style="text-align:left"|[[静岡県]]||7,777.00
+|-
+|14||style="text-align:left"|[[宮崎県]]||7,734.16
+|-
+|15||style="text-align:left"|[[熊本県]]||7,409.13
+|-
+|16||style="text-align:left"|[[宮城県]]||7,282.30
+|-
+|17||style="text-align:left"|[[岡山県]]||7,114.44
+|-
+|18||style="text-align:left"|[[高知県]]||7,102.28
+|-
+|19||style="text-align:left"|[[島根県]]||6,707.79
+|-
+|20||style="text-align:left"|[[栃木県]]||6,408.09
+|-
+|21||style="text-align:left"|[[群馬県]]||6,362.28
+|-
+|22||style="text-align:left"|[[大分県]]||6,340.71
+|-
+|23||style="text-align:left"|[[山口県]]||6,112.92
+|-
+|24||style="text-align:left"|[[茨城県]]||6,098.32
+|-
+|25||style="text-align:left"|[[三重県]]||5,774.48
+|-
+|26||style="text-align:left"|[[愛媛県]]||5,675.87
+|-
+|27||style="text-align:left"|[[愛知県]]||5,173.23
+|-
+|28||style="text-align:left"|[[千葉県]]||5,156.48
+|-
+|29||style="text-align:left"|[[福岡県]]||4,987.66
+|-
+|30||style="text-align:left"|[[和歌山県]]||4,724.65
+|-
+|31||style="text-align:left"|[[京都府]]||4,612.09
+|-
+|32||style="text-align:left"|[[山梨県]]||4,465.27
+|-
+|33||style="text-align:left"|[[富山県]]||4,247.55
+|-
+|34||style="text-align:left"|[[石川県]]||4,190.94
+|-
+|35||style="text-align:left"|[[福井県]]||4,190.59
+|-
+|36||style="text-align:left"|[[徳島県]]||4,146.96
+|-
+|37||style="text-align:left"|[[長崎県]]||4,131.21
+|-
+|38||style="text-align:left"|[[滋賀県]]||4,017.38
+|-
+|39||style="text-align:left"|[[埼玉県]]||3,797.75
+|-
+|40||style="text-align:left"|[[奈良県]]||3,690.94
+|-
+|41||style="text-align:left"|[[鳥取県]]||3,507.04
+|-
+|42||style="text-align:left"|[[佐賀県]]||2,440.64
+|-
+|43||style="text-align:left"|[[神奈川県]]||2,416.55
+|-
+|44||style="text-align:left"|[[沖縄県]]||2,282.11
+|-
+|45||style="text-align:left"|[[東京都]]||2,199.94
+|-
+|46||style="text-align:left"|[[大阪府]]||1,905.26
+|-
+|47||style="text-align:left"|[[香川県]]||1,876.83
+|}{{clear|left}}
+
+== 2001年 可住地面積の順位 ==
+※「比率」：各都道府県における総面積に対する可住地面積の割合（%）
+
+*調査時点：2001年10月1日
+*全国都道府県市区町村別面積調
+*単位：面積・km<sup>2(平方キロメートル)</sup>／比率・%(パーセント)
+
+{|class=wikitable
+!順位!!都道府県!!面積!!比率
+|-
+|&mdash;||日本全土||121,343.23||32.1
+|-
+|1||style="text-align:left"|北海道||21,899.07||26.2
+|-
+|2||style="text-align:left"|岩手県||4,481.28||35.6
+|-
+|3||style="text-align:left"|福島県||4,218.02||30.6
+|-
+|4||style="text-align:left"|茨城県||3,975.87||65.2
+|-
+|5||style="text-align:left"|新潟県||3,709.81||24.3
+|-
+|6||style="text-align:left"|千葉県||3,487.76||67.6
+|-
+|7||style="text-align:left"|長野県||3,333.82||24.5
+|-
+|8||style="text-align:left"|鹿児島県||3,242.51||35.3
+|-
+|9||style="text-align:left"|青森県||3,203.45||33.3
+|-
+|10||style="text-align:left"|秋田県||3,154.52||27.2
+|-
+|11||style="text-align:left"|宮城県||3,129.79||43.0
+|-
+|12||style="text-align:left"|愛知県||2,951.63||57.3
+|-
+|13||style="text-align:left"|栃木県||2,946.03||46.0
+|-
+|14||style="text-align:left"|山形県||2,850.03||30.6
+|-
+|15||style="text-align:left"|兵庫県||2,755.57||32.8
+|-
+|16||style="text-align:left"|熊本県||2,745.58||37.1
+|-
+|17||style="text-align:left"|福岡県||2,737.19||55.1
+|-
+|18||style="text-align:left"|静岡県||2,730.98||35.1
+|-
+|19||style="text-align:left"|埼玉県||2,565.60||67.6
+|-
+|20||style="text-align:left"|群馬県||2,294.56||36.1
+|-
+|21||style="text-align:left"|広島県||2,254.82||26.6
+|-
+|22||style="text-align:left"|岡山県||2,210.47||31.1
+|-
+|23||style="text-align:left"|岐阜県||2,144.72||20.2
+|-
+|24||style="text-align:left"|三重県||2,021.76||35.0
+|-
+|25||style="text-align:left"|富山県||1,850.29||43.6
+|-
+|26||style="text-align:left"|宮崎県||1,835.00||23.7
+|-
+|27||style="text-align:left"|大分県||1,769.05||27.9
+|-
+|28||style="text-align:left"|山口県||1,749.12||28.6
+|-
+|29||style="text-align:left"|愛媛県||1,669.78||29.4
+|-
+|30||style="text-align:left"|長崎県||1,617.12||39.5
+|-
+|31||style="text-align:left"|神奈川県||1,459.51||60.4
+|-
+|32||style="text-align:left"|東京都||1,395.86||63.8
+|-
+|33||style="text-align:left"|石川県||1,382.73||33.0
+|-
+|34||style="text-align:left"|佐賀県||1,339.80||54.9
+|-
+|35||style="text-align:left"|大阪府||1,313.87||69.4
+|-
+|36||style="text-align:left"|滋賀県||1,289.04||32.1
+|-
+|37||style="text-align:left"|島根県||1,255.99||18.7
+|-
+|38||style="text-align:left"|高知県||1,168.16||16.4
+|-
+|39||style="text-align:left"|沖縄県||1,159.05||51.0
+|-
+|40||style="text-align:left"|京都府||1,155.06||25.0
+|-
+|41||style="text-align:left"|和歌山県||1,097.31||23.2
+|-
+|42||style="text-align:left"|福井県||1,066.03||25.4
+|-
+|43||style="text-align:left"|徳島県||1,021.50||24.6
+|-
+|44||style="text-align:left"|香川県||991.25||52.9
+|-
+|45||style="text-align:left"|山梨県||950.33||21.3
+|-
+|46||style="text-align:left"|鳥取県||912.01|| 26.0
+|-
+|47||style="text-align:left"|奈良県||850.53||23.0
+|}{{clear|left}}
+
+== 1999年 宅地面積の順位 ==
+*宅地面積=国有地面積・宅地+都道府県有地面積・宅地+市町村有地面積・宅地+民有地面積・宅地<ref>[http://tochi.mlit.go.jp/syoyuu/1999/s01_index.html 平成11年度 土地所有・利用の概況]（[[国土交通省]]）（面積・可住地面積など）</ref>
+*「面順」は総面積の順位。
+
+{|class=wikitable
+!順位!!面順!!都道府県!!面積
+|-
+|&mdash;||&mdash;||日本全土||21,475.25
+|-
+|1||1||style="text-align:left"|北海道||3,281.15
+|-
+|2||27||style="text-align:left"|愛知県||902.14
+|-
+|3||28||style="text-align:left"|千葉県||771.86
+|-
+|4||39||style="text-align:left"|埼玉県||750.99
+|-
+|5||29||style="text-align:left"|福岡県||718.87
+|-
+|6||24||style="text-align:left"|茨城県||709.74
+|-
+|7||45||style="text-align:left"|東京都||698.78
+|-
+|8||43||style="text-align:left"|神奈川県||642.51
+|-
+|9||12||style="text-align:left"|兵庫県||636.16
+|-
+|10||13||style="text-align:left"|静岡県||616.12
+|-
+|11||46||style="text-align:left"|大阪府||602.87
+|-
+|12||16||style="text-align:left"|宮城県||528.71
+|-
+|13||5||style="text-align:left"|新潟県||521.50
+|-
+|14||3||style="text-align:left"|福島県||506.89
+|-
+|15||4||style="text-align:left"|長野県||493.38
+|-
+|16||20||style="text-align:left"|栃木県||476.88
+|-
+|17||2||style="text-align:left"|岩手県||476.30
+|-
+|18||10||style="text-align:left"|鹿児島県||463.14
+|-
+|19||21||style="text-align:left"|群馬県||440.13
+|-
+|20||8||style="text-align:left"|青森県||413.51
+|-
+|21||17||style="text-align:left"|岡山県||412.21
+|-
+|22||11||style="text-align:left"|広島県||408.34
+|-
+|23||7||style="text-align:left"|岐阜県||374.06
+|-
+|24||15||style="text-align:left"|熊本県||367.25
+|-
+|25||25||style="text-align:left"|三重県||357.21
+|-
+|26||6||style="text-align:left"|秋田県||333.77
+|-
+|27||14||style="text-align:left"|宮崎県||324.09
+|-
+|28||23||style="text-align:left"|山口県||312.10
+|-
+|29||22||style="text-align:left"|大分県||303.87
+|-
+|30||9||style="text-align:left"|山形県||302.56
+|-
+|31||38||style="text-align:left"|滋賀県||265.56
+|-
+|32||31||style="text-align:left"|京都府||256.94
+|-
+|33||26||style="text-align:left"|愛媛県||252.99
+|-
+|34||37||style="text-align:left"|長崎県||250.54
+|-
+|35||33||style="text-align:left"|富山県||247.86
+|-
+|36||35||style="text-align:left"|石川県||215.95
+|-
+|37||32||style="text-align:left"|山梨県||197.35
+|-
+|38||47||style="text-align:left"|香川県||193.28
+|-
+|39||19||style="text-align:left"|島根県||186.68
+|-
+|40||40||style="text-align:left"|奈良県||175.69
+|-
+|41||34||style="text-align:left"|福井県||173.17
+|-
+|42||42||style="text-align:left"|佐賀県||169.90
+|-
+|43||44||style="text-align:left"|沖縄県||168.68
+|-
+|44||30||style="text-align:left"|和歌山県||167.69
+|-
+|45||41||style="text-align:left"|鳥取県||142.49
+|-
+|46||36||style="text-align:left"|徳島県||141.29
+|-
+|47||18||style="text-align:left"|高知県||122.01
+|}{{clear|left}}
+
+== 面積と可住地面積 ==
+*面順：総面積の順位
+*可順：可住地面積の順位
+*比率：可住地の比率
+
+{|class=wikitable
+!面順!!都道府県!!可順!!比率
+|-
+|&mdash;||style="text-align:left"|日本全土||&mdash;||32.1
+|-
+|1||style="text-align:left"|北海道||1||26.2
+|-
+|2||style="text-align:left"|岩手県||5||24.3
+|-
+|3||style="text-align:left"|福島県||3||30.6
+|-
+|4||style="text-align:left"|長野県||7||24.5
+|-
+|5||style="text-align:left"|新潟県||2||35.6
+|-
+|6||style="text-align:left"|秋田県||10||27.2
+|-
+|7||style="text-align:left"|岐阜県||23||20.2
+|-
+|8||style="text-align:left"|青森県||9||33.3
+|-
+|9||style="text-align:left"|山形県||14||30.6
+|-
+|10||style="text-align:left"|鹿児島県||8||35.3
+|-
+|11||style="text-align:left"|広島県||21||26.6
+|-
+|12||style="text-align:left"|兵庫県||15||32.8
+|-
+|13||style="text-align:left"|静岡県||18||35.1
+|-
+|14||style="text-align:left"|宮崎県||26||23.7
+|-
+|15||style="text-align:left"|熊本県||16||37.1
+|-
+|16||style="text-align:left"|宮城県||11||43.0
+|-
+|17||style="text-align:left"|岡山県||22||31.1
+|-
+|18||style="text-align:left"|高知県||38||16.4
+|-
+|19||style="text-align:left"|島根県||37||18.7
+|-
+|20||style="text-align:left"|栃木県||13||46.0
+|-
+|21||style="text-align:left"|群馬県||20||36.1
+|-
+|22||style="text-align:left"|大分県||27||27.9
+|-
+|23||style="text-align:left"|山口県||28||28.6
+|-
+|24||style="text-align:left"|茨城県||4||65.2
+|-
+|25||style="text-align:left"|三重県||24||35.0
+|-
+|26||style="text-align:left"|愛媛県||29||29.4
+|-
+|27||style="text-align:left"|愛知県||12||57.3
+|-
+|28||style="text-align:left"|千葉県||6||67.6
+|-
+|29||style="text-align:left"|福岡県||17||55.1
+|-
+|30||style="text-align:left"|和歌山県||41||23.2
+|-
+|31||style="text-align:left"|京都府||40||25.0
+|-
+|32||style="text-align:left"|山梨県||45||21.3
+|-
+|33||style="text-align:left"|富山県||25||43.6
+|-
+|34||style="text-align:left"|福井県||42||25.4
+|-
+|35||style="text-align:left"|石川県||33||33.0
+|-
+|36||style="text-align:left"|徳島県||43||24.6
+|-
+|37||style="text-align:left"|長崎県||30||39.5
+|-
+|38||style="text-align:left"|滋賀県||36||32.1
+|-
+|39||style="text-align:left"|埼玉県||19||67.6
+|-
+|40||style="text-align:left"|奈良県||47||23.0
+|-
+|41||style="text-align:left"|鳥取県||46||26.0
+|-
+|42||style="text-align:left"|佐賀県||34||54.9
+|-
+|43||style="text-align:left"|神奈川県||31||60.4
+|-
+|44||style="text-align:left"|沖縄県||39||51.0
+|-
+|45||style="text-align:left"|東京都||32||63.8
+|-
+|46||style="text-align:left"|大阪府||35||69.4 
+|-
+|47||style="text-align:left"|香川県||44||52.9
+|}{{clear|left}}
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+== 関連項目 ==
+*[[都道府県の人口一覧]]
+*[[人口集中地区]]（DID）
+*[[国土地理院]]
+*[[日本の市の面積一覧]]
+
+== 外部リンク ==
+*[https://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm 全国都道府県市区町村別面積調]（国土交通省国土地理院）
+*[http://tochi.mlit.go.jp/shoyuu-riyou/riyou-gaikyo 土地所有・利用の概況]（国土交通省）
+*[https://www.stat.go.jp/data/k-sugata/index.html 統計でみる都道府県のすがた]（総務省統計局）
+*[http://www.machimura.maff.go.jp/machi/ わがマチ・わがムラ]（[[農林水産省]]） - 都道府県・市町村ごとの統計データ
+*[http://www.nga.gr.jp/ 全国知事会]
+
+{{デフォルトソート:ととうふけんのめんせきいちらん}}
+[[Category:地理指標]]
+[[Category:日本の地理一覧]]
+[[Category:日本の一覧 (都道府県別)|めんせき]]

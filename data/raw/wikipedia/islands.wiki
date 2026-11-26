@@ -1,0 +1,2260 @@
+'''日本の島の一覧'''（にほんのしまのいちらん）は、[[日本]]にある[[島]]の一覧である。
+[[日本の行政機関]]の一つである[[国土地理院]]の[[2023年]]（[[令和]]5年）[[2月28日]]の発表によれば、日本全国の島の数は'''14,125'''島である<ref name="日本の島の数">{{Cite web|和書
+|title=日本の島の数
+|url=https://www.gsi.go.jp/kihonjohochousa/islands_index.html
+|publisher=国土地理院
+|accessdate=2024-04-26
+}}</ref><ref name="我が国の島">{{Cite press release
+|和書|title=我が国の島を数えました
+|url=https://www.gsi.go.jp/kihonjohochousa/pressrelease20230228.html
+|publisher=国土地理院
+|date=2023-02-28
+}}</ref><ref name="yomiuri_2023-02-28">{{cite news
+|title=日本の島の数、1万4125に倍増…領土への関心高まり36年ぶりに数え直す
+|url=https://www.yomiuri.co.jp/national/20230228-OYT1T50209/
+|newspaper=読売新聞
+|date=2023-02-28
+|archiveurl=https://web.archive.org/web/20230305021747/https://www.yomiuri.co.jp/national/20230228-OYT1T50209/
+|archivedate=2023-03-05
+}}</ref><ref name="mainichi_2023-02-28">{{cite news
+|title=日本の島、数え直したら倍増 測量進歩で1万4152に 国土地理院
+|url=https://mainichi.jp/articles/20230228/k00/00m/040/205000c
+|newspaper=毎日新聞
+|date=2023-02-28
+|archiveurl=https://web.archive.org/web/20230228113652/https://mainichi.jp/articles/20230228/k00/00m/040/205000c
+|archivedate=2023-02-28
+}}</ref><ref name=産経20230301>{{cite news
+|title=日本の島の数倍増、1万4125に 北方領土は衛星画像で調査
+|url=https://www.sankei.com/article/20230228-GTM4ZFFMQNOOVKRLPOYXZCIHXY/
+|newspaper=産経ニュース
+|date=2023-02-28
+|archiveurl=https://web.archive.org/web/20230228112652/https://www.sankei.com/article/20230228-GTM4ZFFMQNOOVKRLPOYXZCIHXY/
+|archivedate=2023-02-28
+}}</ref><ref>[https://kashikapedia.com/islands-data/ 日本 島数 改 2023年] - [https://kashikapedia.com/ 可視化pedia]</ref><ref>[https://hanarejima.com/information/number-of-island/ 日本 島数 改 2023年] - [https://hanarejima.com/ はなれじま広報部]</ref>。島の数では、長崎県が１位である<ref>[https://limo.media/articles/-/61795?page=2 日本 島数 改 10位内]  - [https://limo.media/ 経済メディア LIMO]</ref><ref>[https://trilltrill.jp/articles/4946262 日本 島数 改 05位内]  - [https://do-gen.jp/ 休養メディア DO-GEN]</ref>。これは、法令等に基づく島に加えて、2022年1月時点の[[電子国土基本図]]{{Efn|電子国土基本図は、[[ベース・レジストリ]]（[[デジタル社会形成基本法]]第31条に規定する「公的基礎情報データベース」）に指定されている（令和5年[[デジタル庁]][[告示]]第12号）。その整備・更新に当たっては、基本的には高解像度の[[空中写真]]、[[ロシア連邦]]が[[実効支配]]している[[北方地域|北方領土]]や離島等では衛星画像を使用している<ref>{{Cite web|和書
+|title=電子国土基本図
+|url=https://www.gsi.go.jp/common/000141208.pdf
+|publisher=国土地理院
+|format=PDF
+|accessdate=2024-05-24
+|date=2016-05-22
+|work=「国土を測る」意義と役割を考える懇話会（第２回）資料２－別冊［２］
+|page=15
+}}</ref>。}}に描画された120,729の[[陸地]]から、コンピュータを用いて以下の条件を満たすものを島として数えたものである{{Efn|name="horei"|法令等に基づいて島とされるものは、以下の条件を満たすか否かにかかわらず島に数えられている。例えば、[[沖ノ鳥島]]等は周囲長0.1&nbsp;km未満であるが島とされている<ref name="yomiuri_2023-02-28" />。}}。
+* 周囲長0.1&nbsp;[[キロメートル|km]]以上の[[海岸#海岸線|海岸線]]で囲われている。
+* 自然に形成されたと判断できる（[[人工島]]は除外する）。
+* 内水面にある陸地（[[湖沼]]の島、[[河川]]の[[中州]]）は除外する<ref name="我が国の島" /><ref name="yomiuri_2023-02-28" /><ref name="mainichi_2023-02-28" /><ref name="産経20230301" />。
+
+この島数の発表以前には、[[海上保安庁]]が[[1987年]]（[[昭和]]62年）に公表した6,852島が広く用いられていた<ref name="日本の島の数３．">{{Cite web|和書
+|title=日本の島の数　３．自然の地形の計数について
+|url=https://www.gsi.go.jp/kihonjohochousa/islands_index.html#natural
+|publisher=国土地理院
+|accessdate=2024-04-26
+}}</ref>（詳細は[[#日本の島の数の変遷]]参照）。また、国土地理院は、面積が1&nbsp;[[平方キロメートル|km<sup>2</sup>]]以上の島のリストを毎年公表している<ref name="MENCHO-title">{{Cite web|和書
+|title=全国都道府県市区町村別面積調
+|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm
+|publisher=国土地理院
+|accessdate=2022-12-19
+}}</ref>。本項では、この国土地理院のリストに掲載された島の名称及び面積を網羅するとともに、海上保安庁による島数を都道府県別に付す。また、それ以外の島名も列挙する。
+
+== 日本の島の数 ==
+[[File:Kobayashi Izanami and Izanagi.jpg|thumb|right|upright|『[[古事記]]』の島産み]]
+[[File:Honjo Hachimangu 13.jpg|thumb|right|[[瀬戸内海]]の島々]]
+島の計数方法に国際的な取り決めはない<ref name="日本の島の数２．">{{Cite web|和書
+|title=日本の島の数　２．日本の島の数の計数方法
+|url=https://www.gsi.go.jp/kihonjohochousa/islands_index.html#counting
+|publisher=国土地理院
+|accessdate=2024-04-26
+}}</ref>が、国際的には[[オーストラリア大陸]]より小さな陸地を「[[島]]」とするのが一般的であり、日本の[[領土]]はすべて「島」から構成されていることになる<ref name="知る">{{Cite web|和書
+|title=知る－基本情報－
+|url=https://www.nijinet.or.jp/info/faq/tabid/65/Default.aspx
+|publisher=公益財団法人日本離島センター
+|accessdate=2023-03-05
+|archiveurl=https://web.archive.org/web/20221124205515/https://www.nijinet.or.jp/info/faq/tabid/65/Default.aspx
+|archivedate=2022-11-24
+}}</ref>。しかし、「水域に囲まれた陸地」という観点では「大陸」と「島」とのあいだには相対的な大小の関係しかない。日本国内ではこれと同様に、[[北海道]]、[[本州]]、[[四国]]、[[九州]]、場合によってこれに[[沖縄本島]]を加えた4島ないし5島を「本土」と扱い、一般的には「島」をつけては呼ばない。このため日本の島の数を数える際に、この「本土」を数に入れない場合もある{{Efn|[[国土交通省]]ではこの5島を「本土」、それ以外を「[[離島]]」としている。一方、[[離島振興法]]では2015年（平成27年）7月13日時点、離島260島が指定を受けている。このなかには[[琵琶湖]]に浮かぶ[[沖島 (琵琶湖)|沖島]]も含まれている{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}<ref name="離島の現状">{{Cite web |url=https://www.mlit.go.jp/kokudoseisaku/chirit/ |title=我が国をとりまく離島の現状 |access-date=2024-05-19 |work=国土政策 |publisher=[[国土交通省]]}}</ref>{{Sfn|『離島振興ハンドブック』|2004|pp=1-2}}。}}<ref name="知る" />{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}。
+
+日本語では「水域に囲まれた小さな陸地」を意味する表現として「島」のほか、「岩」「瀬」「嶼」「山」「鼻」「礁」「丸」「根」「碆」「石」などの語がある。[[海洋法に関する国際連合条約]]では、「自然に形成された陸地」で「高潮時も水面上にある」ものを「島」と定義しており、面積の大小は問われない。このため日本では「島」の総数の把握は困難である<ref name="知る" />{{Sfn|『SHIMADAS』|2019|p=100|loc=「島とは何か」}}。
+
+=== 日本の島の数の変遷===
+[[1946年]]（昭和21年）に初めて「日本の島の総数」が公的機関から発表された。これは[[連合国軍最高司令官総司令部|GHQ]]の指揮のもとで海上保安庁が調査したもので、外海で1,025、内海と港湾内の島を含めると「'''2,394余り'''」とされた。その後、[[トカラ列島]]、[[奄美群島]]、[[小笠原諸島]]や[[沖縄県|沖縄]]の返還に伴って数は増え、1969年（昭和44年）までに「'''3,922'''」となり、この数値は1989年（平成元年）まで政府の公式見解として用いられてきた。ただし、具体的にどのような基準で数えられ、どの島が含まれているのかは不詳であった{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}{{Efn|たとえば、1973年（昭和48年）に[[西之島]]の600[[メートル|m]]沖合の海底噴火によって「西之島新島」が誕生した際も、3,922という総数は変更されなかった{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}。}}。
+
+1987年（昭和62年）に、海上保安庁が発表した昭和62年版『海上保安の現況』では、新たに日本の島嶼の総数が「'''6,852'''」とされた{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}<ref>{{cite report
+|language=ja
+|title=海上保安の現況
+|editor=海上保安庁
+|publisher=海上保安庁
+|date=1987-09
+|id={{NDLJP |9568340}}
+|doi=10.11501/9568340
+|page=200
+}}</ref>。これは、最大縮尺[[海図]]や、2.5万分1の[[地形図]]を使用し、以下の条件を満たすものを島として数えたものである。
+* 周囲が0.1&nbsp;km以上である。
+* 何らかの形で本土と繋がっているものについては、橋や防波堤のような細い構造物で繋がっている場合は島として扱い、それより幅が広く繋がって本土と一体化しているものは除外する。
+* [[埋立地]]は除外する<ref name="JODC34-11">{{Cite web |url=https://www.jodc.go.jp/jodcweb/info/jodc_news/jodc_no34.pdf#page=10 |title=「海の相談室」トピックス |access-date=2024-05-19 |year=1987 |month=3 |format=PDF |work=JODCニュース 34 |publisher=[[海上保安庁]][[海洋情報部|水路部]]日本海洋データセンター (JODC) |pages=10-11}}</ref>。
+この島嶼数は、1989年（平成元年）に『第三十九回日本統計年鑑』（[[総務省]][[統計局]]）に「国土構成島数」として記載され、日本政府の公式な「日本の島嶼の総数」として用いられるようになった。『[[日本統計年鑑]]』では、「都道府県別の総数」及び「[[瀬戸内海]]の島嶼数」だけが発表され、個々の島の位置、名称、大きさなどは非公表である{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}{{Sfn|『離島振興ハンドブック』|2004|pp=1-2}}{{Sfn|『日本の島事典』|1995|p=11}}。
+
+国土地理院が毎年（2019年10月以降は年4回）発表する『[[全国都道府県市区町村別面積調]]』には、面積が1&nbsp;km<sup>2</sup>以上の島が掲載されており、その数は334である（2025年1月1日時点）<ref name=GSI>{{Cite web|和書
+|title=令和7年全国都道府県市区町村別面積調（1月1日時点）
+|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20250101.pdf
+|publisher=国土地理院
+|format=PDF
+|accessdate=2025-04-19
+}}</ref><ref name="GSI-2023-10">{{Cite web|和書
+|title=令和5年全国都道府県市区町村別面積調（10月1日時点）
+|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20231001.pdf
+|publisher=国土地理院
+|format=PDF
+|accessdate=2024-05-19
+}}</ref>。これには湖沼中の島も含まれている。その面積は[[埋め立て]]や掘削などで毎年変動しているが、特に2013年度（平成25年度）と2014年度（平成26年度）の間ではその差が大きい。これは、2013年度（平成25年度）までは1988年（昭和63年）に地形図上で測定されたものに毎年の埋め立て分を加算して算出していたが、2014年度（平成26年度）からは面積の算出方法が変更され、[[電子国土基本図]]による測定値になったためである{{Efn|たとえば本州は2013年度から2014年度で33.05&nbsp;km<sup>2</sup>「小さく」なっている。これは[[杉並区]]全体の面積にほぼ等しい。2014年度と2015年度の間では、0.64&nbsp;km<sup>2</sup>小さくなっただけである。}}{{Sfn|『日本の島事典』|1995|p=11}}<ref name="GSI-2014">{{Cite web|和書
+|title=平成26年全国都道府県市区町村別面積調
+|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20141001.pdf
+|publisher=国土地理院
+|format=PDF
+|accessdate=2024-04-26
+}}</ref><ref name="GSI-2013">{{Cite web|和書
+|title=平成25年全国都道府県市区町村別面積調
+|url=https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20131001.pdf
+|publisher=国土地理院
+|format=PDF
+|accessdate=2024-04-26
+}}</ref>。
+
+これらとは別に、1982年（昭和57年）に財団法人[[日本離島センター]]が独自に島を数え直し、「'''4,917'''」島と発表した。この際の基準は、国土地理院が発行する5万分1地形図及び20万分1[[地勢図]]において、「島」「岩」「瀬」「根」「礁」などの固有名詞が示されているものを、島の規模に関わりなく数えたものである。これは実際の島と島数を対照させて把握できる日本で初めての総合資料である。さらにこの資料では面積1&nbsp;km<sup>2</sup>に満たない島も、面積などの諸元が掲載されている。ただし、この調査方法では、名称が記載されていれば小さな島でも島に数えられる一方、大きな島でも名称が記載されていなければ数に加えられないため、実際に存在する島の数とは一致しない{{Sfn|『SHIMADAS』|2019|p=166|loc=「島の数」}}。
+
+2023年（令和5年）には、国土地理院より日本の島の数は「'''14,125'''」島であると発表された。従来の島の数を大きく上回ったのは、[[測量]]・調査技術が進歩したためである<ref name="我が国の島"/>。これにより、2024年（令和6年）の『第七十三回日本統計年鑑』から「国土構成島数」は「都道府県別島の数」として一新された。
+
+このように、「日本の島の総数」としては「3,922」「4,917」「6,852」「14,125」が用いられてきたが、場合によってはこれらから「本土」の4ないし5を差し引いた数字が用いられる場合もある<ref name="知る" />{{Sfn|『離島振興ハンドブック』|2004|pp=1-2}}。
+
+=== 有人島と無人島 ===
+島が有人島であるか[[無人島]]であるかについては複数の異なる判断基準がある。[[瀬戸内海]]では[[耕作]]のために毎日のように人が渡ってくる島があり、[[日本海]]や[[北日本]]の[[漁場]]では漁期に[[漁師]]が一時的に立ち寄る島もある（[[七ツ島]]、[[松前小島]]、[[渡島大島]]など）。このように通年の定住がないとしても、[[農耕]]や[[漁業]]のために一時的に定住がある季節有人島や、[[公務員]]が職務で交代しながら逗留する島などは有人島とするか無人島とするかは難しい<ref name="知る" />{{Sfn|『SHIMADAS』|2019|p=250|loc=「有人島と無人島」}}。
+
+日本離島センターでは、[[国勢調査 (日本)|国勢調査]]と[[住民基本台帳]]をもとに有人無人の判定をしている。ただし、国勢調査は5年ごとに実施される一方、住民基本台帳は[[住民票]]の登録・抹消により更新されるため、両者には時期的なズレがある。また、国勢調査は小さな離島等では調査区域が本土と島にまたがって区別が困難なこともあり、住民票は登録・抹消が実際の居住の時期と異なることもある。さらに、離島振興法の指定を受けていない島も多くあるため、有人・無人を正確に確認することは困難である<ref name="知る" />{{Sfn|『SHIMADAS』|2019|p=250|loc=「有人島と無人島」}}。
+
+国土交通省が2023年に公表した資料では、14,125島のうち有人島は421島としている<ref>{{Cite web|和書|url=https://www.mlit.go.jp/kokudoseisaku/chirit/content/001477518.pdf |title=日本の島嶼の構成 |accessdate=2023-03-04 |publisher=国土交通省 |format=PDF}}</ref>{{Efn|14,125島には内水面離島を含まないが、有人島の総数には[[琵琶湖]]の湖中島である[[沖島]]を含む。}}。
+
+== 面積順 ==
+下表は[[国土地理院]]が発表する「島面積20傑」による値（2025年（令和7年）1月1日時点）<ref name="GSI"/>。「海岸線長」は総務省統計局の『第六十三回 日本統計年鑑 平成26年』より - 1986年（昭和61年）調査、ただし、[[択捉島]]と[[国後島]]は1969年（昭和44年）に計測<ref name="toukei2014-13">{{Cite web |url=https://www.stat.go.jp/data/nenkan/back63/ |title=第六十三回日本統計年鑑　平成26年 |year=2014 |access-date=2024-05-19 |publisher=総務省統計局 | page=13}}</ref><ref name="toukei2014-17">{{Cite web |url=https://www.stat.go.jp/data/nenkan/back63/ |title=第六十三回日本統計年鑑　平成26年 |year=2014 |access-date=2024-05-19 |work=「1-1 国土構成島数、周囲及び面積」「1-2 主な島」 |publisher=総務省統計局 | page=17}}</ref>{{Efn|北海道、本州、四国、九州の海岸線長は「1-1 国土構成島数、周囲および面積」より、それ以外は「1-2 主な島」より参照。}}。
+{| class="wikitable" style="text-align:left; font-size:small"
+!style="white-space:nowrap"|順位
+!島名
+!面積<br />(km<sup>2</sup>)
+!style="white-space:nowrap"|海岸線長<br />(km)
+!都道府県
+!市町村
+!style="white-space:nowrap"|備考
+|-
+!1
+|[[本州]]
+|style="text-align:right"|227,938.36
+|style="text-align:right"|10,084
+|style="white-space:nowrap"|1都2府31県
+|
+|世界第7位。本土。
+|-
+!2
+|[[北海道]]
+|style="text-align:right"|77,982.36
+|style="text-align:right"|2,676
+|北海道
+|
+|世界第21位。本土。
+|-
+!3
+|[[九州]]
+|style="text-align:right"|36,782.36
+|style="text-align:right"|3,888
+|style="white-space:nowrap"|7県
+|
+|世界第37位。本土。
+|-
+!4
+|[[四国]]
+|style="text-align:right"|18,296.23
+|style="text-align:right"|2,091
+|style="white-space:nowrap"|4県
+|
+|世界第50位。本土。
+|-
+!5
+|[[択捉島]]
+|style="text-align:right"|3,166.64
+|style="text-align:right"|662
+|北海道
+|[[留別村]]<br>[[紗那村]]<br>[[蘂取村]]
+|style="white-space:nowrap"|[[ロシア|ロシア連邦]]との[[北方領土問題]]がある。<br>日本最北端。
+|-
+!6
+|[[国後島]]
+|style="text-align:right"|1,489.27
+|style="text-align:right"|356
+|北海道
+|[[泊村 (北海道根室振興局)|泊村]]<br>[[留夜別村]]
+|ロシア連邦との北方領土問題がある。
+|-
+!7
+|[[沖縄本島|沖縄島]]
+|style="text-align:right"|1,208.44
+|style="text-align:right"|476
+|[[沖縄県]]
+|
+|本土とみなす場合あり。
+|-
+!8
+|[[佐渡島]]
+|style="text-align:right"|854.81
+|style="text-align:right"|253
+|[[新潟県]]
+|[[佐渡市]]
+|[[日本海]]最大。
+|-
+!9
+|[[奄美大島]]
+|style="text-align:right"|712.41
+|style="text-align:right"|426
+|[[鹿児島県]]
+|[[奄美市]]<br>[[瀬戸内町]]<br>[[宇検村]]<br>[[大和村]]<br>[[龍郷町]]
+|
+|-
+!10
+|[[対馬]]
+|style="text-align:right"|695.74
+|style="text-align:right"|716
+|[[長崎県]]
+|[[対馬市]]
+|
+|-
+!11
+|[[淡路島]]
+|style="text-align:right"|592.44
+|style="text-align:right"|168
+|[[兵庫県]]
+|style="white-space:nowrap"|[[南あわじ市]]<br>[[淡路市]]<br>[[洲本市]]
+|[[瀬戸内海]]最大。
+|-
+!12
+|style="white-space:nowrap"|[[天草下島]]
+|style="text-align:right"|574.95
+|style="text-align:right"|301
+|[[熊本県]]
+|[[天草市]]<br>[[苓北町]]
+|
+|-
+!13
+|[[屋久島]]
+|style="text-align:right"|504.25
+|style="text-align:right"|132
+|鹿児島県
+|[[屋久島町]]
+| 
+|-
+!14
+|[[種子島]]
+|style="text-align:right"|443.67 
+|style="text-align:right"|165
+|鹿児島県
+|[[西之表市]]<br>[[中種子町]]<br>[[南種子町]]
+|
+|-
+!15
+|[[福江島]]
+|style="text-align:right"|326.36
+|style="text-align:right"|257
+|長崎県
+|[[五島市]]
+|
+|-
+!16
+|[[西表島]]
+|style="text-align:right"|289.62
+|style="text-align:right"|129
+|沖縄県
+|[[竹富町]]
+|
+|-
+!17
+|[[徳之島]]
+|style="text-align:right"|247.85
+|style="text-align:right"|94
+|鹿児島県
+|[[徳之島町]]<br>[[天城町]]<br>[[伊仙町]]
+|
+|-
+!18
+|[[色丹島]]
+|style="text-align:right"|247.65
+|style="text-align:right"|153
+|北海道
+|[[色丹村]]
+|ロシア連邦との北方領土問題がある。
+|-
+!19
+|[[島後島|島後]]
+|style="text-align:right"|241.53
+|style="text-align:right"|151
+|[[島根県]]
+|[[隠岐の島町]]
+|
+|-
+!20
+|[[天草上島]]
+|style="text-align:right"|225.85
+|style="text-align:right"|142
+|熊本県
+|[[天草市]]<br>[[上天草市]]
+|
+|-
+|}
+
+== 人口順 ==
+下表は2020年（令和2年）10月1日の[[国勢調査]]による日本国内の人口1万人以上の有人島。人口1万人未満の有人島を含む有人離島の人口統計の詳細については、[[離島振興法#有人離島の人口統計|有人離島の人口統計]]を参照。
+
+{| class="wikitable sortable" style="font-size:small"
+!style="white-space:nowrap"|順位
+!島名
+!2020年<br>国調人口
+!面積<br>(km<sup>2</sup>)
+!style="white-space:nowrap"|人口密度<br>(人/km<sup>2</sup>)
+!都道府県
+!市町村
+!備考
+|-
+!1
+|[[本州]]
+|align=right|102,579,606
+|align=right|227,938.36
+|align=right|450
+|style="white-space:nowrap"|1都2府31県
+|
+|style="white-space:nowrap"|世界第2位。<br>人口は本州1都2府31県総人口より139の有人離島人口合計を減じて算出。<br>ただし[[琵琶湖]]の[[沖島]]と[[中海]]の[[大根島]]・[[江島 (島根県)|江島]]は本州に含む。
+|-
+!2
+|[[九州]]
+|align=right|12,346,465
+|align=right|36,782.36
+|align=right|336
+|7県
+|
+|世界第15位。<br>人口は九州7県総人口より154の有人離島人口合計を減じて算出。<br>ただし[[西海市]]の[[竹ノ島|竹島]]と[[臼杵市]]の[[黒島 (大分県臼杵市)|黒島]]は2020年住基人口を用いた。
+|-
+!3
+|[[北海道]]
+|align=right|5,214,795
+|align=right|77,982.36
+|align=right|67
+|[[北海道]]
+|
+|世界第21位。<br>人口は北海道総人口より6の有人離島人口合計を減じて算出。
+|-
+!4
+|[[四国]]
+|align=right|3,627,334
+|align=right|18,296.23
+|align=right|198
+|4県
+|
+|世界第29位。<br>人口は四国4県総人口より71の有人離島人口合計を減じて算出。<br>ただし[[須崎市]]の[[中ノ島 (高知県)|中ノ島]]と[[戸島 (高知県)|戸島]]は2010年国調人口を用いた。
+|-
+!5
+|[[沖縄本島|沖縄島]]
+|align=right|1,335,733
+|align=right|1,208.44
+|align=right|1,105
+|[[沖縄県]]
+|
+|世界第48位。<br>人口は沖縄県総人口より47の有人離島人口合計を減じて算出。
+|-
+!6
+|[[淡路島]]
+|align=right|126,980
+|align=right|592.44
+|align=right|214
+|[[兵庫県]]
+|style="white-space:nowrap"|[[南あわじ市]]<br>[[淡路市]]<br>[[洲本市]]
+|
+|-
+!7
+|[[天草下島]]
+|align=right|65,937
+|align=right|574.95
+|align=right|115
+|[[熊本市]]
+|[[天草市]]<br>[[苓北町]]
+|
+|-
+!8
+|[[奄美大島]]
+|align=right|57,511
+|align=right|712.41
+|align=right|712
+|[[鹿児島県]]
+|[[奄美市]]<br>[[瀬戸内町]]<br>[[宇検村]]<br>[[大和村]]<br>[[龍郷町]]
+|
+|-
+!9
+|[[佐渡島]]
+|align=right|51,492
+|align=right|854.81
+|align=right|60
+|[[新潟県]]
+|[[佐渡市]]
+|
+|-
+!10
+|[[宮古島]]
+|align=right|47,676
+|align=right|158.54
+|align=right|301
+|沖縄県
+|[[宮古島市]]
+|
+|-
+!11
+|[[石垣島]]
+|align=right|47,637
+|align=right|222.24
+|align=right|214
+|沖縄県
+|[[石垣市]]
+|
+|-
+!12
+|[[福江島]]
+|align=right|31,945
+|align=right|326.36
+|align=right|98
+|[[長崎県]]
+|[[五島市]]
+|人口は前小島(2015年住基人口8)を含む。
+|-
+!13
+|[[対馬]]
+|align=right|28,374
+|align=right|695.74
+|align=right|41
+|長崎県
+|[[対馬市]]
+|
+|-
+!14
+|[[種子島]]
+|align=right|27,690
+|align=right|443.67
+|align=right|62
+|鹿児島県
+|[[西之表市]]<br>[[中種子町]]<br>[[南種子町]]
+|
+|-
+!15
+|[[小豆島]]
+|align=right|25,881
+|align=right|153.22
+|align=right|169
+|[[香川県]]
+|[[小豆島町]]<br>[[土庄町]]
+|
+|-
+!16
+|[[壱岐島]]
+|align=right|24,678
+|align=right|134.63
+|align=right|183
+|長崎県
+|[[壱岐市]]
+|
+|-
+!17
+|[[天草上島]]
+|align=right|23,769
+|align=right|225.85
+|align=right|105
+|熊本県
+|[[天草市]]<br>[[上天草市]]
+|
+|-
+!18
+|[[彦島]]
+|align=right|23,606
+|align=right|10.61
+|align=right|2,225
+|[[山口県]]
+|[[下関市]]
+|
+|-
+!19
+|style="white-space:nowrap"|[[江田島]]・[[能美島]]
+|align=right|21,924
+|align=right|91.38
+|align=right|240
+|[[広島県]]
+|[[江田島市]]
+|
+|-
+!20
+|[[徳之島]]
+|align=right|21,803
+|align=right|247.85
+|align=right|88
+|鹿児島県
+|[[徳之島町]]<br>[[伊仙町]]<br>[[天城町]]
+|
+|-
+!align=right|21
+|[[向島 (広島県)|向島]]
+|align=right|20,994
+|align=right|22.15
+|align=right|948
+|広島県
+|[[尾道市]]
+|
+|-
+!align=right|22
+|[[因島]]
+|align=right|20,435
+|align=right|35.03
+|align=right|583
+|広島県
+|尾道市
+|
+|-
+!align=right|23
+|[[平戸島]]
+|align=right|16,240
+|align=right|163.44
+|align=right|99
+|長崎県
+|[[平戸市]]
+|
+|-
+!align=right|24
+|[[中通島]]
+|align=right|16,113
+|align=right|168.39
+|align=right|96
+|長崎県
+|[[新上五島町]]
+|
+|-
+!align=right|25
+|[[倉橋島]]
+|align=right|15,106
+|align=right|69.01
+|align=right|219
+|広島県
+|[[呉市]]
+|
+|-
+!align=right|26
+|[[屋代島]]
+|align=right|14,477
+|align=right|128.49
+|align=right|113
+|山口県
+|[[周防大島町]]
+|
+|-
+!align=right|27
+|[[島後]]
+|align=right|13,433
+|align=right|241.53
+|align=right|56
+|[[島根県]]
+|[[隠岐の島町]]
+|
+|-
+!align=right|28
+|[[沖永良部島]]
+|align=right|11,996
+|align=right|93.65
+|align=right|128
+|鹿児島県
+|[[和泊町]]<br>[[知名町]]
+|
+|-
+!align=right|29
+|[[屋久島]]
+|align=right|11,765
+|align=right|504.25
+|align=right|23
+|鹿児島県
+|[[屋久島町]]
+|
+|-
+!align=right|30
+|[[大矢野島]]
+|align=right|11,090
+|align=right|30.12
+|align=right|368
+|熊本県
+|上天草市
+|人口は野牛島を含む。
+|-
+|}
+
+また日本が実効支配していない有人島の人口は以下の通りである。
+{| class="wikitable sortable" style="font-size:small"
+!島名
+!人口
+!面積<br>(km<sup>2</sup>)
+!style="white-space:nowrap"|人口密度<br>(人/km<sup>2</sup>)
+!都道府県
+!市町村
+!備考
+|-
+|[[国後島]]
+|align=right|7,683
+|align=right|1,489.27
+|align=right|5
+|北海道
+|[[泊村 (北海道根室振興局)|泊村]]<br>[[留夜別村]]
+|[[南クリル管区]](色丹島の2村を除く)<br>人口は[[:en:2021_Russian_census|ロシア国勢調査]]人口(2021年10月15日～11月14日)
+|-
+|[[択捉島]]
+|align=right|6,874
+|align=right|3,166.64
+|align=right|2
+|北海道
+|[[留別村]]<br>[[紗那村]]<br>[[蘂取村]]
+|[[クリル管区]]<br>人口はロシア国勢調査人口(2021年10月15日～11月14日)
+|-
+|[[色丹島]]
+|align=right|3,800
+|align=right|247.65
+|align=right|15
+|北海道
+|[[色丹村]]
+|南クリル管区[[マロクリリスク|マロクリリスク村]]・[[穴澗|クラバザヴォーツク村]]<br>人口はロシア国勢調査人口(2021年10月15日～11月14日)
+|-
+|[[女島 (島根県隠岐の島町)|女島]] (東島)
+|align=right|53
+|align=right|0.071
+|align=right|742
+|島根県
+|隠岐の島町
+|[[慶尚北道]][[鬱陵郡]]鬱陵邑[[竹島|独島里]]異斯夫ギル<br>人口は慶尚北道公表住民登録人口(2025年9月30日)
+|-
+|[[男島 (島根県隠岐の島町)|男島]] (西島)
+|align=right|1
+|align=right|0.094
+|align=right|14
+|島根県
+|隠岐の島町
+|慶尚北道鬱陵郡鬱陵邑独島里安龍福ギル<br>人口は慶尚北道公表住民登録人口(2025年9月30日)
+|-
+|}
+
+== 日本の島一覧 ==
+[[国土地理院]]は2023年（令和5年）に日本全国の島の数を'''14,125'''島としている<ref name="我が国の島" />。国土地理院はそのすべての名称等は公表していないが、「面積1平方キロメートル以上」の島の名称と面積を公表しており、本節ではそれを網羅している（2025年（令和7年）1月1日時点）<ref name="GSI"/>。これには湖沼中の島も含まれている一方、[[人工島]]は含まれていない。なお、島の面積は埋立などで変動することがある。
+
+また、従来、[[海上保安庁]]は「周囲100メートル以上」の島の総数を'''6,852'''島とし、その都道府県別内訳も公表していた。本節の表中の「海上保安庁による島数」がそれにあたる。
+
+下記のリストの☆印は海底光ファイバーケーブルや海上架空光ファイバーケーブルでインターネットが到達している島<ref>[http://www.hct.ecl.ntt.co.jp/panel/pdf/1_Ca_8_4.pdf 1999度の日本の海底ルート地図。光ルートのみ] NTT技術史料館</ref><ref>[http://www.humgeo.c.u-tokyo.ac.jp/paper/komaba_studies_in_human_geography/21/21_67-84.pdf 離島におけるブロードバンド整備と政策的対応] p.73 荒井良雄、長沼佐枝、佐竹泰和 2014年</ref><ref>[https://www.nikkei.com/article/DGXNASFC0900A_Z00C10A4L41000/ NTT東、利尻・礼文に光通信網　10億円で海底ケーブル] 日経新聞 2010年4月9日</ref><ref>[https://lovewalker.jp/elem/000/004/040/4040693/ 島しょ部をつなぐ海底光ケーブル「ループ回路完成」—東京都 戦略政策情報推進本部] KADOKAWA 2021年1月20日</ref><ref>[https://www.applic.or.jp/seminar/setouchi/05.pdf 「瀬戸内海地域におけるICT利活用の現状と課題」] p.2-4 全国地域情報化推進協会 2012年11月30日</ref><ref>{{Cite journal|和書|author=田畑暁生 |year=2010 |url=https://doi.org/10.24546/81002638 |title=奄美群島における地域情報化政策 自治体間における差異を中心に |journal=神戸大学大学院人間発達環境学研究科研究紀要 |ISSN=18822851 |publisher=神戸大学大学院人間発達環境学研究科 |volume=4 |issue=1 |page=74 |doi=10.24546/81002638 |hdl=20.500.14094/81002638}}</ref><ref>[https://www.pref.okinawa.jp/site/chijiko/kohokoryu/kense/publicity/kohoshi/kohoshi/back/2013/documents/churashima497_03.pdf 離島へつながる“光の道”完成] 沖縄県 2017年2月</ref><ref>[https://www.pref.aichi.jp/uploaded/life/336375_1345754_misc.pdf 愛知の離島（資料編）] p.8 愛知県 2021年3月</ref><ref>[http://shigahochi.co.jp/old/bno/2002/02-10/n021005.html#4 市内とつなぐハートライン 沖島に光通信ケーブル開通] 滋賀報知新聞 2002年10月5日</ref><ref>[https://oki.keizai.biz/headline/49/ 隠岐・島前知夫里島全域で超高速通信可能に] 隠岐経済新聞 2015年4月9日</ref><ref name="kureshi-fiber">[https://www.chugoku-np.co.jp/articles/-/131909 光回線、ほぼ呉市全域に　安芸灘４島など３月から順次提供] 中国新聞 2022年2月21日</ref><ref>[https://www.city.etajima.hiroshima.jp/cms/articles/show/1987 市全域で光回線が開通] 江田島市 2014年9月1日</ref><ref>[https://www.city.onomichi.hiroshima.jp/soshiki/12/41523.html 光ファイバ網の整備について（尾道市高度情報通信基盤整備事業）] 尾道市 2022年1月11日</ref><ref>[https://www.city.fukuyama.hiroshima.jp/koho-detail02/koho-202202/246530.html 光回線未整備地域に光ファイバ網を整備します] 福山市 2022年2月1日</ref><ref>[https://www.asahi.com/articles/ASQ3R7RSXQ2HUZHB008.html 離島・飛島とつなぐ光回線、サービス開始] 朝日新聞 2022年3月24日</ref><ref>[https://web.archive.org/web/20211109070000/http://www.i-lander.com/2015/profiles/sanuki.html 香川県～さぬきの島々(男木島、女木島、大島、櫃石島、岩黒島、与島、小与島、高見島、佐柳島、粟島、志々島)～] アイランダー 2015年</ref><ref>[https://www.shikoku-np.co.jp/dg/article.aspx?id=K2022032800000002000 光回線で離島活性化へ　女木、男木島に開通　高松市、遠隔診療や教育加速] 四国新聞 2022年3月28日</ref><ref>[https://web.archive.org/web/20220829071030/https://www.mlit.go.jp/common/001014133.pdf 徳島県離島振興計画（平成25年度〜34年度）] p.23 徳島県</ref><ref>[https://web.archive.org/web/20220829063659/https://www.mlit.go.jp/common/001014144.pdf 宮崎県離島振興計画（計画期間：平成２５年度～平成３４年度）]  p.12 国土交通省</ref><ref>[http://mishimamura.com/system/wp-content/uploads/2019/10/h22jouhou.pdf 地域情報通信基盤整備推進交付金事業における整備計画事後評価] 三島村 2011年</ref><ref>[https://www.pref.okinawa.lg.jp/site/iken/r3/documents/02keikakusoan2202.pdf 新たな離島振興計画（素案） （令和４年度～令和 13 年度）] p.61 沖縄県 2022年2月</ref><ref>[https://www.city.mihara.hiroshima.jp/uploaded/attachment/61658.pdf 離島の振興を促進するための三原市における産業の振興に関する計画] p.3 広島県三原市 2019年3月5日</ref><ref>[http://www.city.otake.hiroshima.jp/ikkrwebBrowse/material/files/group/4/otakeritousangyousinkoukeikaku.pdf 離島の振興を促進するための大竹市における産業の振興に関する計画] p.3 広島県大竹市 2019年3月14日</ref><ref>[https://www.pref.shizuoka.jp/kensetsu/ke-820/documents/h29hatsushima.pdf 熱海市初島地区における津波対策の方針] p.9 静岡県熱海市 2017年10月</ref><ref>[https://web.archive.org/web/20210904233322/https://kahoku.news/articles/20200902kho000000089000c.html 浦戸諸島に光ファイバー　塩釜市が整備へ] 河北新報 2020年9月2日</ref><ref>[https://www.city.shiogama.miyagi.jp/uploaded/attachment/17923.pdf 令和4年度「情報通信月間」東北総合通信局長表彰を受けました] 塩釜市 2022年6月2日</ref><ref>[https://www.nikkei.com/article/DGXZQOFB28AMP0Y1A120C2000000/ 新潟の離島・粟島に海底ケーブル　5G整備へ　22年3月] 日本経済新聞 2021年1月29日</ref><ref>[http://www.vill.awashimaura.lg.jp/wp-content/uploads/2022/05/bfb83e75d3d631f37f50843be8f21fdc.pdf 粟島浦村高度無線環境整備推進事業における Wi-Fi 等高度無線局事業仕様書] 粟島浦村 2022年</ref><ref>[https://web.archive.org/web/20221115010340/https://www3.nhk.or.jp/lnews/okinawa/20221115/5090020844.html 北大東島と沖縄本島結ぶ海底光ケーブル開通 記念の式典] NHK 2022年11月15日</ref><ref>[https://www.ntt-west.co.jp/newscms/yamaguchi/12727/yamaguchi_n20230222a.pdf ｢フレッツ 光ネクスト」･｢フレッツ 光ライト｣の提供エリア拡大について ～新たに萩市見島の一部地域で、2023 年4 月10 日からサービス提供開始～] NTT西日本 2023年2月22日</ref><ref>[https://www.pref.kagoshima.jp/ak01/chiiki/kagoshima/kagoshima_torikumi/documents/102732_20221208155554-1.pdf 第2回「鹿児島地域 地域振興の取組方針」見直し地域懇談会] p.3 鹿児島県振興局 2022年11月21日</ref><ref>[http://www.town.yakushima.kagoshima.jp/t_yakushima/wp-content/uploads/2023/03/20230307_r5_shiseihoushin.pdf 令和5年度 屋久島町施政方針] p.31 屋久島町 2023年</ref><ref>[https://www.furukawa.co.jp/product/catalogue/optsogo_all.pdf 古河電工 情報通信カタログ 2023-2024] p.13 古河電工</ref>（光回線が一般提供されているとは限らない）、★は敷設予定<ref>[https://373news.com/_news/storyid/158778/ 馬毛島に海底ケーブル敷設　電力と通信、西之表市街地北部結ぶ　防衛省方針、8月にも調査測量開始] 西日本新聞 2022年7月2日</ref><ref>[https://www8.cao.go.jp/okinawa/pamphlet/shinkou-2021/2021_whole_2_4.pdf 沖縄振興に関するパンフレット（概要資料） その２-４. 北部・離島関連事業] p.3 内閣府 2021年</ref>、○印はマイクロ無線や[[光無線通信]]や長距離ブリッジ無線などでインターネットが到達している島、無印は不明の島である。
+
+=== 北海道地方 ===
+[[File:Rishiriislandairplane.jpg|thumb|right|[[利尻島]]]]
+[[File:天売島.jpg|thumb|right|[[焼尻島]]から望む[[天売島]]]]
+[[File:Nest burrows of Rhinoceros Auklet in Teuri Island.jpg|thumb|right|[[天売島]]の[[ウミガラス]]の巣]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|colspan="2"|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="4"|[[北海道]]||rowspan="2"|全体||rowspan="2" style="text-align:right"|20<br><small>北海道本島を含まず</small>||rowspan="2"|509||周囲1&nbsp;km以上||{{0}}41||[[北海道]]本島を含む。||rowspan="4"|<ref name="GSI-2023-10"/><ref name="JODC34-11" />
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||468||
+|-
+|rowspan="2"|（うち[[北方地域|北方領土]]）||rowspan="2" style="text-align:right"|10||rowspan="2"|178||周囲1&nbsp;km以上||{{0}}17||
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||161||
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[択捉島]] - 3,166.64&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土{{Efn|北方領土は、2023年3月現在、ロシア連邦の実効支配下にある。}}
+:* [[国後島]] - 1,489.27&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[色丹島]] - 247.65&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[利尻島]]☆ - 182.08&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[奥尻島]]☆ - 142.70&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[礼文島]]☆ - 81.25&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[志発島]] - 58.33&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[水晶島]] - 12.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[多楽島]] - 10.91&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[勇留島]] - 9.90&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。北方領土。
+:* [[渡島大島|大島]] - 9.74&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。渡島大島。日本最大の無人島。
+:* [[中島 (屈斜路湖)|中島]] - 5.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[屈斜路湖]]にあり、日本の湖中島としては最大。無人島。
+:* [[天売島]]☆ - 5.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[焼尻島]]☆ - 5.19&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[中島 (洞爺湖)|中島]] - 4.84&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[洞爺湖]]の湖中島。無人島。
+:* [[秋勇留島]] - 2.11&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[北方地域|北方領土]]。
+:* [[ユルリ島]] - 1.98&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[渡島小島|小島]] - 1.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。渡島小島。無人島。
+:* [[大島 (北海道色丹村)|大島]] - 1.28&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[北方地域|北方領土]]。[[色丹島]]に付随する島。
+:* [[大黒島 (厚岸町)|大黒島]] - 1.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。 無人島。
+:
+※2013年度（平成25年度）の資料では、このほか[[色丹村]]の「{{仮リンク|小島 (北海道色丹村)|ceb|Ko-shima (pulo sa Hapon, Hokkaidō)|label=小島}}」が面積1.01&nbsp;km<sup>2</sup>として掲載されていたが<ref name="GSI-2013"/>、面積の算出方法が変更になった2014年度（平成26年度）資料からは掲載されていない<ref name="GSI-2014"/>。
+
+; その他の島
+:* [[海馬島 (猿払村)]] - 無人島。
+:* （[[エサンベ鼻北小島]]） - 消失。
+:* [[海驢島]] - 無人島。
+:* [[鴎島 (江差町)|鴎島]]☆ - 陸繋島。
+:* [[嶮暮帰島]] - 無人島。
+:* [[弁天島 (北海道松前町)]] - 無人島。
+:* [[弁天島 (根室市)]] - 無人島。
+:* [[弁天島 (稚内市)]] - 日本が実効支配する最北端の地。無人島。
+:* [[:Category:北海道の島]]も参照。
+:
+=== 東北地方 ===
+==== 青森県 ====
+[[File:Kabushima, -8 May 2010 a.jpg|right|thumb|[[ウミネコ]]の繁殖地として知られる[[蕪島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[青森県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|114||周囲1&nbsp;km以上||{{0|00}}4||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||110||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[久六島]] - 無人島。
+:* （[[蕪島]]） - かつての島。
+:* [[弁天島 (大間町)]] - 本州の最北端[[大間崎]]の北に位置する島。無人島。
+:* [[弁天島 (東通村)]] - [[尻屋崎]]の南西に位置する無人島。
+:* [[鯛島 (青森県)|鯛島]] - 無人島。
+:* [[:Category:青森県の島]]も参照。
+:
+==== 岩手県 ====
+[[File:Jyoudogahama.jpg|right|thumb|[[三陸海岸]]には無数の小島が並ぶ。（[[浄土ヶ浜]]）]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[岩手県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|286||周囲1&nbsp;km以上||{{0|00}}5||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||281||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[三貫島]] - 無人島。
+:* [[日出島]] - 無人島。
+:* [[椿島 (陸前高田市)]] - 無人島。
+:* [[:Category:岩手県の島]]も参照。
+:
+==== 宮城県 ====
+[[File:Mutsu Province, View of Matsushima, Sight Map from Mount Tomi.jpg|thumb|right|upright|[[歌川広重]]が描いた名勝[[松島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[宮城県]]||rowspan="2" style="text-align:right"|7||rowspan="2"|311||周囲1&nbsp;km以上||{{0|0}}32||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||279||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[金華山 (宮城県)|金華山]] - 9.92&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (宮城県気仙沼市)|大島]]☆ - 8.52&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[気仙沼市|気仙沼]]大島。[[気仙沼大島大橋]]で本土と繋がっている。
+:* [[宮戸島]]☆ - 7.10&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[宮城県道27号奥松島松島公園線|松ヶ島橋]]で本土と繋がっている。
+:* [[網地島]] - 6.49&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[田代島]] - 2.92&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[出島 (宮城県)|出島]] - 2.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[出島大橋]]で本土と繋がっている。
+:* [[寒風沢島]]☆ - 1.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[浦戸諸島]]の主島。
+:
+; その他の島
+:* [[江島 (宮城県)]]
+:* [[浦戸諸島]]
+:** [[野々島 (宮城県)|野々島]]☆
+:** [[朴島]]☆
+:** [[桂島 (宮城県)|桂島]]☆
+:* [[椿島 (南三陸町)]] - 無人島。
+:* [[:Category:宮城県の島]]も参照。
+:
+==== 秋田県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[秋田県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|47||周囲1&nbsp;km以上||{{0|0}}1||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||46||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[水島 (秋田県)|水島]]、根太島、宮島 - いずれも男鹿半島近海の離島の無人島。
+:* [[八郎潟]]干拓地☆ - 干拓による人工の湖中島。多数の橋で外と繋がっている。
+:* [[:Category:秋田県の島]]も参照。
+:
+==== 山形県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[山形県]]||rowspan="2" style="text-align:right"|1||rowspan="2"|29||周囲1&nbsp;km以上||{{0|0}}2||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||27||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[飛島 (山形県)|飛島]]☆ - 2.73&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* （[[弁天島 (鶴岡市)|弁天島]]） - かつての島。
+:* [[白山島]] - 無人島。
+:* [[:Category:山形県の島]]も参照。
+:
+==== 福島県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[福島県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|13||周囲1&nbsp;km以上||{{0|0}}0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||13||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* 中州 - [[潟湖]]である[[松川浦]]の湖中島。無人島。 
+:* [[機械島]] - 同上。無人島。 
+:* [[翁島]] - [[猪苗代湖]]の湖中島。無人島。 
+:* 糠塚島 - [[桧原湖]]の湖中島。無人島。 
+:* [[:Category:福島県の島]]も参照。
+:
+
+=== 関東地方 ===
+==== 群馬県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[群馬県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[浮島 (群馬県)|浮島]] - [[利根川]]水系[[片品川]]の中洲にある無人島。浮島橋と吹割橋で外と繋がっている。
+:* [[:Category:群馬県の島]]も参照。
+:
+==== 栃木県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[栃木県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[上野島]] - [[中禅寺湖]]の湖中島。無人島。
+:* [[:Category:栃木県の島]]も参照。
+:
+==== 茨城県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[茨城県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|7||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||7||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[二ツ島]] - 無人島。
+:* [[:Category:茨城県の島]]も参照。
+:
+==== 埼玉県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[埼玉県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[:Category:埼玉県の島]]も参照。
+:
+==== 千葉県 ====
+[[File:仁右衛門島 006.jpg|thumb|right|[[源頼朝]]が潜んだと伝わる[[仁右衛門島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[千葉県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|95||周囲1&nbsp;km以上||{{0}}4||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||91||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[仁右衛門島]]☆
+:* 沖ノ島 - 陸繋島。無人。
+:* [[浮島 (千葉県)|浮島]] - 無人島。
+:* [[海堡|第一海堡]]、第二海堡 - [[富津市]]にある人工の洋上[[要塞]]跡。無人。
+:* [[中の島 (千葉県)|中の島]] - [[中の島 (千葉県)#中の島大橋|中の島大橋]]で本土と繋がっている無人島。中の島公園がある。
+:* [[:Category:千葉県の島]]も参照
+:
+==== 東京都 ====
+[[File:Volcanic Ash Fall Layers Izu Oshima Japan 2.jpg|thumb|right|[[伊豆大島]]の火山灰地層の露頭]]
+[[File:Sokodo harbor.jpg|thumb|right|[[八丈島]]と八丈富士]]
+[[File:Marines on the beach of Iwo Jima.jpg|thumb|right|激戦地となった[[硫黄島 (東京都)|硫黄島]]]]
+[[File:Ogasawara Islands, Tokyo, Japan.jpg|thumb|right|[[父島]]の砂浜]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[東京都]]||rowspan="2" style="text-align:right"|24||rowspan="2"|330||周囲1&nbsp;km以上||{{0|0}}47||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||283||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[伊豆大島|大島]]☆ - 90.73&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。伊豆大島。
+:* [[八丈島]]☆ - 69.11&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[三宅島]]☆ - 55.20&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[硫黄島 (東京都)|硫黄島]] - 29.86&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。有人島だが[[民間人]]の立ち入りは禁止されている。
+:* [[父島]]☆ - 23.45&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[新島]]☆ - 22.97&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[御蔵島]]☆ - 20.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[母島]]☆ - 19.88&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[神津島]]☆ - 18.24&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[兄島]] - 7.88&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[青ヶ島]]☆ - 5.95&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[北硫黄島]] - 5.56&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[弟島]] - 5.20&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[鳥島 (八丈支庁)|鳥島]] - 4.78&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。八丈鳥島。無人島。
+:* [[利島]]☆ - 4.03&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[式根島]]☆ - 3.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[南硫黄島]] - 3.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[八丈小島|小島]] - 3.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。八丈小島。無人島。かつては有人島だった。
+:* [[西之島]] - 2.89&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。平成27年10月1日時点での国土地理院資料には掲載されていなかった。
+:* [[聟島]] - 2.56&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。ケーター島。無人島。
+:* [[南鳥島]] - 1.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。日本の最東端。有人島だが民間人の来島は禁止されている。
+:* [[姉島]] - 1.43&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[向島 (母島列島)|向島]] - 1.38&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[媒島]] - 1.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[妹島]] - 1.23&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:
+; その他の島
+:* [[伊豆諸島]]
+:** [[鵜渡根島]] - 無人島。かつては有人島だった。
+:** [[地内島]] - 無人島
+:** [[早島 (東京都)]] - 無人島
+:** [[祇苗島]] - 無人島
+:** [[恩馳島]] - 無人島
+:** [[銭洲]] - 無人島
+:** [[大野原島]] - 無人島
+:** [[藺灘波島]] - 無人島
+:* [[須美寿島]] - 無人島
+:* [[小笠原諸島]]
+:** [[聟島列島]] - 無人島群
+:*** [[嫁島]]- 無人島。かつては有人島だった。
+:** [[父島列島]] - 父島以外は無人島
+:** [[母島列島]] - 母島以外は無人島
+:** [[火山列島]]
+:*** [[西之島]] - 無人島
+:** [[沖ノ鳥島]] - 日本の最南端。無人島。
+:* [[妙見島]]☆ - [[東京23区]]唯一の自然島。浦安橋で外と繋がっている。
+:* [[:Category:東京都の島]]及び[[:Category:東京都島嶼部]]も参照。
+:
+==== 神奈川県 ====
+{{See also|Category:神奈川県の島|神奈川県の島一覧}}
+[[File:Enoshima gezien vanaf het strand-Rijksmuseum RP-P-OB-JAP-29.jpeg|thumb|right|[[歌川広重]]による[[江ノ島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[神奈川県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|27||周囲1&nbsp;km以上||{{0|0}}4||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||23||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[野島 (神奈川県)]]☆ - [[野島橋]]、[[帰帆橋]]、[[夕照橋]]で本土と繋がっている。
+:* [[猿島]] - 無人島。
+:* [[天神島]]☆ - 天神橋で本土と繋がっている。
+:* [[城ヶ島]]☆ - [[城ヶ島大橋]]で本土と繋がっている。
+:* [[江の島]]☆ - 陸繋島。
+:* [[姥島]] - 無人島群
+:* [[大島中州]] - [[相模原市]]にある[[相模川]]の中州。水田等がある。[[諏訪森下橋]]で外と繋がっている。
+:* ヤギ島 - [[平塚市]]にある相模川の中洲。以前、ヤギを飼育していたと言われている。無人島。
+:
+=== 中部地方 ===
+==== 新潟県 ====
+[[File:Taraibune.jpg|thumb|right|[[佐渡島]]のたらい舟]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[新潟県]]||rowspan="2" style="text-align:right"|2||rowspan="2"|92||周囲1&nbsp;km以上||{{0|0}}4||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||88||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[佐渡島]]☆ - 854.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[粟島 (新潟県)|粟島]]☆ - 9.69&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[:Category:新潟県の島]]も参照。
+:
+==== 富山県 ====
+海上保安庁による富山県の島数3は、海に面する都道府県としては大阪府の0に次いで少ない。海岸沿いに浅い海底がほとんどなく、急に深海に向かって落ち込む[[富山湾]]の地形による。
+
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[富山県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|3||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||3||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[虻ガ島]] - 無人島。
+:* [[唐島]] - 無人島。
+:* [[男岩]] - 無人島。
+:* [[女岩]] - 無人島。
+:* [[仏島]] - 無人島。
+:* [[辺ノ島]] - 無人島。
+:* [[中ノ島 (富山県)|中ノ島]] - 無人島。
+:* [[沖ノ島 (富山県)|沖ノ島]] - 無人島。
+:* [[:Category:富山県の島]]も参照。
+:
+==== 石川県 ====
+[[File:NotoBriAgri.jpg|thumb|right|本土と[[能登島]]を繋ぐ[[中能登農道橋|ツインブリッジのと]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[石川県]]||rowspan="2" style="text-align:right"|1||rowspan="2"|110||周囲1&nbsp;km以上||{{0|00}}6||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||104||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[能登島]]☆ - 46.59&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[能登島大橋]]および[[中能登農道橋]]で本土と繋がっている。
+:
+; その他の島
+:* [[舳倉島]]
+:* [[七ツ島]] - 無人島群
+:* [[:Category:石川県の島]]も参照。
+:
+==== 福井県 ====
+[[File:Mizu Island (Fukui).jpg|thumb|right|[[敦賀湾]]に浮かぶ[[水島 (福井県)|水島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[福井県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|58||周囲1&nbsp;km以上||{{0}}3||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||55||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[雄島 (福井県)|雄島]] - [[雄島橋]]で本土と繋がっている。無人島。
+:* [[御神島]] - 無人島。
+:* [[水島 (福井県)|水島]] - 無人島。
+:* [[:Category:福井県の島]]も参照。
+:
+==== 長野県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[長野県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* 琵琶島 - [[野尻湖]]の湖中島。周囲0.6&nbsp;km、面積0.015&nbsp;km<sup>2</sup>あまり。宇賀神社、琵琶島（野尻）城跡、[[宇佐美定光]]墓等が存在する。無人島。
+:* [[初島 (長野県)|初島]] - [[諏訪湖]]の湖中島。花火大会の打ち上げ場として作られた人工島。無人島。
+:* [[:Category:長野県の島]]も参照。
+:
+==== 山梨県 ====
+[[File:U Island in Lake Kawaguchi.JPG|thumb|right|[[河口湖]]中の[[うの島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[山梨県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[うの島]] - [[河口湖]]の湖中島。周囲0.7&nbsp;km、面積0.028&nbsp;km<sup>2</sup>。無人島。
+:* [[:Category:山梨県の島]]も参照。
+:
+==== 静岡県 ====
+[[File:Awa Island and Mount Fuji.JPG|thumb|right|[[駿河湾]]に浮かぶ[[淡島 (沼津市)|淡島]]と[[富士山 (代表的なトピック)|富士山]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[静岡県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|106||周囲1&nbsp;km以上||{{0|00}}5||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||101||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[初島]]☆
+:* [[手石島]] - 無人島。
+:* [[弁天島 (浜松市)]]☆ - 多数の橋で本土と繋がっている。
+:* [[神子元島]] - 無人島。
+:* [[大根 (静岡県)|大根]] - 無人島。
+:* [[淡島 (沼津市)|淡島]] - 無人島。リゾート地。
+:* [[:Category:静岡県の島]]も参照。
+:
+==== 岐阜県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[岐阜県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[川島町 (岐阜県)|川島]]☆ - [[木曽川]]の中州の島。多数の橋で外と繋がっている。
+:* [[保戸島村 (岐阜県)|保戸島]]☆ - [[長良川]]、[[今川 (岐阜県)|今川]]、[[津保川]]に囲まれた中州の島。[[今川橋 (関市)|今川橋]]と[[岐関大橋]]と[[保戸島橋]]で外と繋がっている。
+:* [[灘見島]] - [[神通川]]水系[[高原川]]の中洲の島。無人島。
+:* [[:Category:岐阜県の島]]も参照。
+:
+==== 愛知県 ====
+[[File:Sakushima1.jpg|thumb|right|[[コールタール]]を外壁に塗布した[[佐久島]]の町並みは「三河湾の黒真珠」と称される]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[愛知県]]||rowspan="2" style="text-align:right"|1||rowspan="2"|41||周囲1&nbsp;km以上||{{0|0}}6||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||35||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[佐久島]]☆ - 1.73&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。愛知三島の一つ。
+:
+; その他の島
+:* [[竹島 (愛知県)]]☆ - [[竹島橋]]で本土と繋がっている。
+:* [[三河大島]] - 無人島。
+:* [[篠島]]☆ - 愛知三島の一つ。
+:* [[日間賀島]]☆ - 愛知三島の一つ。
+:* [[:Category:愛知県の島]]も参照。
+:
+=== 近畿地方 ===
+==== 三重県 ====
+[[File:Mount Yoko from Tomoyama viewpoint.JPG|thumb|right|[[英虞湾]]と[[賢島]]の遠望]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[三重県]]||rowspan="2" style="text-align:right"|2||rowspan="2"|233||周囲1&nbsp;km以上||{{0|0}}29||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||204||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[答志島]] - 6.96&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[菅島]]☆ - 4.41&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[神島 (三重県)]]☆
+:* [[坂手島]]
+:* [[渡鹿野島]]
+:* [[賢島]]☆ - [[賢島橋と賢島大橋|賢島橋および賢島大橋]]で本土と繋がっている。
+:* [[間崎島]]
+:* [[横山島]]
+:* [[:Category:三重県の島]]も参照。
+:
+==== 滋賀県 ====
+[[File:Oki Island from Miyagahama.jpg|thumb|right|[[琵琶湖]]の[[沖島 (琵琶湖)|沖島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[滋賀県]]||rowspan="2" style="text-align:right"|1||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[沖島 (琵琶湖)|沖島]]☆ - 1.51&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[琵琶湖]]にある湖中島。
+:
+; その他の島
+:* [[竹生島]] - [[琵琶湖]]にある湖中島。観光名所。
+:* [[多景島]] - [[琵琶湖]]にある湖中島。無人島。
+:* [[:Category:滋賀県の島]]も参照。
+:
+==== 京都府 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[京都府]]||rowspan="2" style="text-align:right"|0||rowspan="2"|49||周囲1&nbsp;km以上||{{0}}9||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||40||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[毛島]] - 無人島。かつては有人島だった。
+:* [[冠島]]（大島） - 無人島。
+:* [[沓島]]（小島） - 無人島。
+:* [[戸島 (京都府)]] - 無人島。
+:* [[青島 (京都府)]] - 無人島。
+:* [[:Category:京都府の島]]も参照。
+:
+==== 大阪府 ====
+海に面する都道府県としては唯一自然島が存在しない。
+
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[大阪府]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[:Category:大阪府の島]]も参照。
+:
+
+==== 兵庫県 ====
+[[File:Sumoto city view from Sumoto Castle Awaji Island Japan01n.jpg|thumb|right|[[淡路島]]の[[洲本市]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[兵庫県]]||rowspan="2" style="text-align:right"|6||rowspan="2"|110||周囲1&nbsp;km以上||21||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||89||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[淡路島]]☆ - 592.44&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[明石海峡大橋]]で本土に、[[大鳴門橋]]で四国に繋がっている。
+:* [[西島 (兵庫県)|西島]] - 6.52&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[家島諸島]]にある。
+:* [[家島]]☆ - 5.41&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[男鹿島]] - 4.53&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[沼島]]☆ - 2.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[坊勢島]] - 1.92&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[家島諸島]]
+:* [[日生諸島]]
+:** [[取揚島]] - 無人島。島内に[[岡山県]]との境界線が引かれている。
+:* [[:Category:兵庫県の島]]も参照。
+:
+==== 奈良県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[奈良県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|0||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||0||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[ツバキ島]] - [[池原ダム|池原貯水池]]の中の無人島。貯水量が減ると[[陸繋島]]となる。
+:* [[:Category:奈良県の島]]も参照。
+:
+==== 和歌山県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[和歌山県]]||rowspan="2" style="text-align:right"|3||rowspan="2"|253||周囲1&nbsp;km以上||{{0|0}}18||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||235||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[紀伊大島]] - 9.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[くしもと大橋]]で本土と繋がっている。
+:* [[沖ノ島 (和歌山県和歌山市)|沖ノ島]] - 1.33&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[友ヶ島]]のうち最大の島。無人島。
+:* [[地ノ島 (和歌山県和歌山市)|地ノ島]] - 1.08&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:
+; その他の島
+:* [[友ヶ島]] -沖ノ島、地ノ島などの総称。無人島群。
+:* [[:Category:和歌山県の島]]も参照。
+:
+=== 中国地方 ===
+==== 鳥取県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[鳥取県]]||rowspan="2" style="text-align:right"|0||rowspan="2"|35||周囲1&nbsp;km以上||0||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||35||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* 該当なし
+:
+; その他の島
+:* [[青島 (鳥取県)|青島]] - 0.147&nbsp;km<sup>2</sup>。[[湖山池]]に浮かぶ湖中の無人島。[[青島大橋]]で外と繋がれている。
+:* [[鳥取県の島の一覧]]および[[:Category:鳥取県の島]]も参照。
+:
+==== 島根県 ====
+[[File:Okinoshima MomoDome 02.jpg|thumb|right|[[隠岐島]]の闘牛]]
+[[File:Swimming cows in chibu.jpg|thumb|right|[[知夫里島]]で海を泳ぐ牛]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[島根県]]||rowspan="2" style="text-align:right"|5||rowspan="2"|369||周囲1&nbsp;km以上||{{0}}22||rowspan="2"|[[竹島 (島根県)|竹島]]を含む。||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||347
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[島後島|島後]]☆ - 241.53&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[西ノ島]]☆ - 55.77&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[中ノ島 (島根県)|中ノ島]]☆ - 32.29&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[知夫里島]]☆ - 13.03&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大根島]]・[[江島 (島根県)|江島]]☆ - 6.71&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。堤防道路および[[江島大橋]]で本土と繋がっている。
+:
+; その他の島
+:* [[隠岐諸島]]
+:* [[高島 (島根県)]] - 無人島。
+:* [[竹島 (島根県)]]{{Efn|[[1953年]]（昭和28年）に、[[大韓民国]]の武装民間団体である[[独島義勇守備隊]]が駐屯を開始。以降、韓国警察の警備隊が占拠を続け、2023年3月現在、韓国の実効支配下にある。}}
+:* [[:Category:島根県の島]]も参照。
+:
+==== 岡山県 ====
+[[File:Harbor View Park Hinase Bizen Okayama Pref Japan02n.jpg|thumb|right|[[日生諸島]]の[[鹿久居島]]]]
+[[File:Alley of Island Musima.jpg|thumb|right|upright|[[六島 (岡山県)|六島]]の石階段]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[岡山県]]||rowspan="2" style="text-align:right"|10||rowspan="2"|87||周囲1&nbsp;km以上||38||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||49||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[鹿久居島]]☆ - 10.14&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[備前♡日生大橋]]で本土と繋がっている。
+:* [[北木島]] - 7.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[長島 (岡山県)|長島]]☆ - 3.51&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[邑久長島大橋]]で本土と繋がっている。
+:* [[白石島]] - 2.95&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[井島]] - 2.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[直島諸島]]。島内に[[香川県]]との境界線が引かれているが一部境界未定。有人島だが居住者が存在するのは岡山県側のみ。
+:* [[前島 (岡山県)|前島]] - 2.41&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[鴻島]] - 2.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[真鍋島]] - 1.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[高島 (岡山県笠岡市)|高島]] - 1.05&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[笠岡諸島]]にある。
+:* [[六口島]] - 1.03&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[笠岡諸島]]
+:** [[飛島 (岡山県)]]
+:** [[六島 (岡山県)]]
+:* [[日生諸島]]
+:** [[頭島]]☆ - [[頭島大橋]]で鹿久居島と繋がっている。
+:** [[大多府島]]
+:** [[取揚島]] - 無人島。島内に[[兵庫県]]との境界線が引かれている。
+:* [[犬島諸島]]
+:** [[犬島]]★<!--2022/4〜-->
+:* [[水島諸島]]
+:* [[大槌島]] - 無人島。島内に[[香川県]]との境界線が引かれている。
+:* [[:Category:岡山県の島]]も参照。
+:
+==== 広島県 ====
+[[File:Itsukushimajinja-5.jpg|thumb|right|[[厳島]]の[[厳島神社]]]]
+[[File:Tanacetum cinerariifolium in Shigei.JPG|thumb|right|[[因島]]の除虫菊の段々畑]]
+[[File:Onomichi Channel04p3200.JPG|thumb|right|尾道水道と[[向島 (広島県)|向島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[広島県]]||rowspan="2" style="text-align:right"|26||rowspan="2"|142||周囲1&nbsp;km以上||73||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||69||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[江田島]]・[[能美島]]☆ - 91.38&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[早瀬大橋]]で倉橋島と繋がっている。
+:* [[倉橋島]]☆ - 69.46&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[音戸大橋]]および[[第二音戸大橋]]で本土と繋がっている。
+:* [[大崎上島]]☆ - 38.27&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[因島]]☆ - 35.02&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[因島大橋]]で向島と、[[生口橋]]で生口島と繋がっている。
+:* [[生口島]]☆ - 31.19&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[生口橋]]で因島と、[[多々羅大橋]]で大三島（愛媛県）と繋がっている。
+:* [[厳島]] - 30.33&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。宮島。
+:* [[向島 (広島県)|向島]]☆ - 22.15&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[尾道大橋]]および[[新尾道大橋]]で本土と、因島大橋で因島と繋がっている。
+:* [[上蒲刈島]]☆ - 18.79&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[蒲刈大橋]]で下蒲刈島と繋がっている。
+:* [[大崎下島]]☆ - 17.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[豊浜大橋]]で豊島と繋がっている。
+:* [[佐木島]]☆ - 8.71&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[田島 (広島県)|田島]]☆ - 8.51&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[内海大橋]]で本土と繋がっている。
+:* [[下蒲刈島]]☆ - 7.98&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[安芸灘大橋]]で本土と繋がっている。
+:* [[大黒神島]] - 7.22&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[豊島 (広島県)|豊島]]☆ - 5.64&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[豊島大橋]]で上蒲刈島と繋がっている。
+:* [[高根島]]☆ - 5.59&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[高根大橋]]で生口島と繋がっている。
+:* [[横島 (広島県福山市)|横島]]☆ - 4.03&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[睦橋 (福山市)|睦橋]]で田島と繋がっている。
+:* [[似島]] - 3.84&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[百島 (広島県)|百島]]☆ - 3.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[鹿島 (広島県)|鹿島]]☆ - 2.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[鹿島大橋]]で倉橋島と繋がっている。
+:* [[岩子島]]☆ - 2.42&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[向島大橋]]で向島と繋がっている。
+:* [[阿多田島]]☆ - 2.39&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[生野島]]○ - 2.25&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[走島]]☆ - 2.11&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大芝島]] - 1.69&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[大芝大橋]]で本土と繋がっている。
+:* [[金輪島]] - 1.05&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[長島 (広島県)|長島]]☆ - 1.04&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。長島大橋で大崎上島と繋がっている。
+:
+; その他の島
+:* [[沖野島]] - [[沖野島橋]]で能美島と繋がっている。
+:* [[平羅島]]☆ - 無人島。[[平羅橋]]で大崎下島と繋がっている。
+:* [[中ノ島 (広島県)|中ノ島]]☆ - [[中の瀬戸大橋]]で平羅島（愛媛県）と繋がっている。
+:* [[仙酔島]]
+:* [[宇治島]] - 無人島。かつては有人島だった。
+:* [[大久野島]]
+:* [[瓢箪島]] - 無人島。島内に[[愛媛県]]との境界線が引かれている。
+:* [[情島 (広島県)]] - 光回線未到達<ref name="kureshi-fiber"/>
+:* [[弁天島 (福山市)]]
+:* [[臼島]] - 無人島。本土と長島を結ぶ海上ケーブルの鉄塔がある。
+:* [[契島]]★
+:* [[細島 (広島県)|細島]]
+:* [[甲島_(広島・山口)|甲島]] - 無人島。島内に[[山口県]]との境界線が引かれている。
+:* [[広島県の島の一覧]]も参照。
+:
+==== 山口県 ====
+{{節スタブ}}
+[[File:ハマヒルガオ, 2008.jpg|thumb|right|[[見島]]の[[ハマヒルガオ]]]]
+[[File:Tsunoshima2.jpg|thumb|right|[[角島]]の[[角島灯台|灯台]]は日本で2基しかない総御影石造・無塗装のもの。]]
+
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[山口県]]||rowspan="2" style="text-align:right"|22||rowspan="2"|249||周囲1&nbsp;km以上||81||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||168||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[屋代島]] - 128.49&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。周防大島。本土と[[大島大橋 (山口県)|大島大橋]]で繋がっている。
+:* [[平郡島]] - 16.56&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[青海島]] - 14.82&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と[[青海大橋]]で繋がっている。
+:* [[長島 (山口県)|長島]] - 13.69&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と[[上関大橋]]で繋がっている。
+:* [[笠戸島]] - 11.66&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と[[笠戸大橋]]で繋がっている。
+:* [[彦島]] - 10.61&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と水門橋、[[関彦橋]]、[[彦島大橋]]などで繋がっている。
+:* [[向島 (山口県)|向島]] - 7.99&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と[[錦橋]]で繋がっている。
+:* [[見島]]☆ - 7.76&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[祝島]] - 7.68&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[黒髪島|黒髪島・仙島]] - 5.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大津島|大津島・馬島]] - 4.76&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[八島 (山口県)|八島]] - 4.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[角島]] - 3.84&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。本土と[[角島大橋]]で繋がっている。
+:* [[柱島]] - 3.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (山口県萩市)|大島]] - 2.99&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[相島 (山口県)|相島]] - 2.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[蓋井島]] - 2.33&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[浮島 (山口県)|浮島]] - 2.27&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[牛島 (山口県)|牛島]] - 1.90&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[佐合島]] - 1.29&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[前島 (山口県)|前島]] - 1.09&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[情島 (山口県)|情島]] - 1.00&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[竹ノ子島]] - 彦島と[[竹ノ子島橋]]で繋がっている。
+:* [[長州出島]] - 本土と[[長州出島大橋]]で繋がっている。
+:* [[笠佐島]]
+:* [[端島 (山口県)]]
+:* [[沖家室島]]
+:* [[粭島]] - 本土と[[小瀬戸橋]]で繋がっている。
+:* [[野島 (山口県)]]
+:* [[巌流島]]（船島）- 無人島。
+:* [[六連島]]
+:* [[櫃島]]
+:* [[甲島_(広島・山口)|甲島]] - 無人島。島内に[[広島県]]との境界線が引かれている。
+:* [[:Category:山口県の島]]も参照。
+:
+=== 四国地方 ===
+==== 徳島県 ====
+[[File:Onaruto-bridge and Naruto Channel,Naruto-city,Japan.JPG|thumb|right|[[大鳴門橋]]が架かる[[大毛島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[徳島県]]||rowspan="2" style="text-align:right"|6||rowspan="2"|88||周囲1&nbsp;km以上||17||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||71||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[大毛島]]☆ - 7.31&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。四国本土と[[小鳴門橋]]および[[撫養橋#小鳴門海峡の撫養橋|撫養橋]]で、淡路島と[[大鳴門橋]]で繋がれている。
+:* [[島田島]] - 5.73&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。四国本土と[[小鳴門新橋]]で、大毛島と[[堀越橋]]で繋がれている。
+:* [[高島 (徳島県)|高島]]☆ - 2.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。四国本土と[[小鳴門大橋]]で、大毛島と多数の橋で繋がれている。
+:* [[大島 (徳島県)|大島]] - 1.77&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[小勝島]] - 1.48&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。四国本土と[[橘マリンブリッジ]]で繋がれている。
+:* [[伊島 (阿南市)|伊島]] - 1.45&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[出羽島]]☆
+:* [[竹ヶ島 (徳島県)|竹ヶ島]] - 四国本土と[[竹ヶ島橋]]で繋がれている。
+:* [[二子島]] - 無人島。島内に[[高知県]]との境界線が引かれている。
+:* [[:Category:徳島県の島]]も参照。
+:
+==== 香川県 ====
+[[File:Shodoshima Olive Park Shodo Island Japan12bs3.jpg|thumb|right|[[小豆島]]のオリーブ園]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[香川県]]||rowspan="2" style="text-align:right"|14||rowspan="2"|112||周囲1&nbsp;km以上||58||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||54||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[小豆島]]☆ - 153.22&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[豊島 (香川県)|豊島]]☆ - 14.50&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[広島 (香川県)|広島]] - 11.72&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[直島町|直島]] - 7.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[本島 (香川県)|本島]] - 6.75&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[粟島 (香川県)|粟島]] - 3.72&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[手島 (香川県)|手島]] - 3.41&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[井島]] - 2.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[直島諸島]]。島内に[[岡山県]]との境界線が引かれているが一部境界未定。有人島だが居住者が存在するのは岡山県側のみであり、香川県側は無人。
+:* [[女木島]]☆ - 2.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。鬼ヶ島。
+:* [[高見島]] - 2.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[佐柳島]] - 1.83&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[男木島]]☆ - 1.34&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[与島]]☆ - 1.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。塩飽諸島。[[与島橋]]で羽佐島と繋がっている。
+:* [[小豊島]] - 1.10&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[伊吹島]] - 1.01&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[直島諸島]]
+:* [[塩飽諸島]]
+:** [[櫃石島]]☆ - [[下津井瀬戸大橋]]で本土と繋がっている。
+:** [[岩黒島]]☆ - [[櫃石島橋]]で櫃石島と繋がっている。
+:** [[羽佐島]] - 無人島。[[岩黒島橋]]で岩黒島と繋がっている。
+:** [[三つ子島]] - 無人島。[[北備讃瀬戸大橋]]で与島と、[[南備讃瀬戸大橋]]で四国本土と繋がっている。
+:** [[志々島]]
+:* [[大槌島]] - 無人島。島内に[[岡山県]]との境界線が引かれている。
+:* [[:Category:香川県の島]]も参照。
+:
+==== 愛媛県 ====
+[[File:Ōyamazumi-jinja keidai.JPG|thumb|right|[[大三島]]の[[大山祇神社]]総本社]]
+[[File:Kurushima-Kaikyo Bridge sunset.jpg|thumb|right|島々を結ぶ[[しまなみ海道]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[愛媛県]]||rowspan="2" style="text-align:right"|24||rowspan="2"|270||周囲1&nbsp;km以上||{{0}}85||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||185||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[大三島]]☆ - 64.57&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[大三島橋]]で伯方島と、[[多々羅大橋]]で生口島（広島県）と繋がっている。
+:* [[大島 (愛媛県今治市)|大島]]☆ - 41.88&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[芸予諸島]]にある。[[来島海峡第一大橋]]で武志島と、[[大島大橋 (愛媛県)|大島大橋]]で見近島と繋がっている。
+:* [[中島 (愛媛県)|中島]] - 21.27&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中島本島。
+:* [[伯方島]]☆ - 20.99&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[伯方橋]]で見近島と、[[大三島橋]]で[[大三島]]と繋がっている。
+:* [[岩城島]] - 8.95&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[弓削島]] - 8.68&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[弓削大橋]]で佐島と繋がっている。
+:* [[興居島]] - 8.40&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[怒和島]] - 4.75&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[睦月島]] - 3.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[日振島]] - 3.74&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[生名島]] - 3.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[岩城橋]]で岩城島と繋がっている。
+:* [[九島]] - 3.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[九島大橋]]で四国と繋がっている。
+:* [[岡村島]]☆ - 3.17&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[岡村大橋]]で中ノ島（広島県）と繋がっている。
+:* [[津和地島]] - 2.85&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[戸島 (愛媛県)|戸島]] - 2.76&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[佐島 (上島諸島)|佐島]] - 2.68&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[生名橋]]で生名島と繋がっている。
+:* [[新居大島|大島]] - 2.14&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。新居大島。
+:* [[二神島]] - 2.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[赤穂根島]] - 2.09&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大下島]] - 1.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[津島 (今治市)|津島]] - 1.43&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[魚島]] - 1.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[高井神島]] - 1.34&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[鹿島 (愛南町)|鹿島]] - 1.10&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[魚島群島]]
+:* [[上島諸島]]
+:* [[四阪島]]
+:* [[瓢箪島]] - 無人島。島内に[[広島県]]との境界線が引かれている。
+:* [[馬島 (愛媛県)]]☆ - [[来島海峡第三大橋]]で四国と、[[来島海峡第二大橋]]で武志島と繋がっている。
+:* [[武志島]]☆ - 無人島。[[来島海峡第二大橋]]で馬島と、[[来島海峡第一大橋]]で大島と繋がっている。
+:* [[見近島]]☆ - 無人島。[[大島大橋 (愛媛県)|大島大橋]]で大島と、[[伯方橋]]で伯方島と繋がっている
+:* [[関前諸島]]
+:** [[大下島]]
+:* [[北条鹿島]]
+:* [[安居島]]
+:* [[釣島]]
+:* [[忽那諸島]]
+:* [[青島 (愛媛県)]]
+:* [[嘉島 (宇和島市)]]
+:* [[御五神島]]
+:* [[:Category:愛媛県の島]]も参照。
+:
+==== 高知県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[高知県]]||rowspan="2" style="text-align:right"|3||rowspan="2"|159||周囲1&nbsp;km以上||{{0}}15||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||144||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[沖の島 (高知県)|沖の島]] - 10.02&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[鵜来島]] - 1.31&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (高知県)|大島]] - 1.00&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[大島橋]]で本土と繋がっている。
+:
+; その他の島
+:* [[柏島]]
+:* [[二子島]] - 無人島。島内に[[徳島県]]との境界線が引かれている。
+:* [[蒲葵島]]
+:* [[:Category:高知県の島]]も参照。
+:
+=== 九州・沖縄地方 ===
+==== 福岡県 ====
+[[File:20080813UmiNoNakamichiM.jpg|thumb|right|[[海ノ中道]]からの[[志賀島]]と[[能古島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[福岡県]]||rowspan="2" style="text-align:right"|6||rowspan="2"|62||周囲1&nbsp;km以上||16||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||46||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[大島 (福岡県)|大島]] - 7.19&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。筑前大島。
+:* [[志賀島]] - 5.79&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[志賀島橋]]で九州本土と繋がっている。
+:* [[能古島]] - 3.92&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[地島]] - 1.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[相島 (福岡県)|相島]]☆ - 1.22&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[玄界島]] - 1.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[藍島]]
+:* [[馬島 (福岡県)]]
+:* [[沖ノ島]]
+:* [[小呂島]]
+:* [[姫島 (福岡県)]]
+:* [[:Category:福岡県の島]]も参照。
+:
+==== 佐賀県 ====
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[佐賀県]]||rowspan="2" style="text-align:right"|4||rowspan="2"|55||周囲1&nbsp;km以上||14||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||41||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[馬渡島]]☆ - 4.24&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。玄海諸島。
+:* [[加唐島]]☆ - 2.83&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。玄海諸島。
+:* [[加部島]] - 2.71&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。玄海諸島。[[呼子大橋]]で九州本土と繋がっている。
+:* [[神集島]] - 1.39&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。玄海諸島。
+:
+; その他の島
+:* [[玄海諸島]]
+:** [[高島 (佐賀県)]]
+:** [[小川島]]☆
+:** [[松島 (佐賀県)]]☆
+:** [[向島 (佐賀県)]]
+:* [[:Category:佐賀県の島]]も参照。
+:
+==== 長崎県 ====
+[[File:HISAKASIMA ORIGAMI IMG 8052.JPG|thumb|right|[[五島列島]]の風景]]
+[[File:Scenery where buddhist temple and church are seen Nagasaki,JAPAN.jpg|thumb|right|[[平戸島]]の教会と寺院]]
+[[File:Douzaki Church in Nagasaki.JPG|thumb|right|[[福江島]]の[[堂崎天主堂]]]]
+[[File:Iki Harunotsuji Ruinsi 2009.jpg|thumb|right|[[壱岐島]]の遺跡（赤米田）]]
+[[File:Ondake 2015-12-13.jpg|thumb|right|[[福江島]]の[[鬼岳]][[火砕丘]]]]
+[[File:Tsushima Cat 001.jpg|thumb|right|upright|[[対馬]]だけに分布する[[ツシマヤマネコ]]]]
+
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[長崎県]]||rowspan="2" style="text-align:right"|49||rowspan="2"|971||周囲1&nbsp;km以上||215||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||756||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[対馬]]☆ - 695.74&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[福江島]]☆ - 326.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[中通島]]☆ - 168.39&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[平戸島]]☆ - 163.44&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[平戸大橋]]で繋がれている。
+:* [[壱岐島]]☆ - 134.63&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[久賀島]]☆ - 37.24&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[針尾島]]☆ - 33.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と多数の橋で繋がれている。
+:* [[若松島]]☆ - 31.14&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中通島と[[若松大橋]]で繋がれている。
+:* [[宇久島]] - 24.90&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[奈留島]]☆ - 23.68&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[福島 (長崎県)|福島]]☆ - 16.94&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[福島大橋 (佐賀県・長崎県)|福島大橋]]で繋がれている。
+:* [[生月島]]☆ - 16.55&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。平戸島と[[生月大橋]]で繋がれている。
+:* [[鷹島 (長崎県)|鷹島]]☆ - 16.18&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[鷹島肥前大橋]]で繋がれている。
+:* [[的山大島]] - 15.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[小値賀島]] - 12.26&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (長崎県西海市)|大島]]☆ - 12.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。西彼大島。寺島と[[寺島大橋]]で繋がれている。
+:* [[椛島]] - 8.69&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[野崎島]] - 7.11&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[松島 (長崎県)|松島]] - 6.35&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[島山島 (長崎県五島市)|島山島]]☆ - 5.50&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。五島市。玉之浦大橋で福江島と繋がっている。
+:* [[平島 (長崎県)|平島]] - 5.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[蛎浦島]]☆ - 4.75&nbsp;km<sup>2</sup><ref name="GSI-2023-10" />。元炭鉱の島。中戸大橋で大島（西彼大島）と繋がっている。
+:* [[島山島 (長崎県対馬市)|島山島]] - 4.70&nbsp;km<sup>2</sup><ref name="GSI-2023-10" />。対馬市。対馬島と[[浅茅パールブリッジ]]で繋がれている。
+:* [[黒島 (長崎県佐世保市)|黒島]]☆ - 4.66&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[度島]] - 3.57&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[嵯峨ノ島]] - 3.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[有福島]] - 2.97&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。漁生浦島と防波堤で繋がれている。
+:* [[高島 (長崎県佐世保市)|高島]] - 2.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。佐世保市。
+:* [[沖ノ島 (長崎県対馬市)|沖ノ島]] - 2.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。対馬島と[[住吉大橋]]で繋がれている。
+:* [[江島 (長崎県)|江島]] - 2.58&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[男島 (長崎県)|男島]] - 2.50&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[樺島]]☆ - 2.31&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中島と大漁橋で繋がれている。
+:* [[串島]] - 1.94&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[頭ヶ島]] - 1.86&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中通島と頭ヶ島大橋で繋がれている。
+:* [[牧島 (長崎県)|牧島]] - 1.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[牧戸橋]]で繋がれている。<!--佐賀県伊万里市の地名[[牧島]]との曖昧さ回避が必要-->
+:* [[斑島]] - 1.58&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。小値賀島と斑大橋で繋がれている。
+:* [[ツブラ島]] - 1.47&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[黄島 (長崎県)|黄島]] - 1.39&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[日島]] - 1.37&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。有福島と防波堤で繋がれている。
+:* [[寺島 (長崎県佐世保市)|寺島]] - 1.30&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[大島大橋 (長崎県)|大島大橋]]で繋がれている。
+:* [[祝言島]] - 1.28&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[女島 (長崎県)|女島]] - 1.22&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[伊王島]] - 1.21&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。沖ノ島と栄橋、賑橋、祝橋で繋がれている。
+:* [[高島 (長崎県長崎市)|高島]] - 1.19&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。長崎市。元炭鉱の島。
+:* [[大島 (長崎県壱岐市)|大島]]☆ - 1.17&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。壱岐市。
+:* [[黒島 (長崎県五島市)|黒島]] - 1.12&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。五島市。
+:* [[蠑螺島]] - 1.09&nbsp;km<sup>2</sup><ref name="GSI-2023-10" />。無人島。※本来の漢字表記は「虫偏に栄」螺島<!--「虫偏に栄」の字がタイプできないため斜字としておきます-->
+:* [[池島 (長崎県)|池島]] - 1.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。元炭鉱の島。
+:* [[寺島 (長崎県西海市)|寺島]]・横島 - 1.00&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。西海市。
+:
+; その他の島
+:* [[大島 (長崎県佐世保市)]] - 針尾島と[[江上大橋]]で繋がれている。
+:* [[沖之島 (長崎県)]] - 九州本土と[[伊王島大橋]]で繋がれている。
+:* [[赤島 (長崎県対馬市)]] - [[沖ノ島]]と[[赤島大橋]]で繋がれている。
+:* 五郎ヶ島 - 無人島。九州本土と松島を結ぶ海上ケーブルの鉄塔がある。
+:* [[海栗島]] - 航空自衛隊基地がある。
+:* [[青島 (長崎県)]]
+:* [[九十九島 (西海国立公園)]]
+:* [[崎戸島]] - [[蛎浦島]]と崎戸橋で繋がっている。
+:* [[端島 (長崎県)]]（軍艦島） - 元炭鉱の島。世界文化遺産。無人島。
+:* [[九十九島 (島原市)]]
+:* [[前島 (長崎県時津町)]]
+:* 中島 - 無人島。[[樺島大橋]]で九州本土と繋がっている。
+:* [[五島列島]]
+:** [[黒島 (長崎県小値賀町)]] - 小値賀島と金比羅大橋で繋がっている。
+:** [[小黒島]] - 無人島。
+:** [[大島 (長崎県小値賀町)]]
+:** [[宇々島]] - 無人島。
+:** [[納島]]
+:** [[六島 (長崎県)]]
+:** [[折島]] - 無人島。柏島と防波堤で繋がっている。[[上五島国家石油備蓄基地]]がある。
+:** 柏島 - 無人島。折島と防波堤で繋がっている。同上。
+:** [[桐ノ小島]] - 中通島と橋<!--無名？-->で繋がれている。
+:** [[漁生浦島]] - 若松島と漁生浦大橋で繋がれている。
+:** [[前島 (長崎県五島市)]]
+:** 前小島 - 福江島と防波堤で繋がれている。
+:** [[葛島 (長崎県)]] - 無人島。
+:** [[蕨小島]]
+:** [[赤島 (長崎県五島市)]]
+:** [[姫島 (長崎県)]] - 無人島。
+:** [[男女群島]] - 無人島群。
+:*** [[クロキ島]]（黒木島）
+:*** [[寄島 (長崎県)]]（中ノ島）
+:*** [[帆立岩]]
+:*** [[ハナグリ島]]（花栗島）
+:*** [[鮫瀬]]
+:** [[鳥島 (長崎県)]] - 無人島群。
+:* 渡良三島
+:** [[長島 (長崎県)|長島]]☆
+:** [[原島]]☆
+:* [[:Category:長崎県の島]]も参照。
+:
+==== 熊本県 ====
+[[File:Tahare.JPG|thumb|right|『[[伊勢物語]]』『[[枕草子]]』『[[後撰和歌集]]』で詠まれた[[風流島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[熊本県]]||rowspan="2" style="text-align:right"|11||rowspan="2"|178||周囲1&nbsp;km以上||{{0}}48||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||130||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[下島 (天草諸島)|天草下島]] - 574.95&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[天草瀬戸大橋]]で天草上島と繋がっている。
+:* [[上島 (天草諸島)|天草上島]] - 225.85&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[天草五橋|松島橋]]で前島と繋がっている。
+:* [[大矢野島]] - 30.12&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[天門橋]]で九州本土と繋がっている。
+:* [[御所浦島]] - 12.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[戸馳島]] - 6.95&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[戸馳大橋]]で九州本土と繋がっている。
+:* [[維和島]] - 6.52&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[東大維橋]]で野牛島と繋がっている。
+:* [[牧島 (熊本県)|牧島]] - 5.59&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[中瀬戸橋]]で御所浦島と繋がっている。
+:* [[下須島]] - 4.50&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[通天橋]]及び[[牛深ハイヤ大橋]]で天草下島と繋がっている。
+:* [[樋島]] - 3.42&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[樋島大橋]]で坊主島と繋がっている。
+:* [[産島]] - 1.94&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[横浦島]] -1.14&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[天草諸島]] - 熊本県と鹿児島県にまたがる。
+:** [[湯島 (天草諸島)]]
+:** [[野釜島]] - [[野釜大橋]]で大矢野島と繋がっている。
+:** [[野牛島]] - [[西大維橋]]で大矢野島と繋がっている。
+:** [[樋合島]] - [[樋合永浦橋]]で永浦島と繋がっている。
+:** [[永浦島]] - [[天草五橋|大矢野橋]]で大矢野島と繋がっている。
+:** [[池島 (熊本県)]] - [[天草五橋|中の橋]]で永浦島と繋がっている。
+:** [[前島 (熊本県)]] - [[天草五橋|前島橋]]で池島と繋がっている。
+:** [[瀬島]] - 無人島。
+:** [[中島 (熊本県)]]
+:** [[高杢島]]
+:** [[横島 (熊本県)]]
+:** [[通詞島]] - 通詞大橋で天草下島と繋がっている。
+:** [[椚島]] - 無人島。[[椚島橋]]で天草上島と繋がっている。
+:** [[坊主島]] - 椚島と繋がっている。
+:* [[風流島]] - 無人島。
+:* [[:Category:熊本県の島]]も参照。
+:
+==== 大分県 ====
+[[File:Saiki mizunokojima.jpg|thumb|right|[[豊後水道]]に浮かぶ[[水ノ子島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[大分県]]||rowspan="2" style="text-align:right"|4||rowspan="2"|109||周囲1&nbsp;km以上||20||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||89||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[姫島 (大分県)|姫島]]☆ - 6.98&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大入島]]（佐伯市） - 5.64&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (大分県佐伯市)|大島]]（佐伯市） - 1.61&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。豊後大島。鶴見。
+:* [[屋形島]]（佐伯市） - 1.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。蒲江。
+:* [[深島]]（佐伯市） - 1.1&nbsp;km<sup>2</sup>。蒲江。
+:
+; その他の島
+:* [[豊後諸島]]
+:** [[高島 (大分県)]] - 無人島。観光地。かつての有人島。
+:** [[黒島 (大分県臼杵市)]]
+:** [[津久見島]] - 無人島。かつての有人島。
+:** [[三ッ子島 (大分県)|三ッ子島]] - 無人島。
+:** [[黒島 (大分県津久見市)]] - 無人島。
+:** [[地無垢島]]
+:** [[沖無垢島]] - 無人島。
+:** [[沖吉島]] - 無人島。
+:** [[保戸島]]☆
+:** [[八島 (大分県)]]（佐伯市） - 無人島。鶴見。
+:** [[彦島 (大分県)]]（佐伯市） - 無人島。かつての有人島。九州本土と大入島を結ぶ海上ケーブルの鉄塔がある。西上浦。
+:** [[水ノ子島]]（佐伯市） - 無人島。[[水ノ子島灯台]]がある。
+:** [[横島 (大分県)]]（佐伯市） - 無人島。
+:** [[地黒島]]（佐伯市） - 無人島。米水津。
+:** [[沖黒島]]（佐伯市） - 無人島。米水津。
+:* [[:Category:大分県の島]]も参照。
+:
+==== 宮崎県 ====
+[[File:Aoshima Miyazaki Japan 2007 08.jpg|right|thumb|宮崎の代表的な観光地の一つ、[[青島 (宮崎県)|青島]]]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[宮崎県]]||rowspan="2" style="text-align:right"|2||rowspan="2"|179||周囲1&nbsp;km以上||{{0}}11||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||168||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[島浦島]]☆ - 2.85&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[大島 (宮崎県)|大島]] - 2.03&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。日向大島。無人島。かつては有人島だった。
+:
+; その他の島
+:* [[青島 (宮崎県)]]☆ - [[弥生橋]]で九州本土と繋がれている。
+:* [[幸島]] - 無人島。猿の島。
+:* [[:Category:宮崎県の島]]も参照。
+:
+==== 鹿児島県 ====
+[[File:View of Katetsu cove from nearby Manen-zaki.jpg|right|thumb|[[奄美大島]]のマネン崎]]
+[[File:もののけ姫の森.JPG|right|thumb|[[屋久島]]の森]]
+[[File:H2A11001.jpg|right|thumb|[[種子島]]のロケット打ち上げ]]
+
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[鹿児島県]]||rowspan="2" style="text-align:right"|32||rowspan="2"|605||周囲1&nbsp;km以上||{{0}}74||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||531||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[奄美大島]]☆ - 712.41&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[屋久島]]☆ - 504.25&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[種子島]]☆ - 443.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[徳之島]]☆ - 247.85&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[沖永良部島]]☆ - 93.65&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[長島 (鹿児島県)|長島]]☆ - 90.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[黒之瀬戸大橋]]で繋がれている。
+:* [[加計呂麻島]]☆ - 77.25&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[下甑島]]☆ - 65.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中甑島と[[甑大橋]]で繋がれている。
+:* [[喜界島]]☆ - 56.76&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[上甑島]]☆ - 44.20&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。中甑島と[[鹿の子大橋]]および[[甑大明神橋]]で繋がれている。
+:* [[口永良部島]]☆ - 35.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[中之島 (鹿児島県)|中之島]]☆ - 34.42&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[諏訪之瀬島]]☆ - 27.61&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[与論島]]☆ - 20.56&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[獅子島]]☆ - 17.06&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[黒島 (鹿児島県)|黒島]]☆ - 15.39&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[請島]] - 13.34&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[口之島]]☆ - 13.33&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[硫黄島 (鹿児島県)|硫黄島]]☆ - 11.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。鬼界ヶ島。
+:* [[与路島]] - 9.35&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[馬毛島]]★ - 8.17&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[悪石島]]☆ - 7.49&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[中甑島]]☆ - 7.28&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。上甑島と[[鹿の子大橋]]および[[甑大明神橋]]で、下甑島と[[甑大橋]]で繋がれている。
+:* [[宝島 (鹿児島県)|宝島]]☆ - 7.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[枝手久島]] - 5.79&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[竹島 (鹿児島県)|竹島]]☆ - 4.22&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[臥蛇島]] - 4.05&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[諸浦島]]☆ - 3.87&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。長島と[[乳ノ瀬橋]]で繋がれている。
+:* [[伊唐島]]☆ - 3.71&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。九州本土と[[伊唐大橋]]で繋がれている。
+:* [[横当島]] - 2.75&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[平島 (鹿児島県)|平島]]☆ - 2.08&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[宇治向島]] - 1.72&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:
+; その他の島
+:* [[天草諸島]] - 鹿児島県と熊本県にまたがる。
+:* [[甑島列島]] - 上甑島、中甑島、下甑島を除き無人島。
+:* [[宇治群島]] - 無人島群。
+:** [[宇治島 (鹿児島県)|宇治島]] - 無人島。
+:* [[草垣群島]] - 無人島群。草垣島灯台がある。
+:* [[新島 (鹿児島県)]]
+:* [[桜島]]☆ - 陸繋島。
+:* [[南西諸島]] - 鹿児島県と沖縄県にまたがる。
+:** [[薩南諸島]]
+:*** [[大隅諸島]]
+:*** [[トカラ列島]]
+:**** [[小宝島]]☆
+:*** [[奄美群島]]
+:* [[:Category:鹿児島県の島]]も参照。
+:
+
+==== 沖縄県 ====
+[[File:Mangrove swamp, Iriomote Island, Okinawa, Japan.jpg|right|thumb|[[西表島]]のマングローブ林]]
+[[File:Kabira Bay Ishigaki Island41s3s4500.jpg|right|thumb|[[石垣島]]の[[川平湾]]]]
+[[File:Miyako irabu ohashi 2014 1.jpg|right|thumb|[[宮古島]]と[[伊良部島]]を結ぶ[[伊良部大橋]]]]
+[[File:Lastsunsetjapan.jpg|right|thumb|日本最西端の[[与那国島]][[西崎]]]]
+[[File:Senkaku Islands by Al Jazeera English (1).jpg|thumb|right|[[魚釣島]]近海を航行する海上保安庁の巡視船「みずき」]]
+{| class="wikitable" style="font-size:0.9em;"
+|-
+|地域||国土地理院による<br>面積1&nbsp;km<sup>2</sup>以上の島数||colspan="3"|海上保安庁による島数||備考||出典
+|-
+|rowspan="2"|[[沖縄県]]||rowspan="2" style="text-align:right"|46<br><small>[[沖縄本島]]は含まず</small>||rowspan="2"|363||周囲1&nbsp;km以上||{{0}}93||{{0}}||rowspan="2"|<ref name="GSI-2023-10"/><ref name="JODC34-11"/>
+|-
+||周囲1&nbsp;km未満 0.1&nbsp;km以上||270||
+|-
+|}
+
+; 面積1&nbsp;km<sup>2</sup>以上の島
+:* [[西表島]]☆ - 289.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[石垣島]]☆ - 222.24&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[宮古島]]☆ - 158.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[久米島]]☆ - 59.53&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[南大東島]]☆ - 30.52&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[伊良部島]]☆ - 29.07&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。宮古島と[[伊良部大橋]]で繋がれている。
+:* [[与那国島]]☆ - 28.82&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。日本の最西端。
+:* [[伊江島]]☆ - 22.69&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[伊平屋島]]☆ - 20.67&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[多良間島]]☆ - 19.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[渡嘉敷島]]☆ - 15.31&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[伊是名島]]☆ - 14.13&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[波照間島]]☆ - 12.73&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。有人島では日本の最南端。
+:* [[北大東島]]☆ - 11.91&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[黒島 (沖縄県竹富町)|黒島]]☆ - 10.02&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[下地島]]☆ - 9.68&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。伊良部島と多数の橋で繋がれている。
+:* [[屋我地島]]☆ - 7.87&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。沖縄本島と[[ワルミ大橋]]で、[[奥武島 (沖縄県名護市)|奥武島]]と[[屋我地大橋]]で繋がれている。
+:* [[小浜島]]☆ - 7.86&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[粟国島]]☆ - 7.62&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[座間味島]]☆ - 6.70&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[宮城島 (沖縄県うるま市)|宮城島]]☆ - 5.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。与勝諸島。平安座島と[[桃原橋]]で繋がれている。
+:* [[平安座島]]☆ - 5.44&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。沖縄本島と[[海中道路]]で繋がれている。
+:* [[竹富島]]☆ - 5.43&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[魚釣島]] - 3.81&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[尖閣諸島]]。無人島。
+:* [[阿嘉島]]☆ - 3.80&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。慶留間島と[[阿嘉大橋]]で繋がれている。
+:* [[渡名喜島]]☆ - 3.58&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[古宇利島]]☆ - 3.14&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。屋我地島と[[古宇利大橋]]で繋がれている。
+:* [[瀬底島]]☆ - 2.99&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。沖縄本島と[[瀬底大橋]]で繋がれている。
+:* [[来間島]]☆ - 2.82&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。宮古島と[[来間大橋]]で繋がれている。
+:* [[池間島]]☆ - 2.80&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。宮古島と[[池間大橋]]で繋がれている。
+:* [[硫黄鳥島]] - 2.50&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[水納島 (沖縄県多良間村)|水納島]]★ - 2.16&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[宮古列島]]。
+:* [[内離島]]★<!--西表島船浮地区への中継--> - 2.10&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[浜比嘉島]]☆ - 2.09&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。平安座島と[[浜比嘉大橋]]で繋がれている。
+:* [[津堅島]] - 1.88&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[上地島|新城島（上地）]]★ - 1.76&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[伊計島]]☆ - 1.72&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。宮城島と[[伊計大橋]]で繋がれている。
+:* [[前島 (沖縄県)|前島]] - 1.59&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[下地島 (八重山列島)|新城島（下地）]]★ - 1.57&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[久場島 (沖縄県座間味村)|久場島]] - 1.54&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。[[慶良間諸島]]。無人島。
+:* [[久高島]] - 1.36&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:* [[外離島]] - 1.32&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[屋嘉比島]] - 1.25&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。無人島。
+:* [[慶留間島]]☆ - 1.15&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。阿嘉島と[[阿嘉大橋]]で繋がれている。
+:* [[沖大東島]] - 1.15&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。ラサ島。無人島。
+:* [[野甫島]] - 1.08&nbsp;km<sup>2</sup><ref name="GSI-2023-10"/>。
+:
+; その他の島
+:* [[南西諸島]] - 鹿児島県と沖縄県にまたがる。
+:** [[琉球諸島]]
+:*** [[沖縄諸島]]
+:**** [[安田ヶ島]] - 無人島
+:**** [[宮城島 (沖縄県大宜味村)]]☆ - [[塩屋大橋]]および[[宮城橋]]で沖縄本島と繋がっている。
+:**** [[奥武島 (沖縄県名護市)]] - 無人島。[[奥武橋]]で沖縄本島と繋がっている。
+:**** [[水納島 (沖縄県本部町)]]
+:**** [[藪地島]] - [[藪地大橋]]で沖縄本島と繋がっている。無人島。
+:**** [[浮原島]] - 無人島
+:**** [[南浮原島]] - 無人島
+:**** [[瀬長島]]☆ - [[瀬長島海中道路]]で沖縄本島と繋がっている。
+:**** [[奥武島 (沖縄県南城市)]]☆ - [[奥武橋]]で沖縄本島と繋がっている。
+:**** [[伊平屋伊是名諸島]]
+:***** [[具志川島]] - 無人島
+:***** [[屋那覇島]] - 無人島
+:***** [[降神島]] - 無人島
+:**** [[慶良間諸島]]
+:***** [[慶伊瀬島]]
+:****** 神山島 - 無人島
+:****** クエフ島 - 無人島。リゾート地。
+:****** ナガンヌ島 - 無人島。リゾート地。
+:***** [[儀志布島]] - 無人島。
+:***** [[ウン島]] - 無人島。
+:***** 中島 - 無人島。
+:***** [[ハテ島]] - 無人島。
+:***** 城島 - 無人島
+:***** 離島 - 無人島
+:***** [[地自津留島]] - 無人島。
+:***** [[外自津留島]] - 無人島。
+:***** [[外地島]] - 空港のある無人島。[[慶留間橋]]で慶留間島と繋がっている。
+:***** [[安室島]] - 無人島。
+:***** [[嘉比島]] - 無人島。
+:***** [[安慶名敷島]] - 無人島。
+:***** [[砂白島]] - 無人島。
+:***** [[奥武島 (沖縄県座間味村)]] - 無人島
+:***** [[アチラーネ岩]] - 無人島
+:***** [[モカラク島]] - 無人島
+:***** [[積城島]] - 無人島
+:***** [[伊釈迦釈島]] - 無人島
+:***** [[佐久原の鼻]] - 無人島
+:***** [[ふかかね瀬]] - 無人島
+:***** くば岩 - 無人島
+:***** ゆぶ岩 - 無人島
+:***** なか岩 - 無人島
+:**** [[入砂島]] - 無人島。射爆撃場。
+:**** [[奥武島 (沖縄県久米島町)]]☆ - [[新奥武橋]]で久米島と繋がっている。
+:**** [[オーハ島]] - 無人島。
+:**** [[鳥島 (沖縄県)]] - 無人島。射爆撃場。
+:*** [[先島諸島]]
+:**** [[宮古列島]]
+:***** [[大神島]]
+:***** [[フデ岩]] - 無人島
+:**** [[八重山列島]]
+:***** [[川平湾小島]] - 無人島
+:***** [[マジパナリ]] - 無人島
+:***** [[ムクパナリ]] - 無人島
+:***** [[ユミパナリ]] - 無人島
+:***** [[マヤパナリ]] - 無人島
+:***** [[サイパナリ]] - 無人島
+:***** [[クバパナリ]] - 無人島
+:***** [[キダパナリ]] - 無人島
+:***** [[チャバンチキパナリ]] - 無人島
+:***** [[大地離島]] - 無人島
+:***** [[平離島]] - 無人島
+:***** [[鳩間島]]☆
+:***** [[由布島]] - 西表島との間で[[水牛車]]が運行されている。
+:***** [[嘉弥真島]]
+:***** [[仲御神島]] - 無人島
+:***** [[ウ離島]] - 無人島
+:***** [[鳩離島]] - 無人島
+:***** [[赤離島]] - 無人島
+:***** [[祖納地崎]] - 無人島。波多橋で[[与那国島]]と結ばれている。
+:**** [[尖閣諸島]]{{Efn|2023年3月現在、日本が実効支配するが、[[中華人民共和国]]及び[[中華民国]]（台湾）も領有権を主張している。中華人民共和国は、[[台湾省 (中華人民共和国)|台湾省]]の所属と主張している。}}
+:***** [[久場島 (沖縄県石垣市)]] - 無人島。射爆撃場。
+:***** [[大正島]] - 無人島。射爆撃場。
+:***** [[北小島]] - 無人島。
+:***** [[南小島]] - 無人島。
+:***** [[沖の北岩]] - 無人島。
+:***** [[沖の南岩]] - 無人島。
+:***** [[飛瀬]] - 無人島。
+:***** [[北西小島]] - 無人島。
+:***** [[北小島 (沖縄県石垣市久場島付近)]] - 無人島。
+:***** [[北東小島]] - 無人島。
+:***** [[北小島 (沖縄県石垣市大正島付近)]] - 無人島。
+:** [[大東諸島]]
+:* [[:Category:沖縄県の島]]も参照。
+:
+=== 帰属未定 ===
+* 南樺太 - [[樺太]]（サハリン）[[50度線|北緯50度線]]を境に、北樺太と南樺太に分けられる。日本政府としては、北樺太はロシア連邦に所属し、南樺太については「帰属は未定」という立場である。2016年8月現在、樺太全体が[[ロシア連邦]]の実効支配下にある。
+* [[北方地域|北方領土]]を除く[[千島列島]] - 千島列島は北から、北千島（[[占守島]]・[[阿頼度島]]・[[幌筵島]]・[[志林規島]]など）、中部千島（[[磨勘留島]]から[[得撫島]]まで）、南千島（[[択捉島]]、[[国後島]]など）に分けられる。日本政府としては、北千島および中部千島の島々については「帰属は未定」という立場である。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{Notelist}}
+
+=== 出典 ===
+{{Reflist|2}}
+
+== 参考文献 ==
+* {{cite book|和書
+|title=日本の島事典
+|author=菅田正昭
+|others=財団法人日本離島センター監修
+|year=1995
+|publisher=[[三交社]]
+|isbn=4879195545
+|ref=『日本の島事典』
+}}
+* {{cite book|和書
+|title=離島振興ハンドブック 平成16年11月
+|editor=財団法人日本離島センター
+|others=国土交通省都市・地域整備局離島振興課監修
+|year=2004
+|publisher=[[国立印刷局]]
+|isbn=4175130012
+|ref=『離島振興ハンドブック』
+}}
+* {{cite book|和書
+|title=新版 日本の島ガイド SHIMADAS
+|year=2019
+|editor=公益財団法人日本離島センター
+|publisher=公益財団法人日本離島センター
+|isbn=9784931230385
+|ref=『SHIMADAS』
+}}
+* 中村庸夫 文・写真 『島の名前 日本編』 [[東京書籍]]、2005年。{{ISBN|4487800471}}
+* [[海上保安庁]][[海洋情報部|水路部]]編 『日本水路史 : 1871-1971』 [[日本水路協会]]、1971年。
+* [[総務省]][[統計局]] 『第六十三回 日本統計年鑑 平成26年』 総務省統計局、2013年。
+* [[国土交通省]][[国土地理院]]編 [https://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm 全国都道府県市区町村別面積調]
+
+== 関連項目 ==
+* [[島の一覧]]
+* [[島国一覧]]
+* [[日本の地理]]
+* [[日本の離島架橋]]
+* [[日本の端の一覧|日本の端一覧]]
+
+== 外部リンク ==
+{{Commonscat|Islands of Japan|日本の島}}
+* [http://www.nijinet.or.jp/ 公益財団法人 日本離島センター]
+{{Clear}}
+{{日本関連の項目}}
+{{日本の指定離島}}
+{{アジアの題材|島の一覧}}
+{{人口順位表}}
+
+{{Normdaten}}
+{{デフォルトソート:にほんのしまのいちらん}}
+[[Category:日本の島]]
+[[Category:日本の地形一覧|しま]]
+[[Category:各国の島の一覧]]

@@ -1,0 +1,30 @@
+{
+	"name": "japan-map-deck",
+	"version": "1.0.0",
+	"private": true,
+	"type": "module",
+	"description": "Scripts and data to generate the notes and map images for the Japan Map Anki deck.",
+	"scripts": {
+		"fetch": "node scripts/fetch-all.js && node scripts/fetch-flags.js",
+		"fetch:refresh": "node scripts/fetch-all.js --refresh && node scripts/fetch-flags.js --refresh",
+		"records": "node scripts/build-records.js",
+		"render": "node scripts/render-all.js",
+		"notes": "node scripts/build-notes.js",
+		"build": "npm run records && npm run render && npm run notes",
+		"apkg": "npm run apkg:build && npm run apkg:describe",
+		"apkg:build": "node scripts/build-apkg.js",
+		"apkg:describe": "node scripts/add-deck-descriptions.js",
+		"examples": "node scripts/build-examples.js"
+	},
+	"engines": {
+		"node": ">=22.12"
+	},
+	"dependencies": {
+		"anki-apkg-export": "^5.0.0",
+		"d3-geo": "^3.1.2",
+		"jszip": "^3.10.2",
+		"sql.js": "^1.17.0",
+		"topojson-client": "^3.1.0",
+		"world-atlas": "^2.0.2"
+	}
+}
