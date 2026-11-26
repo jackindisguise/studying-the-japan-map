@@ -1,6 +1,6 @@
 {
 	"name": "japan-map-deck",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"type": "module",
 	"description": "Scripts and data to generate the notes and map images for the Japan Map Anki deck.",

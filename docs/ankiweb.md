@@ -1,6 +1,6 @@
 # 🗾 Studying the Japan Map
 
-![Version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue) <!-- x-release-please-version -->
+![Version](https://img.shields.io/static/v1?label=version&message=1.0.1&color=blue) <!-- x-release-please-version -->
 ![Prefectures](https://img.shields.io/static/v1?label=prefectures&message=47&color=brightgreen) ![Islands](https://img.shields.io/static/v1?label=islands&message=37&color=blueviolet) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational)
 
 **Learn where every Japanese prefecture and major island is, and a few facts about each one.**
