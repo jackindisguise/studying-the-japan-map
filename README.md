@@ -1,7 +1,7 @@
 # 🗾 Studying the Japan Map
 
 [![Latest release](https://img.shields.io/github/v/release/jackindisguise/studying-the-japan-map)](https://github.com/jackindisguise/studying-the-japan-map/releases/latest)
-![Prefectures](https://img.shields.io/static/v1?label=prefectures&message=47&color=brightgreen) ![Islands](https://img.shields.io/static/v1?label=islands&message=37&color=blueviolet) ![Cards](https://img.shields.io/static/v1?label=cards&message=84&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational) [![AnkiWeb](https://img.shields.io/static/v1?label=AnkiWeb&message=Shared%20deck&color=0a6cff)](https://ankiweb.net/shared/info/2057876067) ![Node](https://img.shields.io/static/v1?label=node&message=%E2%89%A522.12&color=339933)
+![Prefectures](https://img.shields.io/static/v1?label=prefectures&message=47&color=brightgreen) ![Islands](https://img.shields.io/static/v1?label=islands&message=37&color=blueviolet) ![Cards](https://img.shields.io/static/v1?label=cards&message=84&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational) [![AnkiWeb](https://img.shields.io/static/v1?label=AnkiWeb&message=Shared%20deck&color=0a6cff)](https://ankiweb.net/shared/info/2057876067) [![Source](https://img.shields.io/static/v1?label=source&message=GitHub&logo=github&color=181717)](https://github.com/jackindisguise/studying-the-japan-map) ![Node](https://img.shields.io/static/v1?label=node&message=%E2%89%A522.12&color=339933)
 
 **An Anki deck for learning where every Japanese prefecture and major island is, and a few facts about each.**
 This project holds everything needed to generate the deck's data, maps and package.
