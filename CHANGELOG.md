@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/jackindisguise/studying-the-japan-map/compare/v1.0.0...v1.0.1) (2026-11-26)
+
+
+### Bug Fixes
+
+* give zoom boxes only to small islands ([65c19e7](https://github.com/jackindisguise/studying-the-japan-map/commit/65c19e73df737297659e20bf82a5c49ff53b38ac))
+
 ## 1.0.0 (2026-11-26)
 
 
