@@ -27,6 +27,8 @@ const DOC_SHOTS = [
   ['island-back', 'locate', 'back', 'sado', 1280, 720],
   ['phone-island-front', 'locate', 'front', 'sado', 390, 844, true],
   ['phone-island-back', 'locate', 'back', 'sado', 390, 844, true],
+  ['zoom-front', 'locate', 'front', 'naoshima', 1280, 720],
+  ['phone-zoom-front', 'locate', 'front', 'naoshima', 390, 844, true],
 ];
 const testIsos = process.argv.slice(2);
 const SHOTS = testIsos.length

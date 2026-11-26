@@ -3,7 +3,7 @@
 // scale. Prefecture maps show the prefecture in red among the other prefectures; island maps show the island in purple
 // with no prefecture borders. Other countries are grey. The card script scales and positions the image so the target
 // fits any window, using the box recorded in boxes.json.
-// Small targets also get a zoom box (build/media/jp-zoom-<id>.svg) with a scale bar, which the card pins to its
+// Small islands also get a zoom box (build/media/jp-zoom-<id>.svg) with a scale bar, which the card pins to its
 // top-left. As in the World Map deck, a very small target gets a solid dot on each part too small to see.
 // Usage: node scripts/render-all.js [13 sado ...]
 import fs from 'node:fs';
@@ -21,7 +21,7 @@ const WIDE = {
   miyako: 3000, ishigaki: 3200, iriomote: 3200, yonaguni: 3300,
   hachijo: 1500, chichijima: 2900, ioto: 3300,
 };
-const ZOOM_MAX_KM2 = { prefecture: 2500, island: 1500 }; // smaller targets get a zoom box
+const ZOOM_MAX_KM2 = 400; // smaller islands get a zoom box; prefectures never do
 const ZOOM_MAX_FRAME_KM = 241; // the World Map deck's 150 miles: a wider zoom box would hardly enlarge scattered pieces
 const COLORS = { ocean: '#7fb0d0', land: '#f4f1e6', border: '#8f897a', foreign: '#d8d5c9', prefecture: '#d9381e', island: '#7a35b0' };
 // Minimum-size dot, in the World Map deck's on-screen sizes (px on a 1280 px wide desktop card). A target covering less
@@ -168,7 +168,7 @@ for (const t of todo) {
   const svg = draw(t.kind, t.shape, proj, SIZE, SIZE, { ui, labels: true, dotR });
   const stem = t.id.slice(3);
   fs.writeFileSync(`build/media/jp-map-${stem}.svg`, svg);
-  const zoom = area < ZOOM_MAX_KM2[t.kind] ? drawZoom(t.kind, t.shape, geom) : null;
+  const zoom = t.kind === 'island' && area < ZOOM_MAX_KM2 ? drawZoom(t.kind, t.shape, geom) : null;
   if (zoom) fs.writeFileSync(`build/media/jp-zoom-${stem}.svg`, zoom);
   else fs.rmSync(`build/media/jp-zoom-${stem}.svg`, { force: true });
   console.log(`${t.key.padEnd(12)} ${t.name.padEnd(20)} ${String(canvas).padStart(5)} km  ${String(Math.round(svg.length / 1024)).padStart(4)} KB${zoom ? '  + zoom' : ''}${small ? (speck ? '  + big dot' : '  + dot') : ''}`);
