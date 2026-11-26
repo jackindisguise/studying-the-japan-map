@@ -16,7 +16,7 @@ This project holds everything needed to generate the deck's data, maps and packa
 - **Front:** the map only. The colour says which is being asked: red for a prefecture, purple for an island. Island maps have no prefecture borders.
 - **Back:** everything is in English, in the usual spellings without macrons. Under the name, prefectures show their flag, region, capital, largest city (when it is not the capital), bordering prefectures, population, GDP, GDP per capita, area, density and governor. Islands show their island group or sea, prefectures, municipalities, population, area and density.
 - **Maps:** one SVG per place, a north-up Mercator view. Far southern islands use wider views.
-- **Zoom boxes:** prefectures under 2,500 km² and islands under 1,500 km² also get a zoomed-in box with a scale bar. As in the World Map deck, places whose pieces are spread too far for the box to enlarge them (here Tokyo and Okinawa prefectures) get none.
+- **Zoom boxes:** islands under 400 km² also get a zoomed-in box with a scale bar. Prefectures have none.
 - **Minimum dot size:** as in the World Map deck, when a place covers very little of the map, each of its parts that would be hard to see gets a solid dot in its colour, larger for the tiniest. This covers small islands and the scattered islands of Okinawa prefecture.
 
 ---
@@ -34,6 +34,15 @@ Screenshots rendered from the card templates with `node scripts/build-examples.j
 <table>
 <tr><td align="center">Phone front</td><td align="center">Phone back</td></tr>
 <tr><td><img src="docs/images/phone-locate-front.png" alt="Prefecture on a phone, front" width="200"></td><td><img src="docs/images/phone-locate-back.png" alt="Prefecture on a phone, back" width="200"></td></tr>
+</table>
+
+### Tiny islands
+
+Very small islands (here Naoshima) get a dot on the main map and a zoomed-in box in the top-left corner, with a scale bar.
+
+<table>
+<tr><td align="center">Desktop</td><td align="center">Phone</td></tr>
+<tr><td><img src="docs/images/zoom-front.png" alt="Naoshima with a dot and a zoom box" width="480"></td><td><img src="docs/images/phone-zoom-front.png" alt="Naoshima on a phone" width="200"></td></tr>
 </table>
 
 ---
