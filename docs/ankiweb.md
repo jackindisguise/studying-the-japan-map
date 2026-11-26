@@ -2,6 +2,7 @@
 
 ![Version](https://img.shields.io/static/v1?label=version&message=1.0.1&color=blue) <!-- x-release-please-version -->
 ![Prefectures](https://img.shields.io/static/v1?label=prefectures&message=47&color=brightgreen) ![Islands](https://img.shields.io/static/v1?label=islands&message=37&color=blueviolet) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational)
+[![AnkiWeb](https://img.shields.io/static/v1?label=AnkiWeb&message=Shared%20deck&color=0a6cff)](https://ankiweb.net/shared/info/2057876067) [![Source](https://img.shields.io/static/v1?label=source&message=GitHub&logo=github&color=181717)](https://github.com/jackindisguise/studying-the-japan-map)
 
 **Learn where every Japanese prefecture and major island is, and a few facts about each one.**
 47 prefectures and 37 islands, one card each.
@@ -62,3 +63,8 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 - **Map data:** processed from the National Land Numerical Information (administrative area data), Ministry of Land, Infrastructure, Transport and Tourism, Japan (simplified by SmartNews Media Research Institute), and Natural Earth.
 - **Facts:** Wikipedia (CC BY-SA).
 - **Flags:** Wikimedia Commons; Kagawa's flag file is CC BY-SA 3.0.
+
+---
+
+## Source code
+The scripts and data that generate this deck: [jackindisguise/studying-the-japan-map](https://github.com/jackindisguise/studying-the-japan-map).
