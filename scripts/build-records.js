@@ -7,6 +7,8 @@ import { romanName } from './romaji.js';
 const raw = (f) => fs.readFileSync(`data/raw/wikipedia/${f}.wiki`, 'utf8');
 const cities = JSON.parse(fs.readFileSync('data/cities.json', 'utf8'));
 
+const pron = JSON.parse(fs.readFileSync('data/pronunciation.json', 'utf8')); // run scripts/pronunciation.js to refresh
+
 const GDP_YEAR = 2022;
 // Region as the source writes it -> English.
 const REGIONS = {
@@ -93,6 +95,7 @@ const prefectures = PREFECTURES.map((p) => {
   const kind = { 都: ' Metropolis', 道: '', 府: ' Prefecture', 県: ' Prefecture' }[b.name.slice(-1)];
   return {
     ID: `JP-${p.code}`, Kind: 'prefecture', Name: `${p.romaji}${kind}`,
+    IPA: pron[p.code]?.ipa || '', Respelling: pron[p.code]?.respell || '',
     Region: region, 'Region Key': key,
     Capital: p.capital,
     'Largest City': other || '',
@@ -116,6 +119,7 @@ const islands = ISLANDS.map((s) => {
   const many = s.prefectures.length > 7;
   return {
     ID: `JP-I-${s.id}`, Kind: 'island', Name: s.english,
+    IPA: pron[`I-${s.id}`]?.ipa || '', Respelling: pron[`I-${s.id}`]?.respell || '',
     Region: s.group ? s.groupEnglish : need(WATERS[s.groupEnglish], `sea ${s.groupEnglish}`),
     Prefectures: many ? `${s.prefectures.length} prefectures` : s.prefectures.map(prefRomaji).join(', '),
     Municipalities: s.municipalities,
@@ -129,9 +133,10 @@ rank(islands, ['Population', 'Area', 'Density']);
 
 // Islands largest first, then prefectures in JIS code order (north to south). Anki shows new cards in this order.
 islands.sort((a, z) => z._n.Area - a._n.Area);
-// "Region Key" matches the sub-deck and is not shown, so it keeps the source's spelling.
+// "Region Key" matches the sub-deck and is not shown, so it keeps the source's spelling. The IPA's marks are part of it.
+const AS_IS = new Set(['Region Key', 'IPA']);
 const records = [...islands, ...prefectures].map(({ _n, ...r }) => Object.fromEntries(
-  Object.entries(r).map(([k, v]) => [k, k === 'Region Key' ? v : plainRomaji(v)]),
+  Object.entries(r).map(([k, v]) => [k, AS_IS.has(k) ? v : plainRomaji(v)]),
 ));
 fs.writeFileSync('data/records.json', JSON.stringify(records, null, 1) + '\n');
 console.log(records.length, 'records');

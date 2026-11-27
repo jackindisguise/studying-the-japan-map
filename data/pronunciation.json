@@ -1,0 +1,356 @@
+{
+ "10": {
+  "ipa": "[ɡɯ̟̃mːa̠]",
+  "respell": "GOON-mah",
+  "pitch": "gúꜜǹmà",
+  "title": "群馬"
+ },
+ "11": {
+  "ipa": "[sa̠ita̠ma̠]",
+  "respell": "SY-tah-mah",
+  "pitch": "sáꜜìtàmà",
+  "title": "埼玉"
+ },
+ "12": {
+  "ipa": "[t͡ɕiba̠]",
+  "respell": "CHEE-bah",
+  "pitch": "chíꜜbà",
+  "title": "千葉"
+ },
+ "13": {
+  "ipa": "[to̞ːkʲo̞ː]",
+  "respell": "toh-kyoh",
+  "pitch": "tòókyóó",
+  "title": "東京"
+ },
+ "14": {
+  "ipa": "[ka̠na̠ɡa̠β̞a̠]",
+  "respell": "kah-NAH-gah-wah",
+  "pitch": "kànáꜜgàwà",
+  "title": "神奈川"
+ },
+ "15": {
+  "ipa": "[ɲ̟iːɡa̠ta̠]",
+  "respell": "nee-gah-tah",
+  "pitch": "nìígátá",
+  "title": "新潟"
+ },
+ "16": {
+  "ipa": "[to̞ja̠ma̠]",
+  "respell": "TOH-yah-mah",
+  "pitch": "tóꜜyàmà",
+  "title": "富山"
+ },
+ "17": {
+  "ipa": "[iɕi̥ka̠β̞a̠]",
+  "respell": "ee-shee-kah-wah",
+  "pitch": "ìshíkáwá",
+  "title": "石川"
+ },
+ "18": {
+  "ipa": "[ɸɯ̟kɯ̟i]",
+  "respell": "foo-KOO-ee",
+  "pitch": "fùkúꜜì",
+  "title": "福井"
+ },
+ "19": {
+  "ipa": "[ja̠ma̠na̠ɕi]",
+  "respell": "yah-MAH-nah-shee",
+  "pitch": "yàmáꜜnàshì",
+  "title": "山梨"
+ },
+ "20": {
+  "ipa": "[na̠ɡa̠no̞]",
+  "respell": "NAH-gah-noh",
+  "pitch": "náꜜgànò",
+  "title": "長野"
+ },
+ "21": {
+  "ipa": "[ɡʲiɸɯ̟]",
+  "respell": "gee-foo",
+  "pitch": "gìfú",
+  "title": "岐阜"
+ },
+ "22": {
+  "ipa": "[ɕizɨo̞ka̠]",
+  "respell": "shee-ZOO-oh-kah",
+  "pitch": "shìzúꜜòkà",
+  "title": "静岡"
+ },
+ "23": {
+  "ipa": "[a̠it͡ɕi]",
+  "respell": "AI-chee",
+  "pitch": "áꜜìchì",
+  "title": "愛知"
+ },
+ "24": {
+  "ipa": "[mʲie̞]",
+  "respell": "MEE-eh",
+  "pitch": "míꜜè",
+  "title": "三重"
+ },
+ "25": {
+  "ipa": "[ɕiɡa̠]",
+  "respell": "SHEE-gah",
+  "pitch": "shíꜜgà",
+  "title": "滋賀"
+ },
+ "26": {
+  "ipa": "[kʲo̞ːto̞]",
+  "respell": "KYOH-toh",
+  "pitch": "kyóꜜòtò",
+  "title": "京都"
+ },
+ "27": {
+  "ipa": "[o̞ːsa̠ka̠]",
+  "respell": "oh-sah-kah",
+  "pitch": "òósáká",
+  "title": "大阪"
+ },
+ "28": {
+  "ipa": "[ço̞ːɡo̞]",
+  "respell": "HYOH-goh",
+  "pitch": "hyóꜜògò",
+  "title": "兵庫"
+ },
+ "29": {
+  "ipa": "[na̠ɾa̠]",
+  "respell": "NAH-rah",
+  "pitch": "náꜜrà",
+  "title": "奈良"
+ },
+ "30": {
+  "ipa": "[β̞a̠ka̠ja̠ma̠]",
+  "respell": "wah-KAH-yah-mah",
+  "pitch": "wàkáꜜyàmà",
+  "title": "和歌山"
+ },
+ "31": {
+  "ipa": "[to̞t̚to̞ɾʲi]",
+  "respell": "toht-toh-ree",
+  "pitch": "tòttórí",
+  "title": "鳥取"
+ },
+ "32": {
+  "ipa": "[ɕima̠ne̞]",
+  "respell": "SHEE-mah-neh",
+  "pitch": "shíꜜmànè",
+  "title": "島根"
+ },
+ "33": {
+  "ipa": "[o̞ka̠ja̠ma̠]",
+  "respell": "oh-KAH-yah-mah",
+  "pitch": "òkáꜜyàmà",
+  "title": "岡山"
+ },
+ "34": {
+  "ipa": "[çiɾo̞ɕima̠]",
+  "respell": "hee-roh-shee-mah",
+  "pitch": "hìróshímá",
+  "title": "広島"
+ },
+ "35": {
+  "ipa": "[ja̠ma̠ɡɯ̟t͡ɕi]",
+  "respell": "yah-MAH-goo-chee",
+  "pitch": "yàmáꜜgùchì",
+  "title": "山口"
+ },
+ "36": {
+  "ipa": "[to̞kɯ̟ɕima̠]",
+  "respell": "toh-KOO-shee-mah",
+  "pitch": "tòkúꜜshìmà",
+  "title": "徳島"
+ },
+ "37": {
+  "ipa": "[ka̠ɡa̠β̞a̠]",
+  "respell": "KAH-gah-wah",
+  "pitch": "káꜜgàwà",
+  "title": "香川"
+ },
+ "38": {
+  "ipa": "[e̞çime̞]",
+  "respell": "EH-hee-meh",
+  "pitch": "éꜜhìmè",
+  "title": "愛媛"
+ },
+ "39": {
+  "ipa": "[ko̞ːt͡ɕi]",
+  "respell": "KOH-chee",
+  "pitch": "kóꜜòchì",
+  "title": "高知"
+ },
+ "40": {
+  "ipa": "[ɸɯ̟̊kɯ̟o̞ka̠]",
+  "respell": "foo-KOO-oh-kah",
+  "pitch": "fùkúꜜòkà",
+  "title": "福岡"
+ },
+ "41": {
+  "ipa": "[sa̠ɡa̠]",
+  "respell": "SAH-gah",
+  "pitch": "sáꜜgà",
+  "title": "佐賀"
+ },
+ "42": {
+  "ipa": "[na̠ɡa̠sa̠kʲi]",
+  "respell": "nah-GAH-sah-kee",
+  "pitch": "nàgáꜜsàkì",
+  "title": "長崎"
+ },
+ "43": {
+  "ipa": "[kɯ̟ma̠mo̞to̞]",
+  "respell": "koo-mah-moh-toh",
+  "pitch": "kùmámótó",
+  "title": "熊本"
+ },
+ "44": {
+  "ipa": "[o̞ːita̠]",
+  "respell": "OH-ee-tah",
+  "pitch": "óꜜòìtà",
+  "title": "大分"
+ },
+ "45": {
+  "ipa": "[mʲija̠za̠kʲi]",
+  "respell": "mee-YAH-zah-kee",
+  "pitch": "mìyáꜜzàkì",
+  "title": "宮崎"
+ },
+ "46": {
+  "ipa": "[ka̠ɡo̞ɕima̠]",
+  "respell": "kah-goh-shee-mah",
+  "pitch": "kàgóshímá",
+  "title": "鹿児島"
+ },
+ "47": {
+  "ipa": "[o̞kʲina̠β̞a̠]",
+  "respell": "oh-kee-nah-wah",
+  "pitch": "òkínáwá",
+  "title": "沖縄"
+ },
+ "I-honshu": {
+  "ipa": "[hõ̞ɰ̃ɕɨː]",
+  "respell": "HOHN-shoo",
+  "pitch": "hóꜜǹshùù",
+  "title": "本州"
+ },
+ "I-hokkaido": {
+  "ipa": "[ho̞k̚ka̠ido̞ː]",
+  "respell": "hohk-KY-doh",
+  "pitch": "hòkkáꜜìdòò",
+  "title": "北海道"
+ },
+ "I-kyushu": {
+  "ipa": "[kʲɨːɕɨː]",
+  "respell": "KYOO-shoo",
+  "pitch": "kyúꜜùshùù",
+  "title": "九州"
+ },
+ "I-shikoku": {
+  "ipa": "[ɕiko̞kɯ̟]",
+  "respell": "shee-KOH-koo",
+  "pitch": "shìkóꜜkù",
+  "title": "四国"
+ },
+ "I-okinawa": {
+  "ipa": "[o̞kʲina̠β̞a̠]",
+  "respell": "oh-kee-nah-wah",
+  "pitch": "òkínáwá",
+  "title": "沖縄"
+ },
+ "I-tsushima": {
+  "ipa": "[t͡sɨɕima̠]",
+  "respell": "TSOO-shee-mah",
+  "pitch": "tsúꜜshìmà",
+  "title": "対馬"
+ },
+ "I-awaji": {
+  "ipa": "[a̠β̞a̠ʑi]",
+  "respell": "AH-wah-jee",
+  "pitch": "áꜜwàjì",
+  "title": "淡路"
+ },
+ "I-tanegashima": {
+  "ipa": "[ta̠ne̞ɡa̠ɕima̠]",
+  "respell": "tah-neh-GAH-shee-mah",
+  "pitch": "tànégáꜜshìmà",
+  "title": "種子島"
+ },
+ "I-tokunoshima": {
+  "ipa": "[to̞kɯ̟no̞ɕima̠]",
+  "respell": "toh-koo-noh-shee-mah",
+  "pitch": "tòkúnóshímá",
+  "title": "徳之島"
+ },
+ "I-ishigaki": {
+  "ipa": "[iɕi̥ɡa̠kʲi]",
+  "respell": "ee-shee-gah-kee",
+  "pitch": "ìshígákí",
+  "title": "石垣"
+ },
+ "I-miyako": {
+  "ipa": "[mʲija̠ko̞]",
+  "respell": "MEE-yah-koh",
+  "pitch": "míꜜyàkò",
+  "title": "宮古"
+ },
+ "I-ioto": {
+  "ipa": "[io̞ːto̞ː]",
+  "respell": "ee-oh-toh",
+  "pitch": "ìóótóó",
+  "title": "硫黄島"
+ },
+ "01": {
+  "ipa": "[ho̞k̚ka̠ido̞ː]",
+  "respell": "hohk-KY-doh",
+  "pitch": "hòkkáꜜìdòò",
+  "title": "北海道"
+ },
+ "02": {
+  "ipa": "[a̠o̞mo̞ɾʲi]",
+  "respell": "ah-OH-moh-ree",
+  "pitch": "àóꜜmòrì",
+  "title": "青森"
+ },
+ "03": {
+  "ipa": "[iβ̞a̠te̞]",
+  "respell": "EE-wah-teh",
+  "pitch": "íꜜwàtè",
+  "title": "岩手"
+ },
+ "04": {
+  "ipa": "[mʲija̠ɡʲi]",
+  "respell": "MEE-yah-gee",
+  "pitch": "míꜜyàgì",
+  "title": "宮城"
+ },
+ "05": {
+  "ipa": "[a̠kʲita̠]",
+  "respell": "AH-kee-tah",
+  "pitch": "áꜜkìtà",
+  "title": "秋田"
+ },
+ "06": {
+  "ipa": "[ja̠ma̠ɡa̠ta̠]",
+  "respell": "yah-MAH-gah-tah",
+  "pitch": "yàmáꜜgàtà",
+  "title": "山形"
+ },
+ "07": {
+  "ipa": "[ɸɯ̟kɯ̟ɕima̠]",
+  "respell": "foo-KOO-shee-mah",
+  "pitch": "fùkúꜜshìmà",
+  "title": "福島"
+ },
+ "08": {
+  "ipa": "[iba̠ɾa̠kʲi]",
+  "respell": "ee-BAH-rah-kee",
+  "pitch": "ìbáꜜràkì",
+  "title": "茨城"
+ },
+ "09": {
+  "ipa": "[to̞t͡ɕiɡʲi]",
+  "respell": "TOH-chee-gee",
+  "pitch": "tóꜜchìgì",
+  "title": "栃木"
+ }
+}

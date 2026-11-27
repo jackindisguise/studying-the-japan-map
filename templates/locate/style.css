@@ -87,6 +87,29 @@ body {
   font-weight: 700;
   line-height: 1.15;
 }
+.who {
+  min-width: 0;
+}
+/* The name's pronunciation: IPA, then a plain-English respelling. */
+.ipa {
+  margin-top: 2px;
+  font-size: 13px;
+  line-height: 1.25;
+  color: #7b8a96;
+}
+.say {
+  font-size: 13px;
+  line-height: 1.25;
+  color: #3d4f5e;
+}
+.nightMode .ipa,
+.night_mode .ipa {
+  color: #93a3af;
+}
+.nightMode .say,
+.night_mode .say {
+  color: #c3cdd5;
+}
 .region {
   display: table;
   margin: 6px 0 4px;
@@ -188,6 +211,10 @@ td.k {
   .name {
     font-size: 22px;
   }
+  .say,
+  .ipa {
+    font-size: 11px;
+  }
   .stage .flag img {
     height: 26px;
   }
@@ -255,6 +282,10 @@ td.k {
   }
   .name {
     font-size: 30px;
+  }
+  .say,
+  .ipa {
+    font-size: 14px;
   }
   .stage .flag img {
     height: 40px;

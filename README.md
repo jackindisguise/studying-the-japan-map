@@ -15,6 +15,7 @@ This project holds everything needed to generate the deck's data, maps and packa
 - **Prefectures:** all 47, in red, in one sub-deck per region, ordered north to south (JIS code order).
 - **Front:** the map only. The colour says which is being asked: red for a prefecture, purple for an island. Island maps have no prefecture borders.
 - **Back:** everything is in English, in the usual spellings without macrons. Under the name, prefectures show their flag, region, capital, largest city (when it is not the capital), bordering prefectures, population, GDP, GDP per capita, area, density and governor. Islands show their island group or sea, prefectures, municipalities, population, area and density.
+- **Pronunciation:** under the name, how it is said in Japanese: the IPA from English Wiktionary, then a respelling as in the other map decks (`NAH-gah-noh`). Capitals mark the syllable after which the pitch drops, from the recorded pitch accent; a name whose pitch never drops has none. All 47 prefectures and 12 islands have a pronunciation; the other 25 islands have no recorded pitch accent and show none.
 - **Maps:** one SVG per place, a north-up Mercator view. Far southern islands use wider views.
 - **Zoom boxes:** islands under 400 km² also get a zoomed-in box with a scale bar. Prefectures have none.
 - **Minimum dot size:** as in the World Map deck, when a place covers very little of the map, each of its parts that would be hard to see gets a solid dot in its colour, larger for the tiniest. This covers small islands and the scattered islands of Okinawa prefecture.
@@ -55,7 +56,7 @@ The map fills the screen, and on the back it shifts up into the middle of the ar
 ## Layout
 
 - `scripts/`: data pipeline and map renderer (run everything from the package root).
-- `data/`: committed inputs. Hand-kept: `prefectures.json` (romaji, capitals), `cities.json` (other largest cities), `islands.json` (the island list) and `deck-descriptions.json`. Downloaded: `raw/` and `flags-svg/`. Derived: `records.json`.
+- `data/`: committed inputs. Hand-kept: `prefectures.json` (romaji, capitals), `cities.json` (other largest cities), `islands.json` (the island list) and `deck-descriptions.json`. Downloaded: `raw/` and `flags-svg/`. Derived: `pronunciation.json` and `records.json`.
 - `templates/locate/`: the Anki card template and CSS.
 - `docs/`: the AnkiWeb page (`ankiweb.md`) and the example images.
 - `build/`: generated output (media, `notes.csv`, `.apkg`).
@@ -83,6 +84,8 @@ npm run fetch:refresh
 
 These render single maps (by prefecture code or island id), write the example images, write test screenshots into `build/examples/` (needs Edge or Chrome), and download the sources again.
 
+`npm run pronunciation` builds `data/pronunciation.json` from the cached Wiktionary data (`data/raw/wiktionary/`), fetching only what is missing; `npm run pronunciation:refresh` fetches it all again. A place gains a pronunciation once its Japanese entry lists a pitch accent. The respelling key is at the top of `scripts/respell.js`.
+
 After refreshing, the build stops if something needs a hand: a new largest city needs an entry in `data/cities.json`, and an island outline that no longer matches its published area is reported. Governors' names are romanised from their kana readings by `scripts/romaji.js`; add exceptions to `OVERRIDES` there. The GDP year is `GDP_YEAR` in `scripts/build-records.js`.
 
 ---
@@ -94,6 +97,7 @@ After refreshing, the build stops if something needs a hand: a new largest city 
 - **Population and area:** Wikipedia (CC BY-SA). Prefectures use the 1 October 2025 census; islands the 2020 census.
 - **GDP:** English Wikipedia's table of Cabinet Office figures, fiscal 2022. GDP per capita divides it by the 2025 population. The US dollar values use the 2022 average exchange rate stated in that table.
 - **Capitals, largest cities, regions, governors and island facts:** Wikipedia (CC BY-SA).
+- **Pronunciation:** the Japanese entries of English Wiktionary (CC BY-SA): the pitch accents, mostly cited there from Japanese accent dictionaries, and the IPA Wiktionary renders from them. The respelling is generated from its pitch-marked romaji.
 - **Flags:** Wikimedia Commons, listed there as public domain except Kagawa's (CC BY-SA 3.0); Commons gave no licence name for Hiroshima's through its API. The files for Oita, Miyazaki, Kagoshima and Okinawa were copied from the Commons mirror in [johnmorrisdotca/hata](https://github.com/johnmorrisdotca/hata).
 
 Borders are land borders; prefectures linked only by bridges or tunnels do not count. Island ranks are among the 37 islands in the deck.

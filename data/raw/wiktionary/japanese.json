@@ -1,0 +1,611 @@
+{
+ "entries": {
+  "三宅島": [],
+  "礼文島": [],
+  "礼文": [],
+  "八丈島": [],
+  "八丈": [],
+  "伊豆大島": [],
+  "奥尻島": [],
+  "奥尻": [],
+  "沖永良部島": [],
+  "沖永良部": [],
+  "屋代島": [],
+  "平戸島": [],
+  "中通島": [],
+  "中通": [],
+  "壱岐島": [],
+  "小豆島": [],
+  "利尻島": [],
+  "利尻": [],
+  "天草上島": [],
+  "島後": [],
+  "福江島": [],
+  "福江": [],
+  "天草下島": [],
+  "佐渡島": [],
+  "沖縄島": [],
+  "沖縄": [
+   "{{ja-pron|おきなわ|acc=0|acc_ref=NHK}}"
+  ],
+  "北海道": [
+   "{{ja-pron|ほっかいどう|acc=3|acc_ref=NHK|a=Ja-hokkaido.ogg}}"
+  ],
+  "九州": [
+   "{{ja-pron|きゅうしゅう|a=Ja-Kyushu.ogg|acc=1|acc_ref=NHK}}",
+   "{{ja-pron|きゅうしゅう}}"
+  ],
+  "小豆": [
+   "{{ja-pron|あずき|acc=3|acc_ref=DJR|a=Ja-Adzuki.oga}}",
+   "{{ja-pron|しょうず|acc=0|acc_ref=DJR}}"
+  ],
+  "本州": [
+   "{{ja-pron|ほんしゅう|a=Ja-Honshu.ogg|acc=1|acc_ref=NHK}}"
+  ],
+  "四国": [
+   "{{ja-pron|しこく|acc=2|acc2=1|acc_ref=DJR|acc2_ref=DJR|a=Ja-Shikoku.ogg}}"
+  ],
+  "三宅": [],
+  "対馬": [
+   "{{ja-pron|つしま|acc=1}}"
+  ],
+  "佐渡": [],
+  "淡路": [
+   "{{ja-pron|あわじ|acc=1}}"
+  ],
+  "石垣": [
+   "{{ja-pron|いしがき|acc=0|acc_ref=<ref name=\"KDJ2O\">{{R:Nihon Kokugo Daijiten 2 Online|いし‐がき 【石垣】|lid=20020037eb821950bH1p}}</ref>|dev=2}}"
+  ],
+  "久米": [],
+  "平戸": [],
+  "宮古": [
+   "{{ja-pron|みやこ|acc=1|acc_ref=NHK16}}"
+  ],
+  "種子島": [
+   "{{ja-pron|たねがしま|acc=3|acc_ref=DJR,NHK,SMK5}}"
+  ],
+  "宮古島": [
+   "{{ja-pron|みやこじま|acc=0}}"
+  ],
+  "壱岐": [
+   "{{ja-pron|いき}}"
+  ],
+  "徳之島": [
+   "{{ja-pron|とくのしま|acc=0|acc_ref=NHK}}"
+  ],
+  "石垣島": [],
+  "西表島": [],
+  "久米島": [],
+  "西表": [],
+  "淡路島": [
+   "{{ja-pron|あわじしま}}"
+  ],
+  "屋久島": [],
+  "奄美大島": [
+   "{{ja-pron|あまみ おおしま}}"
+  ],
+  "直島": [],
+  "厳島": [],
+  "東京": [
+   "{{ja-pron|とうきょう|acc=0|audio=Ja-Tokyo.ogg}}",
+   "{{ja-pron|とうけい|acc=0}}",
+   "{{ja-pron|トンキン|acc=1}}"
+  ],
+  "茨城": [
+   "{{ja-pron|いばらき|acc=2|acc_ref=NHK}}",
+   "{{ja-pron|いばらぎ|acc=2}}"
+  ],
+  "青森県": [
+   "{{ja-pron|あおもりけん|acc=4|acc_ref=NHK}}"
+  ],
+  "秋田県": [
+   "{{ja-pron|あきたけん|acc=3|acc_ref=NHK}}"
+  ],
+  "岩手県": [
+   "{{ja-pron|いわてけん|acc=3|acc_ref=NHK}}"
+  ],
+  "山形県": [
+   "{{ja-pron|やまがたけん|acc=4|acc_ref=NHK}}"
+  ],
+  "宮城県": [
+   "{{ja-pron|みやぎけん|acc=3|acc_ref=NHK}}"
+  ],
+  "福島県": [
+   "{{ja-pron|ふくしまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "群馬県": [
+   "{{ja-pron|ぐんまけん|acc=3|acc_ref=NHK}}"
+  ],
+  "茨城県": [
+   "{{ja-pron|いばらきけん|acc=4|acc_ref=NHK}}"
+  ],
+  "栃木県": [
+   "{{ja-pron|とちぎけん|acc=3|acc_ref=NHK}}"
+  ],
+  "埼玉県": [
+   "{{ja-pron|さいたまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "千葉県": [
+   "{{ja-pron|ちばけん|acc=2|acc_ref=NHK}}"
+  ],
+  "東京都": [
+   "{{ja-pron|とうきょうと|acc=3}}"
+  ],
+  "神奈川県": [
+   "{{ja-pron|かながわけん|acc=4|acc_ref=NHK}}"
+  ],
+  "新潟県": [
+   "{{ja-pron|に.いがたけん|acc=4|acc_ref=NHK}}"
+  ],
+  "富山県": [
+   "{{ja-pron|とやまけん|acc=3|acc_ref=NHK}}"
+  ],
+  "石川県": [
+   "{{ja-pron|いしかわけん|acc=4|acc_ref=NHK}}"
+  ],
+  "福井県": [
+   "{{ja-pron|ふくいけん|acc=3|acc_ref=NHK}}"
+  ],
+  "山梨県": [
+   "{{ja-pron|やまなしけん|acc=4|acc_ref=NHK}}"
+  ],
+  "長野県": [
+   "{{ja-pron|ながのけん|acc=3|acc_ref=NHK}}"
+  ],
+  "岐阜県": [
+   "{{ja-pron|ぎふけん|acc=2|acc_ref=NHK}}"
+  ],
+  "静岡県": [
+   "{{ja-pron|しずおかけん|acc=4|acc_ref=NHK}}"
+  ],
+  "愛知県": [
+   "{{ja-pron|あいちけん|acc=3|acc_ref=NHK}}"
+  ],
+  "静岡": [
+   "{{ja-pron|しずおか|acc=2|acc_ref=NHK}}"
+  ],
+  "硫黄島": [
+   "{{ja-pron|いおうとう|acc=0}}",
+   "{{ja-pron|いおうじま|acc=0|acc_ref=NHK|a=Ja-Iwo Jima.ogg}}"
+  ],
+  "山梨": [
+   "{{ja-pron|やまなし|acc=2|acc_ref=NHK,DJR|acc2=0|acc2_ref=DJR}}"
+  ],
+  "福島": [
+   "{{ja-pron|ふくしま|acc=2|acc_ref=NHK}}"
+  ],
+  "宮城": [
+   "{{ja-pron|みやぎ|acc=1|acc_ref=NHK}}",
+   "{{ja-pron|きゅうじょう|acc=0}}"
+  ],
+  "千葉": [
+   "{{ja-pron|ちば|acc=1|acc_ref=NHK}}"
+  ],
+  "石川": [
+   "{{ja-pron|いしかわ|dev=2|acc=0|acc_ref=NHK}}",
+   "{{ja-pron|いしがわ|acc=0|acc_ref=NHK}}"
+  ],
+  "長野": [
+   "{{ja-pron|ながの|acc=1|acc_ref=NHK}}"
+  ],
+  "福井": [
+   "{{ja-pron|ふくい|acc=2|acc2=0|acc_ref=NHK}}"
+  ],
+  "神奈川": [
+   "{{ja-pron|かながわ|acc=2}}"
+  ],
+  "新潟": [
+   "{{ja-pron|にいがた|acc=0|acc_ref=NHK}}"
+  ],
+  "愛知": [
+   "{{ja-pron|あいち|acc=1|acc_ref=NHK}}"
+  ],
+  "埼玉": [
+   "{{ja-pron|さいたま|acc=1|acc_ref=NHK}}"
+  ],
+  "秋田": [
+   "{{ja-pron|あきた|acc=1|acc_ref=NHK}}"
+  ],
+  "岐阜": [
+   "{{ja-pron|ぎふ|acc=0|acc_ref=NHK}}"
+  ],
+  "青森": [
+   "{{ja-pron|あおもり|acc=2|acc_ref=NHK}}"
+  ],
+  "富山": [
+   "{{ja-pron|とやま|acc=1|acc_ref=NHK}}"
+  ],
+  "山形": [
+   "{{ja-pron|やまがた|acc=2|acc_ref=NHK}}"
+  ],
+  "岩手": [
+   "{{ja-pron|いわて|acc=1|acc_ref=NHK}}"
+  ],
+  "栃木": [
+   "{{ja-pron|とちぎ|acc=1|acc_ref=NHK}}"
+  ],
+  "群馬": [
+   "{{ja-pron|ぐんま|acc=1|acc_ref=NHK}}"
+  ],
+  "与那国": [
+   "{{ja-pron|よなぐに}}"
+  ],
+  "父島": [],
+  "与那国島": [],
+  "京都": [
+   "{{ja-pron|きょうと|acc=1|a=Ja-Kyoto.ogg|acc_ref=<ref name=\"NKD2O\"/>}}"
+  ],
+  "長崎": [
+   "{{ja-pron|ながさき|acc=2|acc_ref=NHK|a=Ja-Nagasaki.ogg}}"
+  ],
+  "長崎県": [
+   "{{ja-pron|ながさきけん|acc=4|acc_ref=NHK}}"
+  ],
+  "大阪": [
+   "{{ja-pron|おおさか|acc=0|acc_ref=NHK,NKD2,ZAJ|a=Ja-Osaka.ogg}}",
+   "{{ja-pron|おおざか}}"
+  ],
+  "三重": [
+   "{{ja-pron|みえ|acc=1|acc_ref=NHK}}"
+  ],
+  "奈良": [
+   "{{ja-pron|なら|acc=1|acc_ref=NHK|a=LL-Q5287 (jpn)-LaKoalita-奈良.wav}}"
+  ],
+  "三重県": [
+   "{{ja-pron|みえけん|acc=2|acc_ref=NHK}}"
+  ],
+  "滋賀県": [
+   "{{ja-pron|しがけん|acc=2|acc_ref=NHK}}"
+  ],
+  "京都府": [
+   "{{ja-pron|きょうとふ|acc=3}}"
+  ],
+  "大阪府": [
+   "{{ja-pron|おおさかふ|acc=4}}"
+  ],
+  "兵庫県": [
+   "{{ja-pron|ひょうごけん|acc=3|acc_ref=NHK}}"
+  ],
+  "奈良県": [
+   "{{ja-pron|ならけん|acc=2|acc_ref=NHK}}"
+  ],
+  "和歌山県": [
+   "{{ja-pron|わかやまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "鳥取県": [
+   "{{ja-pron|とっとりけん|acc=4|acc_ref=NHK}}"
+  ],
+  "島根県": [
+   "{{ja-pron|しまねけん|acc=3|acc_ref=NHK}}"
+  ],
+  "岡山県": [
+   "{{ja-pron|おかやまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "広島県": [
+   "{{ja-pron|ひろしまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "山口県": [
+   "{{ja-pron|やまぐちけん|acc=4|acc_ref=NHK}}"
+  ],
+  "徳島県": [
+   "{{ja-pron|とくしまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "香川県": [
+   "{{ja-pron|かがわけん|acc=3|acc_ref=NHK}}"
+  ],
+  "愛媛県": [
+   "{{ja-pron|えひめけん|acc=3|acc_ref=NHK}}"
+  ],
+  "高知県": [
+   "{{ja-pron|こうちけん|acc=3|acc_ref=NHK}}"
+  ],
+  "福岡県": [
+   "{{ja-pron|ふくおかけん|acc=4|acc_ref=NHK}}"
+  ],
+  "佐賀県": [
+   "{{ja-pron|さがけん|acc=2|acc_ref=NHK}}"
+  ],
+  "熊本県": [
+   "{{ja-pron|くまもとけん|acc=4|acc_ref=NHK}}"
+  ],
+  "大分県": [
+   "{{ja-pron|おおいたけん|acc=4|acc_ref=NHK}}"
+  ],
+  "宮崎県": [
+   "{{ja-pron|みやざきけん|acc=4|acc_ref=NHK}}"
+  ],
+  "鹿児島県": [
+   "{{ja-pron|かごしまけん|acc=4|acc_ref=NHK}}"
+  ],
+  "沖縄県": [
+   "{{ja-pron|おきなわけん|acc=4|acc_ref=NHK}}"
+  ],
+  "山口": [
+   "{{ja-pron|やまぐち|acc=2|acc_ref=DJR}}"
+  ],
+  "福岡": [
+   "{{ja-pron|ふくおか|acc=2|acc_ref=NHK|dev=1}}"
+  ],
+  "広島": [
+   "{{ja-pron|ひろしま|acc=h|a=Ja-Hiroshima.ogg}}"
+  ],
+  "香川": [
+   "{{ja-pron|かがわ|acc=1|acc_ref=NHK}}"
+  ],
+  "宮崎": [
+   "{{ja-pron|みやざき|acc=2|acc_ref=NHK}}",
+   "{{ja-pron|みやさき|acc=2}}"
+  ],
+  "大分": [
+   "{{ja-pron|だいぶ|acc=0|acc_ref=SMK2}}",
+   "{{ja-pron|おおいた|acc=1}}"
+  ],
+  "鹿児島": [
+   "{{ja-pron|かごしま|acc=0|acc_ref=NHK}}",
+   "{{ja-pron|かごひま|かごいま|かごっま|かごんま}}"
+  ],
+  "岡山": [
+   "{{ja-pron|おかやま|acc=2|acc_ref=NHK}}"
+  ],
+  "兵庫": [
+   "{{ja-pron|ひょうご|acc=1|acc_ref=NHK}}"
+  ],
+  "熊本": [
+   "{{ja-pron|くまもと|acc=0|acc_ref=NHK}}"
+  ],
+  "徳島": [
+   "{{ja-pron|とくしま|acc=2|acc_ref=NHK}}"
+  ],
+  "和歌山": [
+   "{{ja-pron|わかやま|acc=2|acc_ref=NHK}}"
+  ],
+  "佐賀": [
+   "{{ja-pron|さが|acc=1|acc_ref=NHK}}"
+  ],
+  "鳥取": [
+   "{{ja-pron|とっとり|acc=0|acc_ref=NHK}}"
+  ],
+  "高知": [
+   "{{ja-pron|こうち|acc=1|acc_ref=NHK}}"
+  ],
+  "愛媛": [
+   "{{ja-pron|えひめ|acc=1|acc_ref=NHK}}"
+  ],
+  "滋賀": [
+   "{{ja-pron|しが|acc=1|acc_ref=NHK}}"
+  ],
+  "島根": [
+   "{{ja-pron|しまね|acc=1|acc_ref=NHK}}"
+  ]
+ },
+ "rendered": {
+  "{{ja-pron|ほんしゅう|acc=1}}": {
+   "ipa": "[hõ̞ɰ̃ɕɨː]",
+   "pitch": "hóꜜǹshùù"
+  },
+  "{{ja-pron|ほっかいどう|acc=3}}": {
+   "ipa": "[ho̞k̚ka̠ido̞ː]",
+   "pitch": "hòkkáꜜìdòò"
+  },
+  "{{ja-pron|きゅうしゅう|acc=1}}": {
+   "ipa": "[kʲɨːɕɨː]",
+   "pitch": "kyúꜜùshùù"
+  },
+  "{{ja-pron|しこく|acc=2|acc2=1}}": {
+   "ipa": "[ɕiko̞kɯ̟]",
+   "pitch": "shìkóꜜkù"
+  },
+  "{{ja-pron|おきなわ|acc=0}}": {
+   "ipa": "[o̞kʲina̠β̞a̠]",
+   "pitch": "òkínáwá"
+  },
+  "{{ja-pron|つしま|acc=1}}": {
+   "ipa": "[t͡sɨɕima̠]",
+   "pitch": "tsúꜜshìmà"
+  },
+  "{{ja-pron|あわじ|acc=1}}": {
+   "ipa": "[a̠β̞a̠ʑi]",
+   "pitch": "áꜜwàjì"
+  },
+  "{{ja-pron|たねがしま|acc=3}}": {
+   "ipa": "[ta̠ne̞ɡa̠ɕima̠]",
+   "pitch": "tànégáꜜshìmà"
+  },
+  "{{ja-pron|とくのしま|acc=0}}": {
+   "ipa": "[to̞kɯ̟no̞ɕima̠]",
+   "pitch": "tòkúnóshímá"
+  },
+  "{{ja-pron|いしがき|acc=0|dev=2}}": {
+   "ipa": "[iɕi̥ɡa̠kʲi]",
+   "pitch": "ìshígákí"
+  },
+  "{{ja-pron|みやこ|acc=1}}": {
+   "ipa": "[mʲija̠ko̞]",
+   "pitch": "míꜜyàkò"
+  },
+  "{{ja-pron|いおうとう|acc=0}}": {
+   "ipa": "[io̞ːto̞ː]",
+   "pitch": "ìóótóó"
+  },
+  "{{ja-pron|あおもり|acc=2}}": {
+   "ipa": "[a̠o̞mo̞ɾʲi]",
+   "pitch": "àóꜜmòrì"
+  },
+  "{{ja-pron|いわて|acc=1}}": {
+   "ipa": "[iβ̞a̠te̞]",
+   "pitch": "íꜜwàtè"
+  },
+  "{{ja-pron|みやぎ|acc=1}}": {
+   "ipa": "[mʲija̠ɡʲi]",
+   "pitch": "míꜜyàgì"
+  },
+  "{{ja-pron|あきた|acc=1}}": {
+   "ipa": "[a̠kʲita̠]",
+   "pitch": "áꜜkìtà"
+  },
+  "{{ja-pron|やまがた|acc=2}}": {
+   "ipa": "[ja̠ma̠ɡa̠ta̠]",
+   "pitch": "yàmáꜜgàtà"
+  },
+  "{{ja-pron|ふくしま|acc=2}}": {
+   "ipa": "[ɸɯ̟kɯ̟ɕima̠]",
+   "pitch": "fùkúꜜshìmà"
+  },
+  "{{ja-pron|いばらき|acc=2}}": {
+   "ipa": "[iba̠ɾa̠kʲi]",
+   "pitch": "ìbáꜜràkì"
+  },
+  "{{ja-pron|とちぎ|acc=1}}": {
+   "ipa": "[to̞t͡ɕiɡʲi]",
+   "pitch": "tóꜜchìgì"
+  },
+  "{{ja-pron|ぐんま|acc=1}}": {
+   "ipa": "[ɡɯ̟̃mːa̠]",
+   "pitch": "gúꜜǹmà"
+  },
+  "{{ja-pron|さいたま|acc=1}}": {
+   "ipa": "[sa̠ita̠ma̠]",
+   "pitch": "sáꜜìtàmà"
+  },
+  "{{ja-pron|ちば|acc=1}}": {
+   "ipa": "[t͡ɕiba̠]",
+   "pitch": "chíꜜbà"
+  },
+  "{{ja-pron|とうきょう|acc=0}}": {
+   "ipa": "[to̞ːkʲo̞ː]",
+   "pitch": "tòókyóó"
+  },
+  "{{ja-pron|かながわ|acc=2}}": {
+   "ipa": "[ka̠na̠ɡa̠β̞a̠]",
+   "pitch": "kànáꜜgàwà"
+  },
+  "{{ja-pron|にいがた|acc=0}}": {
+   "ipa": "[ɲ̟iːɡa̠ta̠]",
+   "pitch": "nìígátá"
+  },
+  "{{ja-pron|とやま|acc=1}}": {
+   "ipa": "[to̞ja̠ma̠]",
+   "pitch": "tóꜜyàmà"
+  },
+  "{{ja-pron|いしかわ|dev=2|acc=0}}": {
+   "ipa": "[iɕi̥ka̠β̞a̠]",
+   "pitch": "ìshíkáwá"
+  },
+  "{{ja-pron|ふくい|acc=2|acc2=0}}": {
+   "ipa": "[ɸɯ̟kɯ̟i]",
+   "pitch": "fùkúꜜì"
+  },
+  "{{ja-pron|やまなし|acc=2|acc2=0}}": {
+   "ipa": "[ja̠ma̠na̠ɕi]",
+   "pitch": "yàmáꜜnàshì"
+  },
+  "{{ja-pron|ながの|acc=1}}": {
+   "ipa": "[na̠ɡa̠no̞]",
+   "pitch": "náꜜgànò"
+  },
+  "{{ja-pron|ぎふ|acc=0}}": {
+   "ipa": "[ɡʲiɸɯ̟]",
+   "pitch": "gìfú"
+  },
+  "{{ja-pron|しずおか|acc=2}}": {
+   "ipa": "[ɕizɨo̞ka̠]",
+   "pitch": "shìzúꜜòkà"
+  },
+  "{{ja-pron|あいち|acc=1}}": {
+   "ipa": "[a̠it͡ɕi]",
+   "pitch": "áꜜìchì"
+  },
+  "{{ja-pron|みえ|acc=1}}": {
+   "ipa": "[mʲie̞]",
+   "pitch": "míꜜè"
+  },
+  "{{ja-pron|しが|acc=1}}": {
+   "ipa": "[ɕiɡa̠]",
+   "pitch": "shíꜜgà"
+  },
+  "{{ja-pron|きょうと|acc=1}}": {
+   "ipa": "[kʲo̞ːto̞]",
+   "pitch": "kyóꜜòtò"
+  },
+  "{{ja-pron|おおさか|acc=0}}": {
+   "ipa": "[o̞ːsa̠ka̠]",
+   "pitch": "òósáká"
+  },
+  "{{ja-pron|ひょうご|acc=1}}": {
+   "ipa": "[ço̞ːɡo̞]",
+   "pitch": "hyóꜜògò"
+  },
+  "{{ja-pron|なら|acc=1}}": {
+   "ipa": "[na̠ɾa̠]",
+   "pitch": "náꜜrà"
+  },
+  "{{ja-pron|わかやま|acc=2}}": {
+   "ipa": "[β̞a̠ka̠ja̠ma̠]",
+   "pitch": "wàkáꜜyàmà"
+  },
+  "{{ja-pron|とっとり|acc=0}}": {
+   "ipa": "[to̞t̚to̞ɾʲi]",
+   "pitch": "tòttórí"
+  },
+  "{{ja-pron|しまね|acc=1}}": {
+   "ipa": "[ɕima̠ne̞]",
+   "pitch": "shíꜜmànè"
+  },
+  "{{ja-pron|おかやま|acc=2}}": {
+   "ipa": "[o̞ka̠ja̠ma̠]",
+   "pitch": "òkáꜜyàmà"
+  },
+  "{{ja-pron|ひろしま|acc=h}}": {
+   "ipa": "[çiɾo̞ɕima̠]",
+   "pitch": "hìróshímá"
+  },
+  "{{ja-pron|やまぐち|acc=2}}": {
+   "ipa": "[ja̠ma̠ɡɯ̟t͡ɕi]",
+   "pitch": "yàmáꜜgùchì"
+  },
+  "{{ja-pron|とくしま|acc=2}}": {
+   "ipa": "[to̞kɯ̟ɕima̠]",
+   "pitch": "tòkúꜜshìmà"
+  },
+  "{{ja-pron|かがわ|acc=1}}": {
+   "ipa": "[ka̠ɡa̠β̞a̠]",
+   "pitch": "káꜜgàwà"
+  },
+  "{{ja-pron|えひめ|acc=1}}": {
+   "ipa": "[e̞çime̞]",
+   "pitch": "éꜜhìmè"
+  },
+  "{{ja-pron|こうち|acc=1}}": {
+   "ipa": "[ko̞ːt͡ɕi]",
+   "pitch": "kóꜜòchì"
+  },
+  "{{ja-pron|ふくおか|acc=2|dev=1}}": {
+   "ipa": "[ɸɯ̟̊kɯ̟o̞ka̠]",
+   "pitch": "fùkúꜜòkà"
+  },
+  "{{ja-pron|さが|acc=1}}": {
+   "ipa": "[sa̠ɡa̠]",
+   "pitch": "sáꜜgà"
+  },
+  "{{ja-pron|ながさき|acc=2}}": {
+   "ipa": "[na̠ɡa̠sa̠kʲi]",
+   "pitch": "nàgáꜜsàkì"
+  },
+  "{{ja-pron|くまもと|acc=0}}": {
+   "ipa": "[kɯ̟ma̠mo̞to̞]",
+   "pitch": "kùmámótó"
+  },
+  "{{ja-pron|おおいた|acc=1}}": {
+   "ipa": "[o̞ːita̠]",
+   "pitch": "óꜜòìtà"
+  },
+  "{{ja-pron|みやざき|acc=2}}": {
+   "ipa": "[mʲija̠za̠kʲi]",
+   "pitch": "mìyáꜜzàkì"
+  },
+  "{{ja-pron|かごしま|acc=0}}": {
+   "ipa": "[ka̠ɡo̞ɕima̠]",
+   "pitch": "kàgóshímá"
+  }
+ }
+}

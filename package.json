@@ -5,8 +5,10 @@
 	"type": "module",
 	"description": "Scripts and data to generate the notes and map images for the Japan Map Anki deck.",
 	"scripts": {
-		"fetch": "node scripts/fetch-all.js && node scripts/fetch-flags.js",
-		"fetch:refresh": "node scripts/fetch-all.js --refresh && node scripts/fetch-flags.js --refresh",
+		"fetch": "node scripts/fetch-all.js && node scripts/fetch-flags.js && npm run pronunciation",
+		"fetch:refresh": "node scripts/fetch-all.js --refresh && node scripts/fetch-flags.js --refresh && npm run pronunciation:refresh",
+		"pronunciation": "node scripts/pronunciation.js",
+		"pronunciation:refresh": "node scripts/pronunciation.js --refresh",
 		"records": "node scripts/build-records.js",
 		"render": "node scripts/render-all.js",
 		"notes": "node scripts/build-notes.js",
