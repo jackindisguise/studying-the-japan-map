@@ -12,7 +12,7 @@ const REGIONS = [
 ];
 const FIELDS = [
   'Name', 'Map', 'Region', 'Capital', 'Largest City', 'Prefectures', 'Municipalities', 'Borders',
-  'Population', 'GDP', 'GDP USD', 'GDP per Capita', 'GDP per Capita USD', 'Area', 'Density', 'Governor', 'As Of', 'Kind', 'ID', 'Flag',
+  'Population', 'GDP', 'GDP USD', 'GDP per Capita', 'GDP per Capita USD', 'Area', 'Density', 'Governor', 'As Of', 'Kind', 'ID', 'Flag', 'IPA', 'Respelling',
 ];
 
 // Already in study order: islands from largest to smallest, then prefectures from north to south.

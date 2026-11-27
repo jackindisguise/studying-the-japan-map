@@ -13,31 +13,50 @@
 
 Find the highlighted place on a north-up map, then flip for the answer: red is a prefecture, purple is an island.
 
-The back shows the name and facts in English. Prefectures include their flag, capital, borders, population, GDP, area, density and governor. Islands include their group or sea, prefectures, municipalities, population, area and density.
+The back shows the name and facts in English, with the Japanese pronunciation under most names. Prefectures include their flag, capital, borders, population, GDP, area, density and governor. Islands include their group or sea, prefectures, municipalities, population, area and density.
 
 ### Prefectures
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate-front.png" alt="Prefecture, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate-back.png" alt="Prefecture, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate.png" alt="Prefecture: front and back" width="900">
 
 ### Islands
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island-front.png" alt="Island, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island-back.png" alt="Island, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island.png" alt="Island: front and back" width="900">
 
 ### Tiny islands
 Small islands get a zoomed-in box with a scale bar, and the hardest to see also get a dot on the main map.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/zoom-front.png" alt="Tiny island, front" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/zoom.png" alt="Tiny island: front and back" width="900">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate-front.png" alt="Prefecture on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate-back.png" alt="Prefecture on a phone, back" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island-front.png" alt="Island on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island-back.png" alt="Island on a phone, back" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-zoom-front.png" alt="Tiny island on a phone, front" width="240">
+#### Prefectures
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate.png" alt="Prefecture on a phone: front and back" width="440">
+
+#### Islands
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island.png" alt="Island on a phone: front and back" width="440">
+
+#### Tiny islands
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-zoom.png" alt="Tiny island on a phone: front and back" width="440">
+
+---
+
+## Pronunciation
+Each name with a pronunciation shows how it is said in Japanese, in two forms:
+
+> **Nagano Prefecture**
+>
+> [na̠ɡa̠no̞]
+>
+> NAH-gah-noh
+
+In the respelling, hyphens separate the syllables. Capitals mark the syllable after which the pitch drops; a name whose pitch never drops, like *hee-roh-shee-mah* (Hiroshima), has none.
+
+- **Vowels:** *ah* father, *ee* see, *oo* goose, *eh* bed, *oh* goat, *ai* price (written *y* after a consonant, as in *hohk-KY-doh*)
+- **Consonants:** *ch*, *j*, *sh*, *ts* (cats), *y* (yes); *g* is always hard, and the rest are as written
+
+All 47 prefectures and 12 islands have a pronunciation. The other 25 islands have no recorded pitch accent on Wiktionary, so none is shown.
 
 ---
 
@@ -52,6 +71,7 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 
 - US dollar GDP values use the 2022 average exchange rate.
 - Prefecture population is from the 2025 census, GDP from fiscal 2022, island population from the 2020 census. Governors are those listed in November 2026.
+- Pronunciations are standard (Tokyo) Japanese; only one is shown, and the respelling is generated automatically. Iwo Jima's is that of its Japanese name, *Iōtō*.
 - Governors' romanised names are generated from their kana readings.
 - Borders are land borders only. Island ranks are among the 37 islands in the deck.
 - Small islands have simplified outlines.
@@ -62,6 +82,7 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 
 - **Map data:** processed from the National Land Numerical Information (administrative area data), Ministry of Land, Infrastructure, Transport and Tourism, Japan (simplified by SmartNews Media Research Institute), and Natural Earth.
 - **Facts:** Wikipedia (CC BY-SA).
+- **Pronunciation:** Japanese IPA and pitch accents from English Wiktionary (CC BY-SA); the respelling is generated from them.
 - **Flags:** Wikimedia Commons; Kagawa's flag file is CC BY-SA 3.0.
 
 ---
