@@ -17,27 +17,28 @@ The back shows the name and facts in English. Prefectures include their flag, ca
 
 ### Prefectures
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate-front.png" alt="Prefecture, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate-back.png" alt="Prefecture, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/locate.png" alt="Prefecture: front and back" width="900">
 
 ### Islands
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island-front.png" alt="Island, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island-back.png" alt="Island, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/island.png" alt="Island: front and back" width="900">
 
 ### Tiny islands
 Small islands get a zoomed-in box with a scale bar, and the hardest to see also get a dot on the main map.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/zoom-front.png" alt="Tiny island, front" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/zoom.png" alt="Tiny island: front and back" width="900">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate-front.png" alt="Prefecture on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate-back.png" alt="Prefecture on a phone, back" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island-front.png" alt="Island on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island-back.png" alt="Island on a phone, back" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-zoom-front.png" alt="Tiny island on a phone, front" width="240">
+#### Prefectures
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-locate.png" alt="Prefecture on a phone: front and back" width="440">
+
+#### Islands
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-island.png" alt="Island on a phone: front and back" width="440">
+
+#### Tiny islands
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-japan-map/main/docs/images/phone-zoom.png" alt="Tiny island on a phone: front and back" width="440">
 
 ---
 

@@ -23,26 +23,31 @@ This project holds everything needed to generate the deck's data, maps and packa
 
 ## Examples
 
-Screenshots rendered from the card templates with `node scripts/build-examples.js`.
+Screenshots rendered from the card templates with `node scripts/build-examples.js`, inside a mock Anki window and phone screen.
+
+### Desktop
+
+**Prefecture** (Nagano): find the red prefecture, then flip for its facts.
+
+<img src="docs/images/locate.png" alt="Prefecture: front and back" width="100%">
+
+**Island** (Sado): islands are highlighted in purple.
+
+<img src="docs/images/island.png" alt="Island: front and back" width="100%">
+
+**Tiny islands** (Naoshima): very small islands get a dot on the main map and a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="docs/images/zoom.png" alt="Naoshima with a dot and a zoom box: front and back" width="100%">
+
+### Phone
+
+The map fills the screen, and on the back it shifts up into the middle of the area above the details panel.
 
 <table>
-<tr><td align="center">Front</td><td align="center">Back</td></tr>
-<tr><td><img src="docs/images/locate-front.png" alt="Prefecture, front" width="480"></td><td><img src="docs/images/locate-back.png" alt="Prefecture, back" width="480"></td></tr>
-<tr><td><img src="docs/images/island-front.png" alt="Island, front" width="480"></td><td><img src="docs/images/island-back.png" alt="Island, back" width="480"></td></tr>
-</table>
-
-<table>
-<tr><td align="center">Phone front</td><td align="center">Phone back</td></tr>
-<tr><td><img src="docs/images/phone-locate-front.png" alt="Prefecture on a phone, front" width="200"></td><td><img src="docs/images/phone-locate-back.png" alt="Prefecture on a phone, back" width="200"></td></tr>
-</table>
-
-### Tiny islands
-
-Very small islands (here Naoshima) get a dot on the main map and a zoomed-in box in the top-left corner, with a scale bar.
-
-<table>
-<tr><td align="center">Desktop</td><td align="center">Phone</td></tr>
-<tr><td><img src="docs/images/zoom-front.png" alt="Naoshima with a dot and a zoom box" width="480"></td><td><img src="docs/images/phone-zoom-front.png" alt="Naoshima on a phone" width="200"></td></tr>
+<tr><td align="center">Prefecture</td><td align="center">Island</td></tr>
+<tr><td><img src="docs/images/phone-locate.png" alt="Prefecture on a phone: front and back" width="420"></td><td><img src="docs/images/phone-island.png" alt="Island on a phone: front and back" width="420"></td></tr>
+<tr><td align="center" colspan="2">Tiny island (Naoshima)</td></tr>
+<tr><td align="center" colspan="2"><img src="docs/images/phone-zoom.png" alt="Naoshima on a phone: front and back" width="420"></td></tr>
 </table>
 
 ---
