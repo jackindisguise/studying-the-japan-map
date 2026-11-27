@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jackindisguise/studying-the-japan-map/compare/v1.0.1...v1.1.0) (2026-11-27)
+
+
+### Features
+
+* add Japanese pronunciations to the cards ([ee51c55](https://github.com/jackindisguise/studying-the-japan-map/commit/ee51c555016c79e826fbe725404342346371fee0))
+
 ## [1.0.1](https://github.com/jackindisguise/studying-the-japan-map/compare/v1.0.0...v1.0.1) (2026-11-26)
 
 
